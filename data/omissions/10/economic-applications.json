@@ -1,0 +1,62 @@
+{
+  "subject_code": "87",
+  "subject_name": "Economic Applications",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/19.-Economic-Applications.pdf",
+  "source_pdf_sha256": "70e73ad7396379d8348f7edbfd8bfa4bc3ec073b72d33b2abbc74398aeb7a5dc",
+  "ingested_at": "2026-05-21T12:15:36.355Z",
+  "entries": [
+    {
+      "chapter": "Demand and Supply: Basic Concepts",
+      "chapter_order": 1,
+      "topic": "Demand -Meaning and Types of Demand Supply - Meaning",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "Demand -Meaning and Types of Demand Supply - Meaning Law of demand and supply: demand and supply schedule and curve (both individual and market); movement and shift of the demand and supply curve; determinants of demand and supply; exceptions to the law of demand. Meaning of Demand and Supply. Types of Demand (Joint Demand, Derived Demand and Composite Demand). A basic understanding of the law of demand and supply in which demand and supply schedules are to be used to explain the demand and supp",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Factors of Production: Basic Concepts",
+      "chapter_order": 2,
+      "topic": "Factors of Production: Basic Concepts",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "Factors of production-Land, Labour, Capital and Entrepreneur. Land- meaning and characteristics, functions and factors affecting productivity of land. Destruction of ecosystem due to changing patterns of land use, migration, industrialization, shifting cultivation, dwelling units, mining, urbanization, construction of dams, etc. Labour- meaning and characteristics. Division of labour - meaning, types, advantages and disadvantages. Efficiency of labour- meaning, reasons for low efficiency of Indi",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Alternative Market Structures: Basic Concepts",
+      "chapter_order": 3,
+      "topic": "Alternative Market Structures: Basic Concepts",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "Nature and structure of markets- Perfectly competitive market, Monopoly market, monopolistically competitive market, concept of product differentiation, Monopsony market, and Oligopoly market. The main features of the following market structures are to be discussed in the context of present business scenario– Perfectly competitive market, Monopoly market, monopolistically competitive market, Monopsony market (meaning to be highlighted). Oligopoly market (only meaning with examples).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The State and Economic Development",
+      "chapter_order": 4,
+      "topic": "The State and Economic Development",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "The role of State in promoting development; the instruments of State intervention- fiscal policy and monetary policy; The Public sector enterprises - their role and problems; the issue of privatization of public enterprises. A basic understanding of the role of the State in the economy needs to be highlighted in the context of Indian economy. The meaning of fiscal policy. Direct and Indirect Taxes (meaning, merits and demerits), Types of Taxes (progressive, regressive, proportional and degressiv",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Money and Banking: Basic Concepts",
+      "chapter_order": 5,
+      "topic": "Money and Banking: Basic Concepts",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "Money: meaning, functions of Money; Inflation - meaning, effects of inflation on the functioning of the economy (in brief). Banking: Commercial Banks - functions; Central Bank - functions; quantitative and qualitative credit control measures adopted by RBI. A basic understanding of the concepts of money, its functions. Meaning and types of inflation to be discussed (Creeping, Walking, Running and Hyper-inflation). The impact of inflation on various economic entities such as debtors and creditors",
+      "effective_session": "2027-28"
+    }
+  ]
+}

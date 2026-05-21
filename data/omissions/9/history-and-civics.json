@@ -1,0 +1,172 @@
+{
+  "subject_code": "50",
+  "subject_name": "History and Civics",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/5.-History-Civics.pdf",
+  "source_pdf_sha256": "3591b7507842daf80717ee536581cd4cfa8430214688485d62f758decd33fc78",
+  "ingested_at": "2026-05-21T12:15:35.972Z",
+  "entries": [
+    {
+      "chapter": "Our Constitution",
+      "chapter_order": 1,
+      "topic": "Our Constitution",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "Definition of Constitution - date of adoption, date of enforcement and its significance. Features: Single Citizenship, Universal Adult Franchise, Fundamental Rights and Fundamental Duties, Directive Principles of State Policy (meaning), Difference between Fundamental Rights and Directive Principles, Meaning of a Welfare State.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Elections",
+      "chapter_order": 2,
+      "topic": "Elections",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "Meaning; Composition and functions of Election Commission of India; Direct and Indirect election; General election; Mid-term election and By-election.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The State Legislatures",
+      "chapter_order": 3,
+      "topic": "HISTORY AND CIVICS",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "HISTORY AND CIVICS SECTION B: HISTORY",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Harappan Civilisation",
+      "chapter_order": 1,
+      "topic": "The Harappan Civilisation",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Sources: Great Bath, Citadel, seals, bearded man, dancing girl, dockyard, granaries, script. Urban planning, trade, art & craft, and its decline.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Vedic Period",
+      "chapter_order": 2,
+      "topic": "The Vedic Period",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Sources: Names of the four Vedas and importance of epics. Early Vedic Period- Social Organisation- Family, Position of the king; Rig Vedic Assemblies- Sabha, Samiti, Vidhatha. Brief comparative study of the position of women in Early and Later Vedic society. A brief comparison between the economy of Early and Later Vedic Period. The four class divisions, the four Ashramas and the education system.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Jainism and Buddhism",
+      "chapter_order": 3,
+      "topic": "Doctrines- Jainism-Tri-ratnas, Karma, Equality, Moksha",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Doctrines- Jainism-Tri-ratnas, Karma, Equality, Moksha Buddhism- The Four Noble truths, The Eight-fold path, Nirvana.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Mauryan Empire",
+      "chapter_order": 4,
+      "topic": "The Mauryan Empire",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Sources: Arthashastra, Indika, Ashokan Edicts, Sanchi Stupa. Names of the kings in chronological order and administration; Ashoka’s Dhamma - Principles and Impact",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Sangam Age",
+      "chapter_order": 5,
+      "topic": "Economy - Agriculture and Trade",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Economy - Agriculture and Trade",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Age of the Guptas",
+      "chapter_order": 6,
+      "topic": "The Age of the Guptas",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Sources: Account of Fa-hien; Allahabad Pillar Inscription. Names of the kings in chronological order; administration; Contribution to the fields of Education (Nalanda University), Science (Aryabhatta), Sushrutha (medicine) and Culture (works of Kalidasa, Deogarh temple).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Medieval India",
+      "chapter_order": 7,
+      "topic": "(a) The Cholas",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(a) The Cholas Sources: Inscriptions; Brihadishwara Temple. Names of the kings in chronological order and administration; Chola art.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Medieval India",
+      "chapter_order": 7,
+      "topic": "(b) The Delhi Sultanate",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(b) The Delhi Sultanate Sources: Inscriptions; Qutab Minar. Names of the dynasties in chronological order Alauddin Khilji – Market Regulations, Deccan Expedition, Measures against nobility, Military reforms, Revenue reforms Muhammad Bin Tughlaq-Transfer of capital, Token Currency, Taxation in Doab, Plan of conquests.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Medieval India",
+      "chapter_order": 7,
+      "topic": "(c) The Mughal Empire",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(c) The Mughal Empire Sources: Ain-i-Akbari, Taj Mahal, Jama Masjid and Red Fort. Names of the kings in chronological order. Babur- The three battles waged to consolidate his empire. Akbar-Rajput Policy, Steps towards integration, social and educational reforms, mansabdari system.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Medieval India",
+      "chapter_order": 7,
+      "topic": "(d) Composite Culture",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(d) Composite Culture Factors responsible for composite culture, principles of the Bhakti and Sufi movement, impact of composite culture, impact of the Bhakti Movement, the Sufi Movement and Christian missionaries.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Modern Age in Europe",
+      "chapter_order": 8,
+      "topic": "(a) Renaissance",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(a) Renaissance Definition, causes (capture of Constantinople, decline of Feudalism, new trade routes, spirit of enquiry and invention of the printing press) and impact on art, literature and science (Leonardo Da Vinci, William Shakespeare and Copernicus). Consequences of Renaissance.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Modern Age in Europe",
+      "chapter_order": 8,
+      "topic": "(b) Reformation",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(b) Reformation Meaning, Causes of reformation (dissatisfaction with the practices of the Catholic Church and new learning); Martin Luther’s contribution, Counter Reformation.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Modern Age in Europe",
+      "chapter_order": 8,
+      "topic": "(c) Industrial Revolution",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(c) Industrial Revolution Definition of the term. Causes of Industrial Revolution, meaning of capitalism and causes for the rise of capitalism, meaning of socialism and causes for the rise of socialism.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

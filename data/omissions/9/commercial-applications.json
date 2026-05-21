@@ -1,0 +1,142 @@
+{
+  "subject_code": "88",
+  "subject_name": "Commercial Applications",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/20.-Commercial-Applications.pdf",
+  "source_pdf_sha256": "53e2bdfaccfbd77855a0352d52423fea24b9246f07291d1f379ed13423230a8e",
+  "ingested_at": "2026-05-21T12:15:36.263Z",
+  "entries": [
+    {
+      "chapter": "Introduction to Commercial Organisations",
+      "chapter_order": 1,
+      "topic": "(i) Natural resources – air, water, soil, metals, minerals, forests and fuels.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(i) Natural resources – air, water, soil, metals, minerals, forests and fuels. Importance of these resources in our daily life.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Commercial Organisations",
+      "chapter_order": 1,
+      "topic": "(ii) Causes of depletion of resources - over-use/irrational use, non-equitable distribution of resources,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(ii) Causes of depletion of resources - over-use/irrational use, non-equitable distribution of resources, technological and industrial development, and population growth. Almost all activities of human society have degraded the environment physically, chemically, biologically and ethically. Technological inputs have yielded high yielding varieties, which reduces the products of agricultural residue such as fodder, etc.; indiscriminate use of fertilizers and pesticides. Mining, industries, energy",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Commercial Organisations",
+      "chapter_order": 1,
+      "topic": "(iii) Practices for conservation of resources - search for alternatives, promotion of renewable resources.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(iii) Practices for conservation of resources - search for alternatives, promotion of renewable resources. Advantages and disadvantages of renewable resources when compared to nonrenewable resources. Study of the functioning of biogas, solar, wind and hydro power.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Commercial Organisations",
+      "chapter_order": 1,
+      "topic": "(iv) Industrial pollution and degradation of environment.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(iv) Industrial pollution and degradation of environment. Measures to control pollution and degradation. Need for an Eco-friendly form of industrial development. (d) Sources of Pollution Vehicular, industrial, burning garbage, brick kilns, industrial waste, off shore oil drilling, thermal pollution, chemical fertilizer, bio-medical waste, pesticides, radiation – x-rays, radioactive fallout from nuclear plants.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Functioning of a Commercial Organisation",
+      "chapter_order": 2,
+      "topic": "Functioning of a Commercial Organisation",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "To understand the specific roles played by different departments of a commercial organisation and to study the inter-relationships and dependence of all the functional areas in an actual firm: Purchase and Stores, Production, Marketing and Sales, Finance, Human Resources, General Administration and Legal. These topics should be studied as departments in a typical firm only, through case-studies or projects. All the departments and their functions need to be explained individually so that the cro",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Business Communication",
+      "chapter_order": 3,
+      "topic": "(a) Increasing relevance of communication in a commercial organisation.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(a) Increasing relevance of communication in a commercial organisation. With changing times and increasing size of organisations the ever-increasing need and relevance of communication.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Business Communication",
+      "chapter_order": 3,
+      "topic": "(b) Ways of Communicating: verbal (written, spoken) and non-verbal communication. Their importance in",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(b) Ways of Communicating: verbal (written, spoken) and non-verbal communication. Their importance in different settings and their disadvantages. The advantages and disadvantages of each method. Using industry examples and real-life settings, see the relevance of each method.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Business Communication",
+      "chapter_order": 3,
+      "topic": "(c) Skills required for effective communication.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(c) Skills required for effective communication. The interpersonal skills required for effective communication.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Business Communication",
+      "chapter_order": 3,
+      "topic": "(d) Understanding the relevance and use of different tools of communication: letter, facsimile, e-mail, video",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(d) Understanding the relevance and use of different tools of communication: letter, facsimile, e-mail, video conference, memo, telephonic conversation, etc. A comparative analysis of the tools needs to be undertaken.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mechanics and Terminology of Accounting Systems",
+      "chapter_order": 4,
+      "topic": "(a) Need and relevance of accounting.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(a) Need and relevance of accounting.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mechanics and Terminology of Accounting Systems",
+      "chapter_order": 4,
+      "topic": "(b) Basic understanding of debit and credit.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(b) Basic understanding of debit and credit.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mechanics and Terminology of Accounting Systems",
+      "chapter_order": 4,
+      "topic": "(c) Understanding of basic accounting terminology: capital, liability, asset, revenue, expense, purchase, sales,",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(c) Understanding of basic accounting terminology: capital, liability, asset, revenue, expense, purchase, sales, stocks, debtors, creditors.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mechanics and Terminology of Accounting Systems",
+      "chapter_order": 4,
+      "topic": "(d) Simple understanding of some accounting records maintained such as journals, ledgers, cashbook, and",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(d) Simple understanding of some accounting records maintained such as journals, ledgers, cashbook, and trial balance. Self-explanatory. No questions will be set on recording of entries or on calculations - only an understanding of the above is required.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

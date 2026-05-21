@@ -1,0 +1,272 @@
+{
+  "subject_code": "51",
+  "subject_name": "Mathematics",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/9.-Mathematics.pdf",
+  "source_pdf_sha256": "8384d0cdff1f7e0d090623256aef7a4da516de67a10ca65155f50bcbde281007",
+  "ingested_at": "2026-05-21T12:15:36.389Z",
+  "entries": [
+    {
+      "chapter": "Pure Arithmetic",
+      "chapter_order": 1,
+      "topic": "Rational and Irrational Numbers",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "Rational and Irrational Numbers Rational, irrational numbers as real numbers, their place in the number system. Surds and rationalization of surds. Simplifying an expression by rationalizing the denominator. Representation of rational and irrational numbers on the number line. Proofs of irrationality of √2 , √3 , √5",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Commercial Mathematics",
+      "chapter_order": 2,
+      "topic": "(a) Compound interest as a repeated Simple Interest computation with a growing Principal. Use of this in",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(a) Compound interest as a repeated Simple Interest computation with a growing Principal. Use of this in computing Amount over a period of 2 or 3 years.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Commercial Mathematics",
+      "chapter_order": 2,
+      "topic": "(b) Use of formula 𝐴𝐴 = 𝑃𝑃 �1 + 𝑟𝑟",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(b) Use of formula 𝐴𝐴 = 𝑃𝑃 �1 + 𝑟𝑟 �𝑛𝑛 . Finding CI from the relation CI = A – P. • Interest compounded half-yearly included. • Using the formula to find one quantity given different combinations of A, P, r, n, CI and SI; difference between CI and SI type included. Rate of growth and depreciation. Note: Paying back in equal installments, being given rate of interest and installment amount, not included.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 3,
+      "topic": "(i) Expansions",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(i) Expansions Recall of concepts learned in earlier classes. (a ± b) (a ± b)3 (x ± a) (x ± b) (a ± b ± c)2",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 3,
+      "topic": "(ii) Factorisation",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Factorisation a2 – b2 a3 ± b3 ax2 + bx + c, by splitting the middle term.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 3,
+      "topic": "(iii) Simultaneous Linear Equations in two variables. (With numerical coefficients only)",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(iii) Simultaneous Linear Equations in two variables. (With numerical coefficients only) • Solving algebraically by: - Elimination - Substitution and - Cross Multiplication method • Solving simple problems by framing appropriate equations.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 3,
+      "topic": "(iv) Indices/ Exponents",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(iv) Indices/ Exponents Handling positive, fractional, negative and “zero” indices. Simplification of expressions involving various exponents, etc. Use of laws of exponents. am × an = am+n , am ÷ an = am-n, (am)n = amn",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 3,
+      "topic": "(v) Logarithms",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(v) Logarithms (a) Logarithmic form vis-à-vis exponential form: interchanging. (b) Laws of Logarithms and their uses. Expansion of expression with the help of laws of logarithms e.g. y = 3 c ba × log y = 4 log a + 2 log b – 3 log c etc.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Geometry",
+      "chapter_order": 4,
+      "topic": "(i) Triangles",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) Triangles (a) Congruency: four cases: SSS, SAS, AAS, and RHS. Illustration through cutouts. Simple applications. (b) Problems based on: • Angles opposite equal sides are equal and converse. • If two sides of a triangle are unequal, then the greater angle is opposite the greater side and converse. • Sum of any two sides of a triangle is greater than the third side. • Of all straight lines that can be drawn to a given line from a point outside it, the perpendicular is the shortest. Proofs not ",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Geometry",
+      "chapter_order": 4,
+      "topic": "(ii) Rectilinear Figures",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) Rectilinear Figures (a) Proof and use of theorems on parallelogram. • Both pairs of opposite sides equal (without proof). • Both pairs of opposite angles equal. • One pair of opposite sides equal and parallel (without proof). • Diagonals bisect each other and bisect the parallelogram. • Rhombus as a special parallelogram whose diagonals meet at right angles. • In a rectangle, diagonals are equal, in a square they are equal and meet at right angles. (b) Constructions of Polygons Construction",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Geometry",
+      "chapter_order": 4,
+      "topic": "(iii) Circle:",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iii) Circle: (a) Chord properties • A straight line drawn from the centre of a circle to bisect a chord which is not a diameter is at right angles to the chord. • The perpendicular to a chord from the centre bisects the chord (without proof). • Equal chords are equidistant from the centre. • Chords equidistant from the centre are equal (without proof). • There is one and only one circle that passes through three given points not in a straight line. (b) Arc and chord properties: • If two arcs su",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Statistics",
+      "chapter_order": 5,
+      "topic": "(a) Understanding and recognition of raw, arrayed and grouped data.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Understanding and recognition of raw, arrayed and grouped data.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Statistics",
+      "chapter_order": 5,
+      "topic": "(b) Tabulation of raw data using tally-marks.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Tabulation of raw data using tally-marks.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Statistics",
+      "chapter_order": 5,
+      "topic": "(c) Understanding and recognition of discrete and continuous variables.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Understanding and recognition of discrete and continuous variables.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Statistics",
+      "chapter_order": 5,
+      "topic": "(d) Mean, median of ungrouped data.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(d) Mean, median of ungrouped data. (e) Class intervals, class boundaries and limits, frequency, frequency table, class size for grouped data. (f) Grouped frequency distributions: the need to and how to convert discontinuous intervals to continuous intervals. (g) Drawing a frequency polygon.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mensuration",
+      "chapter_order": 6,
+      "topic": "(a) Area and perimeter of triangle (including Heron’s formula), all types of Quadrilaterals.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Area and perimeter of triangle (including Heron’s formula), all types of Quadrilaterals.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mensuration",
+      "chapter_order": 6,
+      "topic": "(b) Circle: Area and Circumference. Direct application problems including Inner and Outer area.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Circle: Area and Circumference. Direct application problems including Inner and Outer area. Areas of sectors of circles other than quarter-circle and semicircle are not included.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mensuration",
+      "chapter_order": 6,
+      "topic": "(c) Surface area and volume of 3-D solids: cube and cuboid including problems of type involving:",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Surface area and volume of 3-D solids: cube and cuboid including problems of type involving: • Different internal and external dimensions of the solid. • Cost. • Concept of volume being equal to area of cross-section × height. • Open/closed cubes/cuboids.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Trigonometry",
+      "chapter_order": 7,
+      "topic": "(a) Trigonometric Ratios: sine, cosine, tangent of an angle and their reciprocals.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Trigonometric Ratios: sine, cosine, tangent of an angle and their reciprocals.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Trigonometry",
+      "chapter_order": 7,
+      "topic": "(b) Trigonometric ratios of standard angles - 0, 30, 45, 60, 90 degrees. Evaluation of an expression involving",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Trigonometric ratios of standard angles - 0, 30, 45, 60, 90 degrees. Evaluation of an expression involving these ratios.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Trigonometry",
+      "chapter_order": 7,
+      "topic": "(c) Simple 2-D problems involving one right-angled triangle.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Simple 2-D problems involving one right-angled triangle.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Trigonometry",
+      "chapter_order": 7,
+      "topic": "(d) Concept of trigonometric ratios of complementary angles and their direct application:",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(d) Concept of trigonometric ratios of complementary angles and their direct application: sin A = cos (90 – A), cos A = sin (90 – A) tan A = cot (90 – A), cot A = tan (90 – A) sec A = cosec (90 – A), cosec A= sec (90 – A)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Coordinate Geometry",
+      "chapter_order": 8,
+      "topic": "(a) Dependent and independent variables.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Dependent and independent variables.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Coordinate Geometry",
+      "chapter_order": 8,
+      "topic": "(b) Ordered pairs, coordinates of points and plotting them in the Cartesian plane.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Ordered pairs, coordinates of points and plotting them in the Cartesian plane.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Coordinate Geometry",
+      "chapter_order": 8,
+      "topic": "(c) Solution of Simultaneous Linear Equations graphically.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Solution of Simultaneous Linear Equations graphically.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Coordinate Geometry",
+      "chapter_order": 8,
+      "topic": "(d) Distance formula.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(d) Distance formula.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

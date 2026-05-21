@@ -1,0 +1,342 @@
+{
+  "subject_code": "50",
+  "subject_name": "Geography",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/6.-Geography.pdf",
+  "source_pdf_sha256": "41ae8f589eafbf8d8457d1f105431bb21c9ce262e3b8127d9f712d1d6272c9e4",
+  "ingested_at": "2026-05-21T12:15:36.375Z",
+  "entries": [
+    {
+      "chapter": "Interpretation of Topographical Maps",
+      "chapter_order": 1,
+      "topic": "(a) Locating features with the help of a four figure or a six-figure grid reference.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(a) Locating features with the help of a four figure or a six-figure grid reference.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Interpretation of Topographical Maps",
+      "chapter_order": 1,
+      "topic": "(b) Definition of contour and contour interval. Identification of landforms marked by contours (steep slope,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(b) Definition of contour and contour interval. Identification of landforms marked by contours (steep slope, gentle slope, hill, ridge, escarpment), triangulated height, spot height, relative height/ depth.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Interpretation of Topographical Maps",
+      "chapter_order": 1,
+      "topic": "(c) Interpretation of colour tints and conventional symbols used on a topographical survey of India map.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(c) Interpretation of colour tints and conventional symbols used on a topographical survey of India map.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Interpretation of Topographical Maps",
+      "chapter_order": 1,
+      "topic": "(d) Identification and definition of types of scale given on the map (Statement scale, Representative Fraction",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(d) Identification and definition of types of scale given on the map (Statement scale, Representative Fraction and Linear Scale). Measuring distances (direct distance only) and calculating area (full grid square) using the scale given therein. (e) Marking directions between different locations, using eight cardinal points. (f) Identify: Site of prominent villages /towns/settlements, services available types of land use / land cover and means of transport (metalled, unmetalled, cart track, pack t",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Map of India",
+      "chapter_order": 2,
+      "topic": "PART - II GEOGRAPHY OF INDIA",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "PART - II GEOGRAPHY OF INDIA",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Climate",
+      "chapter_order": 3,
+      "topic": "Climate",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Distribution of Temperature, Rainfall, winds in Summer and Winter and factors affecting the climate of India (latitudes, altitude, distance from sea, winds, Himalayas, jet streams, and El Nino). Monsoon and its mechanism. Seasons: Summer; Monsoon, Retreating Monsoon and Winter. Temperature and pressure conditions, wind movements, local winds, precipitation and interpretation of climate data.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Soil Resources",
+      "chapter_order": 4,
+      "topic": "(a) Types of soil (alluvial, black, red and laterite), mode of formation, distribution, composition and",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(a) Types of soil (alluvial, black, red and laterite), mode of formation, distribution, composition and characteristics such as colour, texture, minerals and crops associated.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Soil Resources",
+      "chapter_order": 4,
+      "topic": "(b) Soil Erosion – meaning, agents and causes.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(b) Soil Erosion – meaning, agents and causes.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Soil Resources",
+      "chapter_order": 4,
+      "topic": "(c) Soil Conservation – importance and methods",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(c) Soil Conservation – importance and methods",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Natural Vegetation",
+      "chapter_order": 5,
+      "topic": "(a) Importance of forests.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(a) Importance of forests.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Natural Vegetation",
+      "chapter_order": 5,
+      "topic": "(b) Types of vegetation; distribution and correlation with their environment (tropical evergreen, tropical",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(b) Types of vegetation; distribution and correlation with their environment (tropical evergreen, tropical deciduous, tropical desert, littoral and mountain).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Natural Vegetation",
+      "chapter_order": 5,
+      "topic": "(c) Forest conservation – afforestation, reforestation, social forestry, agroforestry and Van Mahotsav",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(c) Forest conservation – afforestation, reforestation, social forestry, agroforestry and Van Mahotsav",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Water Resources",
+      "chapter_order": 6,
+      "topic": "(a) Sources (Surface water and ground water).",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(a) Sources (Surface water and ground water).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Water Resources",
+      "chapter_order": 6,
+      "topic": "(b) Need for conservation",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(b) Need for conservation",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Water Resources",
+      "chapter_order": 6,
+      "topic": "(c) Rainwater harvesting and its importance.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(c) Rainwater harvesting and its importance.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Water Resources",
+      "chapter_order": 6,
+      "topic": "(d) Irrigation: Importance and methods – wells, tube well, tanks, canal, drip and sprinkler irrigation.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(d) Irrigation: Importance and methods – wells, tube well, tanks, canal, drip and sprinkler irrigation.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mineral and Energy Resources",
+      "chapter_order": 7,
+      "topic": "(a) Iron ore, Manganese, Copper, Bauxite – uses and their distribution. (two leading states and their",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(a) Iron ore, Manganese, Copper, Bauxite – uses and their distribution. (two leading states and their prominent mining areas)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mineral and Energy Resources",
+      "chapter_order": 7,
+      "topic": "(b) Conventional Sources: Coal, Petroleum, Natural gas (distribution, advantages and disadvantages).",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(b) Conventional Sources: Coal, Petroleum, Natural gas (distribution, advantages and disadvantages).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mineral and Energy Resources",
+      "chapter_order": 7,
+      "topic": "(c) Hydel power - Bhakra Nangal Dam and Hirakud Projects and their benefits.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(c) Hydel power - Bhakra Nangal Dam and Hirakud Projects and their benefits.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mineral and Energy Resources",
+      "chapter_order": 7,
+      "topic": "(d) Non-conventional Sources: Solar, wind, tidal, geo-thermal, nuclear and bio-gas (important areas and",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(d) Non-conventional Sources: Solar, wind, tidal, geo-thermal, nuclear and bio-gas (important areas and advantages and disadvantages).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Agriculture",
+      "chapter_order": 8,
+      "topic": "(i) rice, wheat, millets and pulses.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(i) rice, wheat, millets and pulses.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Agriculture",
+      "chapter_order": 8,
+      "topic": "(ii) sugarcane, oilseeds (groundnut, mustard and soya bean).",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(ii) sugarcane, oilseeds (groundnut, mustard and soya bean).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Agriculture",
+      "chapter_order": 8,
+      "topic": "(iii) cotton, jute and tea.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iii) cotton, jute and tea.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Manufacturing Industries",
+      "chapter_order": 9,
+      "topic": "(a) Agro based Industry - Sugar, Textile (Cotton and Silk).",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(a) Agro based Industry - Sugar, Textile (Cotton and Silk).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Manufacturing Industries",
+      "chapter_order": 9,
+      "topic": "(b) Mineral based Industry – integrated Iron & Steel plants (Tata Steel, Rourkela, Vishakhapatnam) Petro",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(b) Mineral based Industry – integrated Iron & Steel plants (Tata Steel, Rourkela, Vishakhapatnam) Petro Chemical and Electronics (some key centres) relevance in the modern world.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Transport",
+      "chapter_order": 10,
+      "topic": "(a) Roadways - Factors affecting its development, advantages and disadvantages. Expressways, national",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(a) Roadways - Factors affecting its development, advantages and disadvantages. Expressways, national highways, NSEW Corridor and Golden Quadrilateral (meaning and importance).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Transport",
+      "chapter_order": 10,
+      "topic": "(b) Railways - Factors affecting its development, advantages and disadvantages.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(b) Railways - Factors affecting its development, advantages and disadvantages.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Transport",
+      "chapter_order": 10,
+      "topic": "(c) Airways - Advantages and disadvantages.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(c) Airways - Advantages and disadvantages.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Transport",
+      "chapter_order": 10,
+      "topic": "(d) Waterways - Inland and coastal, Advantages and disadvantages.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(d) Waterways - Inland and coastal, Advantages and disadvantages.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Waste Management",
+      "chapter_order": 11,
+      "topic": "(a) Impact of waste accumulation - spoilage of landscape, pollution, health hazards.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(a) Impact of waste accumulation - spoilage of landscape, pollution, health hazards.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Waste Management",
+      "chapter_order": 11,
+      "topic": "(b) Need for waste management.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(b) Need for waste management.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Waste Management",
+      "chapter_order": 11,
+      "topic": "(c) Understanding key terms – global warming, acid rain, eutrophication, biomagnification and thermal",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(c) Understanding key terms – global warming, acid rain, eutrophication, biomagnification and thermal pollution (in brief).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Waste Management",
+      "chapter_order": 11,
+      "topic": "(d) Methods of safe disposal - segregation, dumping and composting.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(d) Methods of safe disposal - segregation, dumping and composting. (e) Need and methods for reducing, reusing and recycling waste.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

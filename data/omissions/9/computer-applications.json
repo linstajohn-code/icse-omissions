@@ -1,0 +1,162 @@
+{
+  "subject_code": "86",
+  "subject_name": "Computer Applications",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/18.-Computer-Applications.pdf",
+  "source_pdf_sha256": "50160c532fe33a1c77f28e083b65f33b953f7abc2b4cd93d4649045df17f97aa",
+  "ingested_at": "2026-05-21T12:15:36.330Z",
+  "entries": [
+    {
+      "chapter": "Introduction to Object Oriented Programming Concepts",
+      "chapter_order": 1,
+      "topic": "(i) Principles of Object Oriented Programming, (Difference between Procedure Oriented and Object",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(i) Principles of Object Oriented Programming, (Difference between Procedure Oriented and Object oriented). All the four principles of Object Oriented Programming should be defined and explained using real life examples (Data abstraction, Inheritance, Polymorphism, Encapsulation).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Object Oriented Programming Concepts",
+      "chapter_order": 1,
+      "topic": "(ii) Open Source, IDE [Integrated Development Environment], Version of java, hardware and software",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(ii) Open Source, IDE [Integrated Development Environment], Version of java, hardware and software requirement. Suggested software / tools for working with java: OpenJDK (Open Java Development Kit), IDE - DrJava, NetBeans, MyEclipse, blueJ etc., (iii)Introduction to JAVA - Types of java programs – Applets and Applications, Java Compilation process, Java Source code, Byte code, Object code, Java Virtual Machine (JVM), Features of JAVA. Real time applications which use java Definition of Java appl",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Elementary Concept of Objects and Classes",
+      "chapter_order": 2,
+      "topic": "Elementary Concept of Objects and Classes",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "Modelling entities and their behavior by objects, a class as a specification for objects and as an object factory, computation as message passing/method calls between objects (many examples should be done to illustrate this). Objects encapsulate state (attributes) and have behavior (methods). Class as a user defined data type. A class may be regarded as a blueprint to create objects. It may be viewed as a factory that produces similar objects. A class may also be considered as a new data type cr",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Identifiers and Literals",
+      "chapter_order": 3,
+      "topic": "Identifiers and Literals",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Character set, ASCII code, Unicode, Escape sequences, Tokens, Constants and Variables, Data types, type conversions. Characters set of java (source characters, escape sequences), ASCII codes of Uppercase Letters (A – Z ) , lower case letters (a – z) , digits (0 – 9) and the white space, Importance of Unicode – Unicode is essential in Java because it enables the representation and Manipulation of text from virtually all writing Systems used worldwide, Globalization and Localization, Data Exchange",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Operators in Java",
+      "chapter_order": 4,
+      "topic": "Operators in Java",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Forms of operators, Types of operators, Counters, Accumulators, Hierarchy of operators, ‘new’ operator, dot ( . ) operator. Forms of operators (Unary, Binary, Ternary), types of operators (Arithmetic, Relational, Logical, Assignment, Increment, Decrement, Short hand operators), Discuss precedence and associativity of operators, prefix and postfix, Creation of dynamic memory by using new operator, invoking members of class using dot operator, Introduce System.out.println() and System.out.print() ",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Basic structure of a class in java",
+      "chapter_order": 5,
+      "topic": "Structure of a class",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Structure of a class //comment [non executable ] class <name of the class> { void main(<parameters>) {",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Basic structure of a class in java",
+      "chapter_order": 5,
+      "topic": "Set of statements",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Set of statements } } //comment [non executable ] import java.util.*;//when Scanner class is used class <name of the class> { void main( ) {",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Basic structure of a class in java",
+      "chapter_order": 5,
+      "topic": "Declaration of variables Create an object of the Scanner class",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Declaration of variables Create an object of the Scanner class",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Basic structure of a class in java",
+      "chapter_order": 5,
+      "topic": "Accept the required values using the methods of the Scanner class",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Accept the required values using the methods of the Scanner class Set of statements } } * The keywords ‘public’, ‘static’ and ‘String args[]’ are default in nature. Note : The standard structure as prescribed above could be followed for designing any other programs in java.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Data processing in Java",
+      "chapter_order": 6,
+      "topic": "Data processing in Java",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Initialization, Parameter, introduction to packages, Input streams (Scanner Class), types of errors, types of comments Initialization – Data before execution, Parameters – at the time of execution, input stream – data entry during execution – using methods of Scanner class [nextShort(), nextInt( ), nextLong( ), nextFloat ( ), nextDouble( ), next( ), nextLine( ), next( ).charAt(0) ] Discuss different types of errors occurring during execution and compilation of the program (syntax errors, runtime",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mathematical Library Methods",
+      "chapter_order": 7,
+      "topic": "Mathematical Library Methods",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Introduction to package java.lang [ default ], methods of Math class. pow(x,y), sqrt(x), cbrt(x), ceil(x), floor(x), round (x), abs(a), max(a, b), min(a,b), random( ), rint(), hypot(a, b), addExact(int, int), subtractExact(int, int), multiplyExact(int, int) Java expressions – using all the operators and methods of Math class.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Conditional statements in Java",
+      "chapter_order": 8,
+      "topic": "Conditional statements in Java",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Decision making using if, if else, if else if ladder, switch-case, default, break. Programs to be practiced using if, if else, if else if, Nested if, switch case, break statement, fall through condition in switch case, Menu driven programs, System.exit(0) - to terminate the program.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Looping / Iterative statements in Java",
+      "chapter_order": 9,
+      "topic": "Looping / Iterative statements in Java",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Defining looping statements along with its types, entry-controlled loops [ for, while], exit controlled loop [do while] , variations in looping statements, and Jump statements. Syntax of entry and exit controlled loops, break and continue, Simple programs illustrating all three loops, inter conversion from for – while – do while, finite and infinite, delay, multiple counter variables (initializations and updations). Demonstrate break and continue statements with the help of loops. Loops are fund",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Nested for loops",
+      "chapter_order": 10,
+      "topic": "Nested for loops",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Introduction to nested loops through some simple examples . Demonstrate break and continue statements with the help of nested loops. Practice programs based on nested for loops (combination of two loops ) [ square, rectangular, triangular [right angled triangle only] patterns using numbers and characters], series calculations and display. (Nested while and nested do while are exempted. )",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Ethical computing",
+      "chapter_order": 11,
+      "topic": "Ethical computing",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Ethical Issues in Computing. Intellectual property rights (Copyright, patent) ; Safety measures for protecting individual’s right to privacy ; data protection on the internet; protection against Spam; software piracy and cyber ethics Handling social media requires a multifaceted approach encompassing education, guidance, and open communication. Importance about online safety, digital etiquette, and responsible social media use. * Project on this topic should be done. This topic is considered for",
+      "effective_session": "2027-28"
+    }
+  ]
+}

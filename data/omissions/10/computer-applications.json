@@ -1,0 +1,152 @@
+{
+  "subject_code": "86",
+  "subject_name": "Computer Applications",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/18.-Computer-Applications.pdf",
+  "source_pdf_sha256": "50160c532fe33a1c77f28e083b65f33b953f7abc2b4cd93d4649045df17f97aa",
+  "ingested_at": "2026-05-21T12:15:36.333Z",
+  "entries": [
+    {
+      "chapter": "Revision of Class IX Syllabus",
+      "chapter_order": 1,
+      "topic": "(i) Introduction to Object Oriented Programming concepts, (ii) Elementary Concept of Objects and",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(i) Introduction to Object Oriented Programming concepts, (ii) Elementary Concept of Objects and Classes,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Revision of Class IX Syllabus",
+      "chapter_order": 1,
+      "topic": "(iii) Values and Data types, (iv) Operators in Java, (v) Data processing in Java, (vi) Mathematical",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iii) Values and Data types, (iv) Operators in Java, (v) Data processing in Java, (vi) Mathematical Library Methods,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Revision of Class IX Syllabus",
+      "chapter_order": 1,
+      "topic": "(vii) Conditional statements in Java, (viii) Looping / Iterative statements in Java, (ix)",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(vii) Conditional statements in Java, (viii) Looping / Iterative statements in Java, (ix) Nested for loops.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Library classes",
+      "chapter_order": 2,
+      "topic": "Library classes",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "Introduction to wrapper classes, methods of wrapper class and their usage with respect to numeric and character data types. Auto boxing and Unboxing in wrapper classes. Class as a composite type, distinction between primitive data type and composite data type or class types. Class may be considered as a new data type created by the user, that has its own functionality. The distinction between primitive and composite types should be discussed through examples. Show how classes allow user defined ",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Arrays",
+      "chapter_order": 3,
+      "topic": "Arrays",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "Definition of an array, types of arrays, declaration, initialization and accepting data of single dimensional arrays, accessing the elements of single dimensional arrays. Arrays and their uses, programs related to accessing the elements of the array [ all data types ], sorting techniques - selection sort and bubble sort; Search techniques – linear search and binary search, Array as a composite type, length statement to find the size of the array (sorting and searching techniques using single dim",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "String handling",
+      "chapter_order": 4,
+      "topic": "String trim () String toLowerCase() String toUpperCase() int length( )",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "String trim () String toLowerCase() String toUpperCase() int length( ) char charAt (int ) int indexOf(char ) int lastIndexOf(char )",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "String handling",
+      "chapter_order": 4,
+      "topic": "String concat(String ) boolean equals (String ) boolean equalsIgnoreCase(String )",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "String concat(String ) boolean equals (String ) boolean equalsIgnoreCase(String ) int compareTo(String ) int compareToIgnoreCase(String )",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "String handling",
+      "chapter_order": 4,
+      "topic": "String replace (char oldChar,char newChar) String substring (int beginIndex)",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "String replace (char oldChar,char newChar) String substring (int beginIndex)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "String handling",
+      "chapter_order": 4,
+      "topic": "String substring (int beginIndex, int endIndex) boolean startsWith(String )",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "String substring (int beginIndex, int endIndex) boolean startsWith(String ) boolean endsWith(String )",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "String handling",
+      "chapter_order": 4,
+      "topic": "String valueOf(all types)",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "String valueOf(all types) Programs based on the above methods, extracting and modifying characters of a string, alphabetical order of the strings in an array [Bubble and Selection sort techniques], searching for a string using linear search technique.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Class as the Basis of all Computation",
+      "chapter_order": 5,
+      "topic": "Objects and Classes",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "Objects and Classes Objects encapsulate state and behavior – numerous examples; member variables; attributes or features. Variables define state; member methods; Operations/methods/messages/ methods define behavior. Classes as abstractions for sets of objects; class as an object factory; primitive data types, composite data types. Variable declarations for both types; difference between the two types. Objects as instances of a class. Consider real life examples for explaining the concept of clas",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Constructors",
+      "chapter_order": 6,
+      "topic": "Constructors",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "Definition of Constructor, characteristics, types of constructors, use of constructors, constructor overloading. Default constructor, parameterized constructor, constructor overloading. Difference between constructor and method.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Custom Methods",
+      "chapter_order": 7,
+      "topic": "Custom Methods",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "Need of methods, syntax of methods, forms of methods, method definition, method calling, method overloading, declaration of methods, Ways to define a method, ways to invoke the methods – call by value [with programs] and call by reference [only definition with an example], Object creation - invoking the methods with respect to use of multiple methods with different names to implement modular programming, using data members and member methods, Actual parameters and formal parameters, Declaration ",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Disruptive technologies",
+      "chapter_order": 8,
+      "topic": "Disruptive technologies",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "Cyber hygiene, Cyber laws, Artificial intelligence, block chain technology, Internet of things, Robotics, 5G technology, Cloud computing. Definition, types and uses of the above. * Project on this topic should be done.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

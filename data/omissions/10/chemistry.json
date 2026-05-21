@@ -1,0 +1,392 @@
+{
+  "subject_code": "52",
+  "subject_name": "Chemistry",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/11.-Chemistry.pdf",
+  "source_pdf_sha256": "686ff8c7d352384290fe5cfaa0d1f57ce4d529d60b057557d2eefe6e9900d7e9",
+  "ingested_at": "2026-05-21T12:15:36.467Z",
+  "entries": [
+    {
+      "chapter": "Periodic Properties and variations of Properties – Physical and Chemical",
+      "chapter_order": 1,
+      "topic": "(i) Periodic properties and their variations in groups and periods.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(i) Periodic properties and their variations in groups and periods. Definitions and trends of the following periodic properties in groups and periods should be studied: • atomic size • metallic character • non-metallic character • ionisation potential • electron affinity • electronegativity",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Periodic Properties and variations of Properties – Physical and Chemical",
+      "chapter_order": 1,
+      "topic": "(ii) Periodicity on the basis of atomic number for elements.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(ii) Periodicity on the basis of atomic number for elements. • Detailed study of the modern periodic table restricted to Period 4 (up to Calcium). Elements beyond this are to be introduced only for familiarisation of the placement of elements in the Periodic table and are excluded from assessment. • Periodicity and other related properties of the alkali metals, alkaline earth metals, halogen groups and zero group elements. (Explanation on the basis of nuclear charge and shells, not orbitals.)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "chapter_order": 2,
+      "topic": "(a) Electrovalent bonding.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(a) Electrovalent bonding. • Electron dot structure of Electrovalent compounds NaCl, MgCl2, CaO, K2O, Na2O, Na3N. • Characteristic properties of electrovalent compounds – state of existence, melting and boiling points, conductivity (heat and electricity), dissociation in solution and in molten state to be linked with electrolysis.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "chapter_order": 2,
+      "topic": "(b) Covalent Bonding.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(b) Covalent Bonding. • Electron dot structure of covalent molecules on the basis of duplet and octet of electrons. • Non-polar covalent compounds (example: hydrogen, chlorine, oxygen, nitrogen, carbon tetrachloride, methane.) • Polar Covalent compounds – based on difference in electronegativity. Examples – HCl, NH3 and H2O including structures. • Characteristic properties of Covalent compounds – state of existence, melting and boiling points, conductivity (heat and electricity), ionisation in s",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Chemical Bonding",
+      "chapter_order": 2,
+      "topic": "(c) Coordinate Bonding.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(c) Coordinate Bonding. • Definition • The lone pair effect of the oxygen atom of the water molecule and the nitrogen atom of the ammonia molecule to explain the formation of H3O+ and OH- ions in water and NH4+ ion. The meaning of lone pair; the formation of hydronium ion and ammonium ion must be explained with the help of electron dot diagrams.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of Acids, Bases and Salts",
+      "chapter_order": 3,
+      "topic": "(i) Simple definitions of acids and bases and their characteristic properties.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(i) Simple definitions of acids and bases and their characteristic properties.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of Acids, Bases and Salts",
+      "chapter_order": 3,
+      "topic": "(ii) Ions present in mineral acids, alkalis and salts and their solutions; use of common acid-base",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(ii) Ions present in mineral acids, alkalis and salts and their solutions; use of common acid-base indicator (litmus, methyl orange and phenolphthalein) and pH paper to test for acidity and alkalinity. • Examples with equation for the ionisation/dissociation of ions of acids, bases and salts. • Acids form hydronium ions (only positive ions) which turn blue litmus red, alkalis form hydroxyl ions (only negative ions) with water which turns red litmus blue. • Salts are formed by partial or complete",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of Acids, Bases and Salts",
+      "chapter_order": 3,
+      "topic": "(iii) Definition of salt; Neutralisation and types of salts.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iii) Definition of salt; Neutralisation and types of salts. Types of salts: normal salts, acid salt, basic salt, complex salts (definition and examples like Acid salt- NaHSO4, Basic Salt – Cu(OH)NO3, Complex salt – [Cu(NH3)4]SO4.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of Acids, Bases and Salts",
+      "chapter_order": 3,
+      "topic": "(iv) Classification of an acid on the basis of concentration, ionisation capacity or strength and number of",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iv) Classification of an acid on the basis of concentration, ionisation capacity or strength and number of hydrogen ions.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of Acids, Bases and Salts",
+      "chapter_order": 3,
+      "topic": "(v) Classification of a base on the basis of solubility in water and ionisation capacity or strength and number",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(v) Classification of a base on the basis of solubility in water and ionisation capacity or strength and number of hydroxyl ions.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of Acids, Bases and Salts",
+      "chapter_order": 3,
+      "topic": "(vi) Action of dilute acids on salts.",
+      "topic_order": 6,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(vi) Action of dilute acids on salts. Decomposition of hydrogen carbonates, carbonates, hydrogen sulphites, sulphites and sulphides by appropriate acids with heating if necessary.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of Acids, Bases and Salts",
+      "chapter_order": 3,
+      "topic": "(vii) Methods of preparation of Normal salts with relevant equations.",
+      "topic_order": 7,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(vii) Methods of preparation of Normal salts with relevant equations. Methods included are: • Direct combination • Displacement • Precipitation (double decomposition) • Neutralisation of insoluble base • Neutralisation of an alkali (titration) • Action of dilute acids on carbonates and bi-carbonates",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Analytical Chemistry",
+      "chapter_order": 4,
+      "topic": "(i) Action of Ammonium Hydroxide and Sodium Hydroxide on solution of salts: colour of salt and its",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(i) Action of Ammonium Hydroxide and Sodium Hydroxide on solution of salts: colour of salt and its solution; formation and colour of hydroxide precipitated for solutions of salts of Fe, Cu, Zn, Ca, Mg and Pb; special action of ammonium hydroxide on solutions of copper salt and sodium hydroxide on ammonium salts. On solution of salts. • Colour of salt and its solution. • Action on addition of Sodium Hydroxide to solution of Fe, Cu, Zn, Ca, Mg and Pb salts drop by drop in excess. Formation and col",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Analytical Chemistry",
+      "chapter_order": 4,
+      "topic": "(ii) Action of alkalis (NaOH, KOH) on certain metals, their oxides and hydroxides.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(ii) Action of alkalis (NaOH, KOH) on certain metals, their oxides and hydroxides. The metals must include aluminium, zinc and lead, their oxides and hydroxides, which react with caustic alkalis (NaOH, KOH), showing the amphoteric nature of these substances.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mole Concept and Stoichiometry",
+      "chapter_order": 5,
+      "topic": "(i) Gay Lussac’s Law of Combining Volumes; Avogadro’s Law.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(i) Gay Lussac’s Law of Combining Volumes; Avogadro’s Law. • Idea of mole – a number just as a dozen, a gross (Avogadro’s number). • Avogadro’s Law - statement and explanation. • Gay Lussac’s Law of Combining Volumes. – Statement and explanation. • Molar volume- “the mass of 22.4 litres of any gas at S.T.P. is equal to its molar mass.” (proof not required). • Simple calculations based on the molar volume and Gay Lussac’s law.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mole Concept and Stoichiometry",
+      "chapter_order": 5,
+      "topic": "(ii) Atomicity of Hydrogen, Oxygen, Nitrogen and Chlorine with equations for the formation of HCl, NH3",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(ii) Atomicity of Hydrogen, Oxygen, Nitrogen and Chlorine with equations for the formation of HCl, NH3 and NO (proof not required).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mole Concept and Stoichiometry",
+      "chapter_order": 5,
+      "topic": "(iii) Vapour Density and its relation to relative molecular mass.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(iii) Vapour Density and its relation to relative molecular mass. • Molecular mass = 2 × vapour density (formal proof not required) • Deduction of simple (empirical) and molecular formula from. (a) the percentage composition of a compound. (b) the masses of combining elements.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mole Concept and Stoichiometry",
+      "chapter_order": 5,
+      "topic": "(iv) Mole and its relation to mass.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(iv) Mole and its relation to mass. • Relating mole and atomic mass; arriving at gram atomic mass and then gram atom; atomic mass is a number dealing with one atom; gram atomic mass is the mass of one mole of atoms. • Relating mole and molecular mass arriving at gram molecular mass and gram molecule – molecular mass is a number dealing with a molecule, gram molecular mass is the mass of one mole of molecules. • Simple calculations based on relation of mole to mass, volume and Avogadro’s number.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mole Concept and Stoichiometry",
+      "chapter_order": 5,
+      "topic": "(v) Simple calculations based on chemical equations",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(v) Simple calculations based on chemical equations Related to weight and volumes of both reactants and products.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electrolysis",
+      "chapter_order": 6,
+      "topic": "(i) Electrolytes and non-electrolytes.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(i) Electrolytes and non-electrolytes. Definitions and examples.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electrolysis",
+      "chapter_order": 6,
+      "topic": "(ii) Substances containing molecules only, ions only, and both molecules and ions.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(ii) Substances containing molecules only, ions only, and both molecules and ions. • Substances containing molecules only, ions only, both molecules and ions. • Examples relating their composition with their behaviour as strong and weak electrolytes as well as non-electrolytes.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electrolysis",
+      "chapter_order": 6,
+      "topic": "(iii) Definition and explanation of electrolysis, electrolyte, electrode, anode, cathode, anion, cation, oxidation",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(iii) Definition and explanation of electrolysis, electrolyte, electrode, anode, cathode, anion, cation, oxidation and reduction (on the basis of loss and gain of electrons).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electrolysis",
+      "chapter_order": 6,
+      "topic": "(iv) Difference between metallic conduction (electrolysis) and electrolytic conduction.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(iv) Difference between metallic conduction (electrolysis) and electrolytic conduction.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electrolysis",
+      "chapter_order": 6,
+      "topic": "(v) An elementary study of the migration of ions, with reference to the factors with examples influencing",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(v) An elementary study of the migration of ions, with reference to the factors with examples influencing selective discharge of ions (reference should be made to the activity series as indicating the tendency of metals e.g. Na, Mg, Fe, Cu, to form ions) illustrated by the electrolysis of: • Molten lead bromide • acidified water with platinum electrodes • Aqueous copper (II) sulphate with copper electrodes and platinum electrodes; electron transfer at the electrodes. The above electrolytic proce",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electrolysis",
+      "chapter_order": 6,
+      "topic": "(vi) Applications of electrolysis.",
+      "topic_order": 6,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(vi) Applications of electrolysis. • Electroplating with nickel and silver, choice of electrolyte for electroplating (nickel sulphate solution and sodium argentocyanide) with equations. • Electrorefining of copper with equations.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Metallurgy",
+      "chapter_order": 7,
+      "topic": "(i) Occurrence of metals in nature.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(i) Occurrence of metals in nature. • Mineral and ore – Meaning; definition of mineral, ore, gangue, matrix, Flux and slag. • Common ores of iron, aluminium and zinc.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Metallurgy",
+      "chapter_order": 7,
+      "topic": "(ii) Stages involved in the extraction of metals.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(ii) Stages involved in the extraction of metals. (a) Pulverization, dressing of the ore- hydrolytic method, magnetic separation, froth flotation method. (b) Conversion of concentrated ore to its oxide- roasting and calcination (definition, examples with equations). (c) Reduction of metallic oxides- some can be reduced by hydrogen, carbon and carbon monoxide (e.g. copper oxide, lead (II) oxide, iron (III) oxide and zinc oxide) and some active metal oxides can be reduced by electrolysis only (e.g",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Metallurgy",
+      "chapter_order": 7,
+      "topic": "(iii) Extraction of Aluminium.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(iii) Extraction of Aluminium. (a) Chemical method for purifying bauxite by using NaOH – Baeyer’s Process only. (b) Electrolytic extraction – Hall Heroult’s process only: Structure of electrolytic cell – the various components as part of the electrolyte, electrodes and electrode reactions. Description of the changes occurring, purpose of the substances used and the main reactions with their equations.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Metallurgy",
+      "chapter_order": 7,
+      "topic": "(iv) Alloy and Amalgam – composition and uses.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "(iv) Alloy and Amalgam – composition and uses. Composition and uses of Stainless steel, magnalium, duralumin, brass, bronze, fuse metal / solder.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of Compounds",
+      "chapter_order": 8,
+      "topic": "(ii) oxide, lead (IV) oxide and chlorine; the burning of ammonia in oxygen; uses of ammonia.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "(II) oxide, lead (IV) oxide and chlorine; the burning of ammonia in oxygen; uses of ammonia. • Laboratory preparation from ammonium chloride and collection; (the preparation to be studied in terms of, setting of the apparatus and diagram, procedure, observation, collection and identification). • Ammonia from nitrides like Mg3N2, and AlN using warm water. • Ammonia from ammonium salts using alkalies. • Manufacture by Industrial Process- Haber’s Process (along with explanations and schematic diagr",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of Compounds",
+      "chapter_order": 8,
+      "topic": "(iii) chloride, iron (II) sulphate, lead nitrate, zinc nitrate and copper sulphate.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "(III) chloride, iron (II) sulphate, lead nitrate, zinc nitrate and copper sulphate. • Uses of ammonia - manufacture of fertilisers, explosives, nitric acid, refrigerant gas (Chlorofluro carbon – and its suitable alternatives which are non-ozone depleting), and cleansing agents. • Tests for ammonia. C. Nitric Acid Nitric Acid: one laboratory method of preparation of nitric acid from potassium nitrate or sodium nitrate. Large scale preparation. Nitric acid as an oxidizing agent. • Laboratory prepa",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "chapter_order": 9,
+      "topic": "(i) Introduction to Organic compounds.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(i) Introduction to Organic compounds. • Unique nature of Carbon atom – tetra valency, catenation. • Formation of single, double and triple bonds, straight chain, branched chain, cyclic compounds (only benzene structure).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "chapter_order": 9,
+      "topic": "(ii) Structure and Isomerism.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(ii) Structure and Isomerism. • Structure of compounds with single, double and triple bonds. • Structural formulae of hydrocarbons. Structural formula must be given for: alkanes, alkenes , alkynes up to 5 carbon atoms . • Isomerism – structural (chain, position).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "chapter_order": 9,
+      "topic": "(iii) Homologous series – characteristics with examples.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(iii) Homologous series – characteristics with examples. Alkane, alkene, alkyne series and their gradation in properties and the relationship with the molecular mass or molecular formula.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "chapter_order": 9,
+      "topic": "(iv) Simple nomenclature.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(iv) Simple nomenclature. Simple nomenclature of the hydrocarbons with simple functional groups – (halides, double bond, triple bond, alcoholic, aldehydic, carboxylic ketone, ether and ester) longest chain rule and smallest number for functional groups rule – trivial and IUPAC names (compounds with only one functional group).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "chapter_order": 9,
+      "topic": "(v) Hydrocarbons: alkanes, alkenes, alkynes.",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "(v) Hydrocarbons: alkanes, alkenes, alkynes. • Alkanes - general formula; methane (greenhouse gas) and ethane - methods of preparation from sodium ethanoate (sodium acetate), sodium propanoate (sodium propionate), from iodomethane (methyl iodide) and bromoethane (ethyl bromide). Complete and incomplete combustion of methane and ethane, reaction of methane and ethane with chlorine through substitution. • Alkenes – (unsaturated hydrocarbons with a double bond); ethene as an example. Methods of pre",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "chapter_order": 9,
+      "topic": "(vi) Alcohols: ethanol – preparation, properties and uses.",
+      "topic_order": 6,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "(vi) Alcohols: ethanol – preparation, properties and uses. • Preparation of ethanol by hydrolysis of alkyl halide. • Properties – Physical: Nature, Solubility, Density, Boiling Points. Chemical: Combustion, action with sodium, ester formation with acetic acid, dehydration with conc. Sulphuric acid to prepare ethene. • Denatured, methylated alcohol or spirit and spurious alcohol. • Important uses of Ethanol.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Organic Chemistry",
+      "chapter_order": 9,
+      "topic": "(vii) Carboxylic acids (aliphatic - mono carboxylic acid): Acetic acid – properties and uses of acetic acid.",
+      "topic_order": 7,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "(vii) Carboxylic acids (aliphatic - mono carboxylic acid): Acetic acid – properties and uses of acetic acid. • Structure of acetic acid. • Properties of Acetic Acid: Physical properties – odour (vinegar), glacial acetic acid (effect of sufficient cooling to produce ice like crystals). Chemical properties – action with litmus, alkalis, and alcohol (idea of esterification). • Uses of acetic acid.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

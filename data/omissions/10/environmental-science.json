@@ -1,0 +1,382 @@
+{
+  "subject_code": "82",
+  "subject_name": "Environmental Science",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/17.-Environmental-Science.pdf",
+  "source_pdf_sha256": "f76c9be64060180f5398155233c5f44c78ec1420240f11140449c7fe9ff208d7",
+  "ingested_at": "2026-05-21T12:15:36.443Z",
+  "entries": [
+    {
+      "chapter": "Interlinkages between the Triple Planetary Crisis",
+      "chapter_order": 1,
+      "topic": "(i) Interconnections between Pollution, Climate Change, Biodiversity Loss.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(i) Interconnections between Pollution, Climate Change, Biodiversity Loss. Understanding how causes, effects and solutions of triple planetary crises are interconnected ● Understanding cause and effect relation, feedback loops (to be explained with examples like deforestation and ice melting) and vicious cycles of pollution, climate change and biodiversity loss (to be explained with illustration and examples mentioned in the resource material) ● M aking connection to local context: Matrix of loc",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Interlinkages between the Triple Planetary Crisis",
+      "chapter_order": 1,
+      "topic": "(ii) Impacts of TPC.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(ii) Impacts of TPC. Interdependence of the three issues and collective impact on Earth’s ecosystems, societies and economies. • Ecosystem imbalance. − Impact on flora and fauna from the lens of all three planetary crises (with examples), some endangered and threatened species of India, and globally based on the IUCN Red List. − Impact on indicator species and key-stone species, shift in habitats (like shifts in vegetation zones), changes in species behaviour (flowering, breeding), domino effect",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Interlinkages between the Triple Planetary Crisis",
+      "chapter_order": 1,
+      "topic": "(iii) Food and water security.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iii) Food and water security. Challenges in agriculture and freshwater resources with examples, concerns over food and water security and related health impacts, gender and social disparity (vulnerable communities), human displacement and migration due to loss of biodiversity, pollution, and climate change (climate refugees) with examples.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Interlinkages between the Triple Planetary Crisis",
+      "chapter_order": 1,
+      "topic": "(iv) Socio-economy.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iv) Socio-economy. Economic losses due to climate change and biodiversity loss, health impacts, reduced income and livelihood from agriculture, fisheries and forestry, loss of traditional livelihoods and knowledge systems with examples, increased cost of disaster recovery and environmental restoration, impact on global and national GDP, cost of inaction.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Interlinkages between the Triple Planetary Crisis",
+      "chapter_order": 1,
+      "topic": "(v) Urgency to act.",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(v) Urgency to act. TPC and other planetary crises, holistic approaches to solving environmental problems, systems thinking approach (to be explained with simple illustration and examples like sustainable clothing, addressing deforestation).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Addressing Environmental Pollution",
+      "chapter_order": 2,
+      "topic": "(i) National policies for addressing environmental pollution.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(i) National policies for addressing environmental pollution. Role of national policies for environmental protection, conservation and management. ● Right to a healthy environment, air and water (guaranteed by the Constitution under Article 21) and duties entrusted to every citizen for protection and improvement of the environment (Article 48A).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Addressing Environmental Pollution",
+      "chapter_order": 2,
+      "topic": "(ii) Policies for environment protection, clean air, clean water, waste management, land and soil conservation,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(ii) Policies for environment protection, clean air, clean water, waste management, land and soil conservation, and plastic pollution. (List of policies mentioned in the resource material.) (iii)International Initiatives. Montreal Protocol (ozone layer depletion, phase-out of ozone depleting substances and their replacement), Clean Air Initiative of UNEP and WHO, UN-Water, United Nations Convention to Combat Desertification (UNCCD), Global Treaty for Plastic Pollution (2022).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Addressing Environmental Pollution",
+      "chapter_order": 2,
+      "topic": "(iv) Actions for controlling pollution.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iv) Actions for controlling pollution. ● Policy implementation and regulation (role of regulatory bodies). ● Role of industries in environmental compliance and research institutions in assessments and monitoring. ● Role of communities: individual and collective actions for pollution prevention and control. (Case study reference provided in resource material)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Addressing Biodiversity Loss",
+      "chapter_order": 3,
+      "topic": "(i) National policies for addressing biodiversity loss.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(i) National policies for addressing biodiversity loss. Wildlife (Protection) Act (1972), Biodiversity Act (2002), Forest Conservation Act (1980), National Forest policy (1988), Tribal Rights Act 2006, National action plans like National Biodiversity Action Plan (NBAP), National Biodiversity Strategies and action plan (NBSAP).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Addressing Biodiversity Loss",
+      "chapter_order": 3,
+      "topic": "(ii) International initiatives.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(ii) International initiatives. Convention on Biological Diversity 1992, Ramsar Convention on Wetlands, 1971, CITES. United Nations Decade on Ecosystem Restoration (2021-2030). Brief idea and main objective of the above policies, not in detail. Not to be tested.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Addressing Biodiversity Loss",
+      "chapter_order": 3,
+      "topic": "(iii) Actions for controlling biodiversity loss:",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iii) Actions for controlling biodiversity loss: ● Role of research institutions in studying, recording and monitoring biodiversity ● Conservation of Genetic Resources: In-situ (wildlife sanctuaries, national parks, biosphere reserves) and ex-situ (zoological parks, botanical gardens, gene banks), wildlife crime control ● Role of communities: individual and collective actions for controlling biodiversity loss - People's Biodiversity Registers (PBRs), species conservation, sacred groves. (Case st",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Addressing Climate Change",
+      "chapter_order": 4,
+      "topic": "(i) Ways of addressing climate change.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(i) Ways of addressing climate change. Mitigation and Adaptation: Definition, difference, strategies for mitigating climate change and adapting to it (to be explained with illustration and examples).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Addressing Climate Change",
+      "chapter_order": 4,
+      "topic": "(ii) International Initiatives.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(ii) International Initiatives. Scientific Assessment of climate change by IPCC, UNFCCC and Conference of Parties, concept of Common but Differentiated Responsibility and Respective Capacity (CBDR-RC) and the premise of climate justice (In brief) Kyoto Protocol (1997), Paris Agreement (2015), Nationally Determined Contributions.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Addressing Climate Change",
+      "chapter_order": 4,
+      "topic": "(iii) National policies for addressing climate change.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iii) National policies for addressing climate change. National Action Plan on Climate Change (2008) and its 8 National Missions, State policies, Disaster Management Act (2005) and Action Plans, India’s Nationally Determined Contributions (NDCs), Net- Zero target for 2070, Mission LiFE (2022), Energy Conservation Building Code (ECBC, 2007), National Smart Grid Mission (2 016), Electric Vehicle policy (2025), Schemes on ‘Per drop more crop’, Agroforestry etc.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Addressing Climate Change",
+      "chapter_order": 4,
+      "topic": "(iv) Actions for combating climate change.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iv) Actions for combating climate change. ● Mitigation actions: Transition to renewable energy, energy efficiency, using public or non-motorized transportation, afforestation/ reforestation, reducing emissions from industrial processes, 5Rs of waste management and carbon capture and storage. ● Adaptation and resilience actions: climate-resilient agriculture, ecosystem restoration, water conservation, green buildings, disaster preparedness and management - early warning systems, emergency respon",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Redesigning Social and Economic Systems",
+      "chapter_order": 5,
+      "topic": "(i) Shifting to green economy and circular economy.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(i) Shifting to green economy and circular economy. Understanding the concept of green economy and circular economy. (to be studied with examples mentioned in the resource material), responsible production and consumption.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Redesigning Social and Economic Systems",
+      "chapter_order": 5,
+      "topic": "(ii) Sustainability in Industries.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(ii) Sustainability in Industries. Environmental ethics in business, Environmental Social Governance (ESG), sustainability reporting, carbon accounting and reporting, Corporate Social Responsibility (CSR), environment tax. the rise of organic and sustainable product chains in India. (to be briefly introduced with examples mentioned in the resource material).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Redesigning Social and Economic Systems",
+      "chapter_order": 5,
+      "topic": "(iii) Sustainability in agriculture.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(iii) Sustainability in agriculture. Role of agriculture in sustainable development, Climate-smart and resilient farming- organic farming, agroforestry, crop rotation and mixed cropping, promoting native crops and food crops over cash crops, soil health, drip irrigation. (to be studied with examples mentioned in the resource material).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Redesigning Social and Economic Systems",
+      "chapter_order": 5,
+      "topic": "(iv) Sustainable cities and human habitat.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(iv) Sustainable cities and human habitat. ● Green building concept with examples, ● Green public infrastructure in cities (like gardens, parks, green roofs, green building, stormwater drainage) ● Sustainable mobility (such as bike lanes, pedestrian paths, public transport and electric vehicle charging infrastructure) (Case study reference provided in the resource material)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sustainable Practices and Innovations",
+      "chapter_order": 6,
+      "topic": "(i) Indian Knowledge Systems (IKS)-",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(i) Indian Knowledge Systems (IKS)- India’s sustainable traditions and practices and their relevance in today’s world. Applications of Indian Knowledge System in promoting sustainability - Traditional water conservation and management techniques, biodiversity conservation practices, traditional medicines, sustainable food systems and food preservation techniques, sustainable clothing and textile practices, sustainable housing and construction, traditional storage, recycling and repurposing, reso",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sustainable Practices and Innovations",
+      "chapter_order": 6,
+      "topic": "(ii) Nature-based Solutions.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(ii) Nature-based Solutions. ● Nature-based Solutions (NbS) -understanding the NbS approach and benefits in terms of protecting nature around us and addressing climate change and environmental pollution. (To be explained with examples.) ● Ecosystem restoration; Use of biofertilizers, biopesticides, biopreservatives; Conserving wetlands; Green-roofs and green spaces in urban areas; stormwater management and natural sewage treatment. (Examples and case study reference mentioned in the resource mat",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sustainable Practices and Innovations",
+      "chapter_order": 6,
+      "topic": "(iii) Emerging Technologies and innovation to combat triple planetary crisis.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(iii) Emerging Technologies and innovation to combat triple planetary crisis. ● Environmental application of GIS and remote sensing (for monitoring pollution, deforestation, ice melt, sea-level rise, and urban heat islands, detecting invasive species, wild-fire. ● Use of AI in soil health diagnostics, IoT for monitoring GHG emissions, energy efficiency and air quality. ● Innovations: applications of bio-technology like bioalternatives of plastic (bioplastic), enzyme-based plastic degradation, cl",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sustainable Practices and Innovations",
+      "chapter_order": 6,
+      "topic": "(iv) Local actions for sustainability and collaboration between actors.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(iv) Local actions for sustainability and collaboration between actors. • Sustainable lifestyle in practice. − The 5Rs of sustainability (rethink, reduce, reuse, repurpose and recycle); Conserve energy (e.g., solar water heaters, turning off unused devices); conserve water (e.g., rainwater harvesting, fixing leaks, reusing greywater for plants. − Use eco-transport (e.g., cycling, carpooling, transitioning to EVs); Choose seasonal or local food. − Embrace eco-fashion (e.g., khadi, upcycled garmen",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Green Skills Development",
+      "chapter_order": 7,
+      "topic": "(i) Sustainable Habits.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(i) Sustainable Habits. Green actions in daily life - Assess and make a matrix of how actions for pollution reduction, biodiversity conservation and climate change can be integrated in daily life. Measures for adopting sustainable actions into habits.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Green Skills Development",
+      "chapter_order": 7,
+      "topic": "(ii) Green Skills in Practice.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(ii) Green Skills in Practice. ● What are green skills? Learning practical skills in waste segregation, recycling, composting, energy efficiency, water harvesting, biodiversity conservation, sustainable clothing, building designs, food habits, responsible consumption, etc. ● Green Jobs (skill council for green jobs initiative of India) - green job opportunities in renewable energy, green hydrogen energy, EV charging and clean transportation, green construction, waste management, water conservati",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Explore",
+      "chapter_order": 1,
+      "topic": "Explore",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Wetland or River Ecosystem: • Conduct a field visit to a wetland or river to study its biodiversity and ecosystem services. • Analyze the impact of human activities on water quality and aquatic life.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Field Study of Urban Green Spaces:",
+      "chapter_order": 2,
+      "topic": "Field Study of Urban Green Spaces:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Assess the role of parks, gardens, and urban forests in improving air quality, biodiversity, and community well-being. • Propose strategies to enhance green cover in urban areas.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Visit a Local Water Treatment Plant:",
+      "chapter_order": 3,
+      "topic": "Visit a Local Water Treatment Plant:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Understand the processes involved in water purification, distribution, and wastewater treatment. • Analyze the challenges in water management and propose sustainable water conservation solutions.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study a Local Agricultural Farm:",
+      "chapter_order": 4,
+      "topic": "Study a Local Agricultural Farm:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Observe traditional and modern farming practices, including irrigation, crop rotation, and organic farming techniques. • Explore the linkage between agriculture, biodiversity, and sustainable food systems.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Visit a Recycling Plant or Material Recovery Facility:",
+      "chapter_order": 5,
+      "topic": "Visit a Recycling Plant or Material Recovery Facility:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Learn about the segregation, processing, and recycling of waste materials. • Understand the role of circular economy practices in reducing environmental footprints.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Visit a Renewable Energy Plant (Solar/Wind/Biomass):",
+      "chapter_order": 6,
+      "topic": "Visit a Renewable Energy Plant (Solar/Wind/Biomass):",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Study the generation and integration of renewable energy into the power grid. • Discuss the benefits and limitations of transitioning from fossil fuels to renewables.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Interaction with Organic and Local Food Producers:",
+      "chapter_order": 7,
+      "topic": "Interaction with Organic and Local Food Producers:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Trace the journey of food from farm to plate, including sourcing, packaging, and transportation. • Analyze the environmental impact of food choices and propose ways to promote sustainable consumption.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Visit to a Solid Waste Management Facility:",
+      "chapter_order": 8,
+      "topic": "Visit to a Solid Waste Management Facility:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Study the journey of waste from collection to treatment, including composting, incineration, or landfill management. • Propose improvements in waste segregation and management practices.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Explore a Food Processing Unit:",
+      "chapter_order": 9,
+      "topic": "Explore a Food Processing Unit:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Learn about the processing, storage, and packaging of food products. • Analyze the sustainability of food production and packaging practices.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Visit a Rainwater Harvesting Project or Check Dam Site:",
+      "chapter_order": 10,
+      "topic": "Visit a Rainwater Harvesting Project or Check Dam Site:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Study the techniques and benefits of water conservation in local communities. • Propose ways to replicate or improve these methods in the school or neighborhood.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Interaction with Environmental NGOs or Conservation Groups:",
+      "chapter_order": 11,
+      "topic": "Interaction with Environmental NGOs or Conservation Groups:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Engage with organizations involved in afforestation, wildlife rescue, or pollution control. • Understand their strategies, challenges, and successes in conservation efforts.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Visit to a Fisheries or Aquaculture Unit:",
+      "chapter_order": 12,
+      "topic": "Visit to a Fisheries or Aquaculture Unit:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "• Learn about sustainable fishing or aquaculture practices and their role in food security. • Analyze the impact of overfishing and propose sustainable solutions. 13. Visit a Senior government official of Municipal Corporation/ Municipality in your city: • Know about the local environmental challenges in your city (issues around waste, water pollution in river/ canal/ lake etc., water quality and supply, air pollution, floods, lack of green spaces in the city, need for biodiversity parks, slum a",
+      "effective_session": "2027-28"
+    }
+  ]
+}

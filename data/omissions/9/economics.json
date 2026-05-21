@@ -1,0 +1,192 @@
+{
+  "subject_code": "53",
+  "subject_name": "Economics",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/13.-Economics.pdf",
+  "source_pdf_sha256": "224bf7d388f8b265021c681e86cfa245417515370e88555eb2776584a8c02441",
+  "ingested_at": "2026-05-21T12:15:36.162Z",
+  "entries": [
+    {
+      "chapter": "Introduction to Economics",
+      "chapter_order": 1,
+      "topic": "(a) Definition of Economics according to Adams, Robbins, Keynes and Samuelson.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(a) Definition of Economics according to Adams, Robbins, Keynes and Samuelson. Self-explanatory.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Economics",
+      "chapter_order": 1,
+      "topic": "(b) Micro & Macro Economics.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(b) Micro & Macro Economics. Meaning, difference and examples only.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Economics",
+      "chapter_order": 1,
+      "topic": "(c) Types of activities.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(c) Types of activities. Economic and non-economic activities: meaning and examples; difference between Economic and non- economic activities.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Economics",
+      "chapter_order": 1,
+      "topic": "(d) Basic Economic terms.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(d) Basic Economic terms. Meaning of the following economic terms: Wants, Goods, services, wealth, utility, production, consumption, sustainable consumption, factors of production, market, price, value, income, saving, wealth, welfare, economy. (e) Entities. Government sectors, firms, households, foreign sector: meaning only.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Types of Economies",
+      "chapter_order": 2,
+      "topic": "(a) On the basis of Nature.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(a) On the basis of Nature. Capitalist Economy, Socialist Economy, Mixed Economy – with reference to India (meaning and differences).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Types of Economies",
+      "chapter_order": 2,
+      "topic": "(b) On the basis of Development.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(b) On the basis of Development. Developed Economy and Developing Economy: meaning and differences.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Types of Economies",
+      "chapter_order": 2,
+      "topic": "(c) Economic growth and development.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(c) Economic growth and development. Meaning and differences.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Problems of an Economy",
+      "chapter_order": 3,
+      "topic": "(a) Limited availability of Resources.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(a) Limited availability of Resources. Meaning and types of resources with examples; meaning and examples of limited resources; an understanding of the basic economic problem - Human wants are unlimited in relation to limited resources that have alternative uses; need for efficient use of resources (brief understanding with an example.)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Problems of an Economy",
+      "chapter_order": 3,
+      "topic": "(b) Central problems of an economy.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(b) Central problems of an economy. What to produce? How to produce? For whom to produce? - A brief understanding with examples.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Indian Economy: A Study",
+      "chapter_order": 4,
+      "topic": "(i) Agriculture and allied activities: meaning; contribution of agriculture to employment, industry, trade",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) Agriculture and allied activities: meaning; contribution of agriculture to employment, industry, trade and self-sufficiency in food production: a brief understanding of the above.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Indian Economy: A Study",
+      "chapter_order": 4,
+      "topic": "(ii) Problems of Indian Agriculture: a brief understanding of: limited use of technology, fragmentation",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Problems of Indian Agriculture: a brief understanding of: limited use of technology, fragmentation of land holdings, dependence on monsoon, lack of rural credit facilities, inadequate storage & marketing facilities.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Indian Economy: A Study",
+      "chapter_order": 4,
+      "topic": "(iii) Government measures to improve agricultural production: Use of High Yielding variety seeds, use of",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(iii) Government measures to improve agricultural production: Use of High Yielding variety seeds, use of fertiliser and insecticides, Better irrigation facilities, Adoption of technology, Setting up of agricultural research centres and institutes, Provision & expansion of rural credit facilities. Provision of better storage and marketing facilities: a brief understanding of the above.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Indian Economy: A Study",
+      "chapter_order": 4,
+      "topic": "(iv) Green Revolution: meaning and its positive impacts.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(iv) Green Revolution: meaning and its positive impacts.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Indian Economy: A Study",
+      "chapter_order": 4,
+      "topic": "(v) Meaning of Food Security; role of Food Corporation of India (FCI).",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(v) Meaning of Food Security; role of Food Corporation of India (FCI). (b) Secondary: Industry: meaning and types; adverse impacts of industrialisation and measures to overcome adverse impacts. (i) Meaning of Industry; a brief understanding of the interdependence of Agriculture and Industry. (ii) Types of Industries; large scale and medium scale Industries. Meaning, features and examples only. Cottage &Small-Scale Industries .Meaning, features and examples; significance with reference to India. ",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Major Problems of the Indian Economy",
+      "chapter_order": 5,
+      "topic": "(a) Poverty",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(a) Poverty Meaning of poverty line- concept based on calorie intake; Relative and absolute poverty: meaning with examples; causes of poverty: any five causes of poverty to be discussed.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Major Problems of the Indian Economy",
+      "chapter_order": 5,
+      "topic": "(b) Unemployment",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(b) Unemployment Meaning; Types: Seasonal, Structural, Technological: meaning and example of each. Causes of unemployment- any five to be discussed.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Major Problems of the Indian Economy",
+      "chapter_order": 5,
+      "topic": "(c) Schemes and Programmes introduced by the government to remove poverty & unemployment.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(c) Schemes and Programmes introduced by the government to remove poverty & unemployment. Any two programmes to be studied with the objectives. For example, IRDP, JRY, PKVY, HRIDAY, MNREGA, etc.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Major Reforms and Emerging trends in the Indian Economy",
+      "chapter_order": 6,
+      "topic": "(ii) and (iii) (not to be tested).",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) and (iii) (not to be tested).",
+      "effective_session": "2027-28"
+    }
+  ]
+}

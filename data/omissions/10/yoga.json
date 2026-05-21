@@ -1,0 +1,482 @@
+{
+  "subject_code": "84",
+  "subject_name": "Yoga",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/27.-Yoga.pdf",
+  "source_pdf_sha256": "26a65428793f5d2b8e47643ab4c18ae3d9b75b4dddeffe925a28bf01db1e7224",
+  "ingested_at": "2026-05-21T12:15:36.468Z",
+  "entries": [
+    {
+      "chapter": "The Nervous System",
+      "chapter_order": 1,
+      "topic": "The Sense Organs",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "The Sense Organs Eyes: Structure and function of different constituent parts; common eye defects: Myopia, Hyperopia, Cataract. Ear: outer ear, middle ear, inner ear (structure and function of the constituent parts);the Eustachian Tube; role of the ear in maintaining balance. The sense of smell: importance of the olfactory nerve; flavour: a combination of taste and smell; The sense of taste: The 4 fundamental tastes: sweet, salty, bitter, sour; The Sense of touch: Nerve endings in the skin relate",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Endocrine System",
+      "chapter_order": 2,
+      "topic": "The Endocrine System",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "A study of the Pituitary gland, the Thyroid, the Adrenal glands and the Pancreas; role of Yoga in maintaining the health of the endocrine glands. The above must be studied with respect to the following: location, hormones secreted, effects of over-secretion and under secretion of hormones. How yoga helps to regulate the functioning of the endocrine glands and helps in achieving hormonal balance.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Circulatory System",
+      "chapter_order": 3,
+      "topic": "The Circulatory System",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "Structure and functioning of the heart; disorders of the circulatory system; the lymphatic system; composition of blood; role of yoga in improving blood circulation. Heart: Location, covering (pericardium), chambers of the heart, blood vessels entering and leaving the heart: Vena Cava, aorta, pulmonary artery, the pulmonary vein; blood supply to the heart: coronary arteries; Valves: Bicuspid, Tricuspid, Semilunar Valves; Circulation of blood in the heart: systole and diastole; blood vessel types",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Excretory System",
+      "chapter_order": 4,
+      "topic": "The Excretory System",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "Organs of excretion; Parts of the excretory system; urine formation, disorders of the excretory system; Role of Yoga. Lungs, skin and kidneys are the three organs of excretion; parts of the excretory system: the Kidney, Cortex and Medulla; Ureters; Bladder; Urethra. Disorders of the excretory system: Kidney failure, Gout, Kidney stones;the Dialysis machine:meaning of each. How the practice of yoga helps in maintaining the health of the excretory system and hence the elimination of waste from the",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Personal hygiene through Yoga",
+      "chapter_order": 5,
+      "topic": "Personal hygiene through Yoga",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "Purpose of maintaining hygiene in Yoga; Yogic care and/or cleaning of sense organs. Purpose of maintaining hygiene in yoga: removal of diseases, purification of the body, maintaining efficiency of the body, better immunity, long life, moral and spiritual elevation. Yogic Care and/ or cleaning of the sense organs: Care of teeth, mouth, cleaning of the tongue (jivhamulashodhanam: benefits and procedure), cleaning of the ears(karnarandhradhouti procedure and its benefits); care of eyes: factors aff",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Vyasa",
+      "chapter_order": 1,
+      "topic": "Vyasa",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "Birth and early life; his birthday is celebrated as Guru Purnima; training under his father Rishi Parasara, his role as the grandfather of Pandavas and Kauravas, his son Shuka. Works: The Bhramasutras, The Mahabharata, SrimadBhagvatam, The Puranas, Vyasa Bhashya.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Yagnavalkya",
+      "chapter_order": 2,
+      "topic": "Yagnavalkya",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "Birth and education, dynamics of his relationship with his guru Vaisampayana (growing disagreement between the two at the ashram, Meet at Mount Meru, King Supriya and the formation of the Krishna Yajurveda); relationship with Surya Bhagvan, King Janaka, Gargi and Maitreyi Works: The Yajurvedas, The Brihadaryanka and Bhramanas, Yoga Yagnavalkya Samhita.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Narsi Mehta",
+      "chapter_order": 3,
+      "topic": "Narsi Mehta",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "Birth and early life, three miraculous events in his life. His teaching and contributions-composition ‘Vaishnava Jan To….’9",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sri Aurobindo",
+      "chapter_order": 4,
+      "topic": "Sri Aurobindo",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "His early life and education abroad; his mastery over several European and Indian languages; return to India; experience of the silent mind after guidance from Lele; Sri Aurobindo as one of the leaders of the freedom movement the newspaper - Vande Mataram; solitary confinement in Alipore Jail; acquittal and journey to Pondicherry; meeting with Mirra Alfassa who would in later years be called the Mother of the Sri Aurobindo Ashram; Auroville, Matri Mandir and the Sri Aurobindo Society. Teachings ",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Swami Vivekananda",
+      "chapter_order": 5,
+      "topic": "Swami Vivekananda",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "Vision of his Guru Ramakrishna: story of the seven sages and a little boy. Childhood stories of Narendra’s courage and truthfulness. His first meeting with Sri Ramakrishna and his historical question: “Sir, have you seen God?”His father’s demise and leaving the family in poverty; his first living experience with the Divine Mother in the Kali temple at Dakshineshwar. starting the Ramakrishna Mission order post Ramakrishna’s demise. His travels in India right upto Kanyakumari where he was inspired",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sri Ramana Maharishi",
+      "chapter_order": 6,
+      "topic": "(i) Samadhi Pada",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(i) Samadhi Pada Chitta Vrittis: definition of Yoga. The different types of Chitta Vrittis: Klishta and Aklishta; Pramana Viparyaya Vikalpa, Nidra, Smriti; Ways to still the Chitta Vrittis: Abhyasa and Vairagya, Ishwar Pranidhana, the Pranava Mantra, the four virtues, Pranayama (elongating the bahya kumbhak), heightened awareness of the senses, concentrating on a light beyond all sorrow, contemplating and recollecting the experiences of dreams-filled or dreamless sleep during the waking state. O",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sri Ramana Maharishi",
+      "chapter_order": 6,
+      "topic": "(ii) Sadhana Pada",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "(ii) Sadhana Pada Kriya yoga, Kleshas, cause of pain: identification of the seer (drashtu) with the seen; Kaivalya: destruction of ignorance through right knowledge breaks the link between the seer and the seen and leads to liberation or kaivalya (refer to Sutra 2.25, the students need not learn the Sutra); Ashtang yoga; Pratipaksha Bhavanam (refer to Sutra 2.33, the students need not learn the Sutra).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sri Ramana Maharishi",
+      "chapter_order": 6,
+      "topic": "(iii) Vibhuti Pada",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "(iii) Vibhuti Pada Concept and definition of Samyama, study of the following objects of samyama and the powers attained: distinguishing marks on another man’s body, qualities of friendliness and compassion, strength such as that of an elephant, the sun, the moon, the pole star, the naval, the pit of the throat, the head, the heart; These Vibhutis (attainments)are hindrances to achieve the spiritual goal.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sri Ramana Maharishi",
+      "chapter_order": 6,
+      "topic": "(iv) Kaivalya Pada",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "(iv) Kaivalya Pada 5 ways of spiritual accomplishment; Karma: black, white or black and white; subject and object (relationship between the two in the light of Patanjali’s yoga sutras); Chit and Chitta; dharma megha samadhi. SECTION IV: SOME IMPORTANT SCHOOLS OF PHILOSOPHY AND SOME SUTRAS",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Some of the Orthodox Philosophies",
+      "chapter_order": 1,
+      "topic": "Tenets of Sankhya",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "Tenets of Sankhya Purusha and Prakriti (dualistic system) (the student needs to know just a basic understanding of these terms); Gunas, 23 evolutes of Prakriti.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Some of the Orthodox Philosophies",
+      "chapter_order": 1,
+      "topic": "Tenets of Yoga",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "Tenets of Yoga Yoga also called Sa Ishvara Sankhya; 5 vrittis and 5 Chitta Bhumis; 5 kleshas; 4 virtues; Ashtang yoga.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Some of the Orthodox Philosophies",
+      "chapter_order": 1,
+      "topic": "Tenets of Vedanta",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "Tenets of Vedanta Basic meaning of the following terms: Advaita, Brahman, Jagat, Mithya, Maya, Sookshma (subtle) and Sthool (gross) buddhi",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Some of the Orthodox Philosophies",
+      "chapter_order": 1,
+      "topic": "Tenets of Purva Mimansa",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "Tenets of Purva Mimansa Importance of rituals and Mantras, concept of many Gods and Goddesses, concept of divinity in non-living objects, Karma and dharma.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Some of the Heterodox Philosophies",
+      "chapter_order": 2,
+      "topic": "Tenets of Buddhism",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "Tenets of Buddhism The 4 noble truths, the 8-fold path, two schools of Buddhism - Hinayana and Mahayana.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Some of the Heterodox Philosophies",
+      "chapter_order": 2,
+      "topic": "Tenets of Jainism",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "Tenets of Jainism The 3 jewels, transmigration of the soul and moksha, everything has a jiva, no belief in Gods and Goddesses, 24 tirthankaras, Mahavira the 24th one.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Contemporary Philosophies",
+      "chapter_order": 3,
+      "topic": "Contemporary Philosophies",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "Eckhart Tolle's Philosophy: Power of Now Tenets: mind controlling the human being and his addiction to thinking; consciousness beyond the mind; presence or the awareness space in which thoughts arise; the Pain Body: The energy field of pain, accumulated from the past that occupies the mind and body periodically as an inexplicable dark emotional state; methods to enter the eternal Now as a means of breaking free from the addiction to thought: • Tuning into the awareness of the breath and body. • ",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Five Important Sutras",
+      "chapter_order": 4,
+      "topic": "(a) Degree of effort and progress in his/her yoga practice (judged through periodical tests).",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(a) Degree of effort and progress in his/her yoga practice (judged through periodical tests).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Five Important Sutras",
+      "chapter_order": 4,
+      "topic": "(b) Assisting the yoga therapy sessions.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(b) Assisting the yoga therapy sessions. Improving his/her own health and well being through yoga therapy.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Five Important Sutras",
+      "chapter_order": 4,
+      "topic": "(c) Participation in programmes.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(c) Participation in programmes. Section B (60 Marks): Practical Tests - There will be three tests in this section – to be assessed by an External Examiner. Test 1: Predetermined Asanas (30 marks) The candidates must perform any six asanas from those given below: Ardha Chandrasana, Parivritta Trikonasana, Chaturanga Dandasana, Salambha Shirshasana Sarvangasana, Paschimottanasana, Urdhva Dhanurasana, Ardha Matsyendrasana. Test 2: Directed asanas (20 marks) The candidate must perform 4 or 5 asanas",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Five Important Sutras",
+      "chapter_order": 4,
+      "topic": "(a) Candidate must choose an asana from the Class X syllabus only.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "(a) Candidate must choose an asana from the Class X syllabus only.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Five Important Sutras",
+      "chapter_order": 4,
+      "topic": "(b) Candidate must not select an asana that he/she has already demonstrated in Test 1 and Test 2.",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "(b) Candidate must not select an asana that he/she has already demonstrated in Test 1 and Test 2. The practical work is to be covered under the following categories: (A) Asanas",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Ardha Chandrasana",
+      "chapter_order": 1,
+      "topic": "Ardha Chandrasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Ardha Chandrasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Parivritta Trikonasana",
+      "chapter_order": 2,
+      "topic": "Parivritta Trikonasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Parivritta Trikonasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Pashva Uttanasana",
+      "chapter_order": 3,
+      "topic": "Pashva Uttanasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Pashva Uttanasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Uttanasana",
+      "chapter_order": 4,
+      "topic": "Uttanasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Uttanasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Chaturanga Dandasana",
+      "chapter_order": 5,
+      "topic": "Chaturanga Dandasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Chaturanga Dandasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Urdhva Mukha Shvanasana",
+      "chapter_order": 6,
+      "topic": "Urdhva Mukha Shvanasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Urdhva Mukha Shvanasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Matsyasana",
+      "chapter_order": 7,
+      "topic": "Matsyasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Matsyasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Janu Shirshasana",
+      "chapter_order": 8,
+      "topic": "Janu Shirshasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Janu Shirshasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Upavista Konasana (holding big toes, head up)",
+      "chapter_order": 9,
+      "topic": "Upavista Konasana (holding big toes, head up)",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Upavista Konasana (holding big toes, head up)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Ardha Navasana",
+      "chapter_order": 10,
+      "topic": "Ardha Navasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Ardha Navasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Paripoorna Navasana",
+      "chapter_order": 11,
+      "topic": "Paripoorna Navasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Paripoorna Navasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Paschimottanaasana",
+      "chapter_order": 12,
+      "topic": "Paschimottanaasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Paschimottanaasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Marichyasana III",
+      "chapter_order": 13,
+      "topic": "Marichyasana III",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Marichyasana III",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Ardha Matsyendrasana I",
+      "chapter_order": 14,
+      "topic": "Ardha Matsyendrasana I",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Ardha Matsyendrasana I",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Salambha Shirshasana",
+      "chapter_order": 15,
+      "topic": "Salambha Shirshasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Salambha Shirshasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Urdhva Dhanurasana",
+      "chapter_order": 16,
+      "topic": "Urdhva Dhanurasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Urdhva Dhanurasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Salambha Sarvangasana I",
+      "chapter_order": 17,
+      "topic": "Salambha Sarvangasana I",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Salambha Sarvangasana I",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Halaasana",
+      "chapter_order": 18,
+      "topic": "Halaasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Halaasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Setu Bandha Sarvangasana",
+      "chapter_order": 19,
+      "topic": "Setu Bandha Sarvangasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "(B) Breathing\\pranayama",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Revision of the Full Yogic Breathing",
+      "chapter_order": 1,
+      "topic": "Revision of the Full Yogic Breathing",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Revision of the Full Yogic Breathing",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Brahmari",
+      "chapter_order": 2,
+      "topic": "Brahmari",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Reference Book: Light on Yoga: Yogacharya B.K.S. Iyengar - Harper Collins, India",
+      "effective_session": "2027-28"
+    }
+  ]
+}

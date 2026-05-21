@@ -1,0 +1,122 @@
+{
+  "subject_code": "01",
+  "subject_name": "English",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/2.-English.pdf",
+  "source_pdf_sha256": "d3b2a451edff8071706cea38b5fcc33c13c1ff709cdf8e1c0591eb88f77be231",
+  "ingested_at": "2026-05-21T12:15:36.235Z",
+  "entries": [
+    {
+      "chapter": "DRAMA: Julius Caesar: William Shakespeare",
+      "chapter_order": 1,
+      "topic": "DRAMA: Julius Caesar: William Shakespeare",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(Acts III, IV & V) 2. TREASURE CHEST: A Collection of ICSE Short Stories & Poems (Evergreen Publications (India) Ltd. New Delhi) PROSE (Short Stories):",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "With the Photographer – Stephen Leacock",
+      "chapter_order": 1,
+      "topic": "With the Photographer – Stephen Leacock",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "With the Photographer – Stephen Leacock",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Elevator – William Sleator",
+      "chapter_order": 2,
+      "topic": "The Elevator – William Sleator",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "The Elevator – William Sleator",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Girl Who Can – Ama Ata Aidoo",
+      "chapter_order": 3,
+      "topic": "The Girl Who Can – Ama Ata Aidoo",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "The Girl Who Can – Ama Ata Aidoo",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Pedestrian – Ray Bradbury",
+      "chapter_order": 4,
+      "topic": "The Pedestrian – Ray Bradbury",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "The Pedestrian – Ray Bradbury",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Last Lesson – Alphonse Daudet",
+      "chapter_order": 5,
+      "topic": "The Last Lesson – Alphonse Daudet",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "POETRY:",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Haunted Houses – H.W. Longfellow",
+      "chapter_order": 1,
+      "topic": "Haunted Houses – H.W. Longfellow",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Haunted Houses – H.W. Longfellow",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Glove and the Lions – Leigh Hunt",
+      "chapter_order": 2,
+      "topic": "The Glove and the Lions – Leigh Hunt",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "The Glove and the Lions – Leigh Hunt",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "When Great Trees fall – Maya Angelou",
+      "chapter_order": 3,
+      "topic": "When Great Trees fall – Maya Angelou",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "When Great Trees fall – Maya Angelou",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "A Considerable Speck – Robert Frost",
+      "chapter_order": 4,
+      "topic": "A Considerable Speck – Robert Frost",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "A Considerable Speck – Robert Frost",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Power of Music – Sukumar Ray",
+      "chapter_order": 5,
+      "topic": "The Power of Music – Sukumar Ray",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "NOTE: The ICSE (Class X) Examination paper will be set ONLY on the portion of the syllabus that is prescribed for Class X.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

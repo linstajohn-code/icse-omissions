@@ -1,0 +1,232 @@
+{
+  "subject_code": "82",
+  "subject_name": "Environmental Science",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/17.-Environmental-Science.pdf",
+  "source_pdf_sha256": "f76c9be64060180f5398155233c5f44c78ec1420240f11140449c7fe9ff208d7",
+  "ingested_at": "2026-05-21T12:15:36.403Z",
+  "entries": [
+    {
+      "chapter": "Our Planet Earth",
+      "chapter_order": 1,
+      "topic": "(i) Introduction: Overview of the environment around us.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(i) Introduction: Overview of the environment around us. ● Our Earth and its environment, interactions between biotic and abiotic components, and life on Earth. ● Earth’s components (hydrosphere, lithosphere, atmosphere, cryosphere and biosphere) and their interactions, with illustrative examples. ● Human-environment interconnection: − Humans as a part of the environment (and not at the top of it). − Two-way complex interconnections - humans affect the environment and get affected. − Need for ed",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Our Planet Earth",
+      "chapter_order": 1,
+      "topic": "(ii) Natural processes and cycles.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(ii) Natural processes and cycles. ● Biological processes (photosynthesis, decomposition, adaptation, evolution, coevolution, coexistence, extinction) . ● Biogeochemical cycles - carbon, oxygen, nitrogen and water cycle and their importance.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Diversity of Life",
+      "chapter_order": 2,
+      "topic": "(i) Biodiversity.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(i) Biodiversity. ● Definition, classification (genetic, species, and ecosystem diversity), fascinating facts about biodiversity with pictures. ● Species diversity and its role in supporting a healthy ecosystem, indicator species, key stone species. ● Interdependence of species: trophic levels, food chains, food webs; species interactions (predation, competition, parasitism, mutualism, commensalism and amensalism with examples), web of life and complex interconnections. ENVIRONMENTAL SCIENCE (82",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Diversity of Life",
+      "chapter_order": 2,
+      "topic": "(ii) Ecosystems, their functions, services, carrying capacity and threshold level.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Ecosystems, their functions, services, carrying capacity and threshold level. ● Concept, hierarchy of ecology (organisms, species, populations, communities, ecosystems, biome, biosphere); habitat and ecological niche (to be explained with examples), ecological disturbance and threats. ● Types of ecosystems, characteristic features, interconnections with humans, and threats to a few ecosystems: − Forests (tropical, temperate and taiga forests, threats to tropical rainforests). − Grasslands (",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "India’s Environmental Heritage",
+      "chapter_order": 3,
+      "topic": "(i) India’s bio-cultural diversity.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) India’s bio-cultural diversity. ● Biodiversity hotspots of India, flagship species with fascinating facts and pictures. ● Cultural connections with climate and biodiversity (lifestyle, housing, agriculture, livelihood, economy, traditional practices, festivals like harvest festivals, celebrating biodiversity and reverence to elements of nature, etc.).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "India’s Environmental Heritage",
+      "chapter_order": 3,
+      "topic": "(ii) Agricultural diversity.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Agricultural diversity. ● Domesticated biodiversity: India’s diversity of native crops, livestock, including poultry, and other domesticated animals, with examples. Role in local livelihood, economy and ecosystem resilience. ● Traditional agricultural practices in India and their role in food and nutrition security and ecological conservation. (Examples provided in resource material).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "India’s Environmental Heritage",
+      "chapter_order": 3,
+      "topic": "(iii) Indian Knowledge Systems (IKS) and practices: Definition and benefits from the products.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(iii) Indian Knowledge Systems (IKS) and practices: Definition and benefits from the products. ● Ayurveda, yoga, town planning, medicinal plants, traditional crops like millets, traditional rice varieties, spices, etc., food and nutrition, health and wellness, conservation practices for water, weather prediction, resource use-efficiency, etc., with local examples. ● Relationship between traditional knowledge/wisdom and sustainable economy. (Just a brief idea, not in detail). (Examples provided i",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Need to Greed: The Trajectory of Human Development",
+      "chapter_order": 4,
+      "topic": "(i) Human development - historical perspective.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) Human development - historical perspective. • Shift in human-environment dynamics from necessities to overexploitation of natural resources (to be studied with reference to developed nations), Ecology vs Economy. • Population growth - Rapid population growth, technological advancements, trend of population growth and resource-use (to be studied with reference to the case study provided in the resource material).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Need to Greed: The Trajectory of Human Development",
+      "chapter_order": 4,
+      "topic": "(ii) Industrialisation and urbanisation.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Industrialisation and urbanisation. ● Industrial revolution, production economy, mining, resource exploitation, consumerist lifestyles ● Urbanisation- causes, challenges and trends of land use change. (both to be studied with reference to the case studies provided in the resource material)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Need to Greed: The Trajectory of Human Development",
+      "chapter_order": 4,
+      "topic": "(iii) Modern agricultural practices.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iii) Modern agricultural practices. ● Intensive agriculture based on yield and production (both crops and livestock), use of pesticides and chemical fertilisers, mono-culture, cash crops. ● Disappearance of traditional crop varieties and practices. ● The trend of land use changes due to agriculture. (to be studied with reference to the case studies provided in the resource material)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Consequences of Unsustainable Development",
+      "chapter_order": 5,
+      "topic": "(i) Environmental Degradation.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(i) Environmental Degradation. ● Consequences on ecosystem: Deforestation, ecosystem degradation, habitat and biodiversity loss, and extinction. ● Consequences on natural resources: pollution of air, water, and soil, depletion of water resources, disruption of soil fertility and food production. (to be studied with relevant examples and case studies in the global and Indian context provided in the resource material)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Consequences of Unsustainable Development",
+      "chapter_order": 5,
+      "topic": "(ii) Social Consequences .",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) Social Consequences . ● Increased inequality: poverty and social divisions, loss of traditional livelihoods and displacement, lack of access to clean water, air, and other resources, ● Health and occupational hazards. ● Issues of social security and welfare. ● Disruption of traditional lifestyles and cultural loss. (to be studied with a relevant example in the global and Indian context provided in the resource material)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Consequences of Unsustainable Development",
+      "chapter_order": 5,
+      "topic": "(iii) Economic Consequences.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iii) Economic Consequences. Increasing income gap between rich and poor, economic instability, decline in agricultural productivity and resource-based industries, conflict over land and natural resources, short-term gain vs long-term losses. (to be studied with a relevant example in the global and Indian context provided in the resource material)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Triple Planetary Crisis",
+      "chapter_order": 6,
+      "topic": "(i) Triple Planetary Crisis.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(i) Triple Planetary Crisis. Human interference with the environment and the emergence of the three major planetary crises, viz., environmental pollution, biodiversity loss, and climate change, local to global manifestation (with illustration/local stories).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Triple Planetary Crisis",
+      "chapter_order": 6,
+      "topic": "(ii) Environmental Pollution.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) Environmental Pollution. • Defining environmental pollution and pollutants. Types of Pollution - Air, Water, Soil/Land, Plastic. Causes and cross-cutting sources. • Major Pollutants: Air pollutants and Air Quality Index (AQI), water pollutants, soil pollutants, and plastic pollutants. • Effects of Pollution: on the environment, human health and biodiversity. Issues like eutrophication, leaching, biomagnification, scale of plastic pollution and the increasing microplastic pollution. (Case st",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Triple Planetary Crisis",
+      "chapter_order": 6,
+      "topic": "(iii) Biodiversity loss.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iii) Biodiversity loss. Introduction, alarming rate of biodiversity loss- national and global, with examples, 6th mass extinction, interconnection of species and coextinction. (Meaning and point-wise explanation). ● Causes: habitat loss and fragmentation, invasive species, co-extinction, and overexploitation of biodiversity. ● Key issues: Species extinction and ecosystem disruption, dominance of invasive species, loss of ecosystem services, social, economic and cultural losses (sustenance and l",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Triple Planetary Crisis",
+      "chapter_order": 6,
+      "topic": "(iv) Climate change.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(iv) Climate change. Definition, key greenhouse gases (GHGs) and their characteristics, increasing trend of GHGs in the atmosphere over the recent past and correlation with increase in global average temperature, concept of carbon footprint, per capita emissions of developed and developing countries. ● Causes: Carbon emissions from burning of fossil fuels for electricity production, industrial production, manufacturing, construction, cooking and transportation, deforestation and land use changes",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Transition to a Sustainable Society",
+      "chapter_order": 7,
+      "topic": "(i) Introduction to Sustainable Development.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(i) Introduction to Sustainable Development. Definition, principles, need for sustainable development, historical milestones - 2030 Agenda for Sustainable Development in 2015, the 17 SDGs and the present focus on sustainability in every walk of life",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Transition to a Sustainable Society",
+      "chapter_order": 7,
+      "topic": "(ii) Approach to Sustainable Development.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(ii) Approach to Sustainable Development. Leapfrog approach and its benefits (to be explained with simple illustration), examples of leapfrog approach: clean energy, green infrastructure, efficient public transport etc.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Transition to a Sustainable Society",
+      "chapter_order": 7,
+      "topic": "(iii) Environment Ethics.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(iii) Environment Ethics. Understanding environmental ethics, key environmental principles and the need for putting environmental ethics in practice at every level - from global policy levels to individual level.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sustainable Handprint Actions in Home, Schools and Neighbourhood",
+      "chapter_order": 8,
+      "topic": "(i) Concept of Handprint.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(i) Concept of Handprint. Individual to community-led actions for sustainability, Scientific approach to studying, evaluating and monitoring sustainability issues: Identifying environmental problems in our immediate environment and connected issues/impacts, profiling them with respect to Triple Planetary Crisis (TPC), gathering information and data and preparing action plans.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sustainable Handprint Actions in Home, Schools and Neighbourhood",
+      "chapter_order": 8,
+      "topic": "(ii) Practical tools and exercises at home and schools for monitoring and improving the environment.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(ii) Practical tools and exercises at home and schools for monitoring and improving the environment. Develop and use of basic level tools for energy audits, waste audit, and water budgeting, local biodiversity observation and mapping.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

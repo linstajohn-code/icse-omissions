@@ -1,0 +1,262 @@
+{
+  "subject_code": "52",
+  "subject_name": "Biology",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/12.-Biology.pdf",
+  "source_pdf_sha256": "8cd305387a06fa57c9f48b16aab0fbff6fdda7b3b7d6e784b776620e03af0163",
+  "ingested_at": "2026-05-21T12:15:36.057Z",
+  "entries": [
+    {
+      "chapter": "Basic Biology",
+      "chapter_order": 1,
+      "topic": "(i) Structure of chromosome.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(i) Structure of chromosome. Basic structure of chromosome with elementary understanding of terms such as chromatin, chromatid, gene structure of DNA and centromere.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Basic Biology",
+      "chapter_order": 1,
+      "topic": "(ii) Cell Cycle and Cell Division.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(ii) Cell Cycle and Cell Division. Cell cycle – Interphase (G1, S, G2) and Mitotic phase. Cell Division: ● Mitosis and its stages in Animal and Plant cells. ● Difference between Mitosis in Plant cells and Animal cells. ● A basic understanding of Meiosis as a reduction division (stages not required). ● A brief idea of homologous chromosomes. ● Significance and major differences between mitotic and meiotic division.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Plant Physiology",
+      "chapter_order": 2,
+      "topic": "(i) Absorption by roots, imbibition, diffusion and osmosis; endosmosis, exosmosis, osmotic pressure, root",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(i) Absorption by roots, imbibition, diffusion and osmosis; endosmosis, exosmosis, osmotic pressure, root pressure; semi permeable membrane, selectively permeable membrane, turgidity and flaccidity; plasmolysis and deplasmolysis; the absorption of water and minerals; active and passive transport (in brief); The rise of water up to the xylem; Forces responsible for ascent of sap. ● Understanding of the processes related to absorption of water by the roots. ● Characteristics of roots, which make t",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Plant Physiology",
+      "chapter_order": 2,
+      "topic": "(ii) Transpiration: The process and its significance. Ganong’s potometer and its limitations. The factors",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(ii) Transpiration: The process and its significance. Ganong’s potometer and its limitations. The factors affecting rate of transpiration. Experiments on transpiration. A brief idea of guttation and bleeding. ● Concept of transpiration and its importance to plants. ● Kinds of transpiration. ● Experiments related to transpiration: (a) Loss in weight of a potted plant or a leafy shoot in a test tube as a result of transpiration. (b) Use of cobalt chloride paper to demonstrate unequal rate of trans",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Plant Physiology",
+      "chapter_order": 2,
+      "topic": "(iii) Photosynthesis: The process and its importance to life in general; experiments to show the necessity of",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(iii) Photosynthesis: The process and its importance to life in general; experiments to show the necessity of light, carbon dioxide, chlorophyll, formation of starch and release of oxygen; carbon cycle. The process and significance of Photosynthesis. ● The internal structure of chloroplast to be explained to give an idea of the site of light and dark reactions. ● Opening and closing of stomata based on potassium ion exchange theory. ● Overall balanced chemical equation to represent photosynthesi",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Plant Physiology",
+      "chapter_order": 2,
+      "topic": "(iv) Chemical coordination in Plants: A general study of plant growth regulators; Tropic movements in plants.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(iv) Chemical coordination in Plants: A general study of plant growth regulators; Tropic movements in plants. ● Brief idea of the physiological effects of Auxins, Gibberellins, Cytokinin, Abscisic acid and Ethylene in regulating the growth of plants. ● Basic understanding of the tropic movements in plants with reference to – Phototropism, Geotropism, Hydrotropism, Thigmotropism and Chemotropism (supported with suitable examples). ● Demonstration of geotropism with the help of Clinostat.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Anatomy and Physiology",
+      "chapter_order": 3,
+      "topic": "(i) Respiratory System: Organs; mechanism of breathing; tissue respiration, heat production.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(i) Respiratory System: Organs; mechanism of breathing; tissue respiration, heat production. ● Structures of the respiratory system. ● Differences between anaerobic respiration in plants and in man. ● Role of diaphragm and intercostal muscles in breathing to provide a clear idea of the breathing process. ● Brief idea of gaseous transport and tissue respiration. ● Brief understanding of respiratory volumes. ● Effect of altitude on breathing; asphyxiation and hypoxia.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Anatomy and Physiology",
+      "chapter_order": 3,
+      "topic": "(ii) Circulatory System: Blood and lymph, the structure and working of the heart, blood vessels, circulation",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(ii) Circulatory System: Blood and lymph, the structure and working of the heart, blood vessels, circulation of blood (only names of the main blood vessels entering and leaving the heart, liver, kidney and lungs). Lymphatic system. ● Composition of blood (structure and functions of RBC, WBC and platelets). ● Definitions of erythropenia, leukopenia, thrombocytopenia, polycythaemia, leucocytosis, thrombocytosis. ● Brief idea of tissue fluid and lymph. ● Increase in efficiency of mammalian red bloo",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Anatomy and Physiology",
+      "chapter_order": 3,
+      "topic": "(iii) Excretory System: A brief introduction to the excretory organs; parts of the urinary system; structure and",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iii) Excretory System: A brief introduction to the excretory organs; parts of the urinary system; structure and function of the kidneys; blood vessels associated with kidneys; structure and function of nephron. ● A brief idea of different excretory organs in the human body and their structures. ● A brief idea of ultra-filtration (emphasis on the diagram of malpighian capsule); selective reabsorption and tubular secretion in relation to the composition of blood plasma and urine formed. ● Normal ",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Anatomy and Physiology",
+      "chapter_order": 3,
+      "topic": "(iv) Nervous system: Structure of Neuron; central, autonomous and peripheral nervous system (in brief); brain",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iv) Nervous system: Structure of Neuron; central, autonomous and peripheral nervous system (in brief); brain and spinal cord; reflex action and how it differs from voluntary action. Sense organs - Eye: Structure, functions, defects and corrective measures: Ear: Parts and functions of the ear. ● Parts of a neuron, types of neurons. ● Nerve, Types of Nerves and synapse. ● Sympathetic and para sympathetic nervous systems. ● Brief idea of the mechanism of transmission of nerve impulse. ● Various pa",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Anatomy and Physiology",
+      "chapter_order": 3,
+      "topic": "(v) Endocrine System: General study of the following glands: Adrenal, Pancreas, Thyroid and Pituitary.",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(v) Endocrine System: General study of the following glands: Adrenal, Pancreas, Thyroid and Pituitary. Endocrine and Exocrine glands. ● Differences between Endocrine and Exocrine glands. ● Exact location and shape of the endocrine glands in the human body. ● Hormones secreted by the following glands: Pancreas: insulin and glucagon; Thyroid: only thyroxin; Adrenal gland: Cortical hormones and adrenaline; Pituitary: growth hormone, tropic hormones, ADH and oxytocin. ● Effects of hypo secretion and",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Anatomy and Physiology",
+      "chapter_order": 3,
+      "topic": "(vi) Reproductive System: Organs, fertilisation, functions of placenta in the growth of the embryo, Menstrual",
+      "topic_order": 6,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(vi) Reproductive System: Organs, fertilisation, functions of placenta in the growth of the embryo, Menstrual cycle. ● Functions of Male and Female reproductive organs and male accessory glands. An idea of secondary sexual characters. ● Structure and functions of the various parts of the sperm and egg. ● Explanation of the terms: Fertilisation, implantation, placenta, gestation and parturition. ● A brief idea of the role of placenta in nutrition, respiration and excretion of the embryo; its endo",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Genetics",
+      "chapter_order": 4,
+      "topic": "(i) The three laws of Mendel.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(i) The three laws of Mendel.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Genetics",
+      "chapter_order": 4,
+      "topic": "(ii) Monohybrid cross – phenotype and genotype.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(ii) Monohybrid cross – phenotype and genotype.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Genetics",
+      "chapter_order": 4,
+      "topic": "(iii) Dihybrid cross – Only phenotype.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iii) Dihybrid cross – Only phenotype.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Genetics",
+      "chapter_order": 4,
+      "topic": "(iv) The following terms to be covered: gene, allele, heterozygous, homozygous, dominant, recessive,",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iv) The following terms to be covered: gene, allele, heterozygous, homozygous, dominant, recessive, mutation, variation, phenotype, genotype, autosomes, allosomes in humans.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Genetics",
+      "chapter_order": 4,
+      "topic": "(v) Sex determination in human beings.",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(v) Sex determination in human beings.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Genetics",
+      "chapter_order": 4,
+      "topic": "(vi) Sex linked inheritance of diseases (only X-linked like haemophilia and colour blindness.)",
+      "topic_order": 6,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(vi) Sex linked inheritance of diseases (only X-linked like haemophilia and colour blindness.)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Population",
+      "chapter_order": 5,
+      "topic": "(i) Main reasons for the sharp rise in human population in India and in the world.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(i) Main reasons for the sharp rise in human population in India and in the world.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Population",
+      "chapter_order": 5,
+      "topic": "(ii) A brief explanation of the terms: demography, population density, birth rate, death rate and growth rate",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(ii) A brief explanation of the terms: demography, population density, birth rate, death rate and growth rate of population.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Population",
+      "chapter_order": 5,
+      "topic": "(iii) Problems faced due to population explosion: unemployment, over exploitation of natural resources, low",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iii) Problems faced due to population explosion: unemployment, over exploitation of natural resources, low per capita income, price rise, pollution, unequal distribution of wealth.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Population",
+      "chapter_order": 5,
+      "topic": "(iv) Population education.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iv) Population education.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Population",
+      "chapter_order": 5,
+      "topic": "(v) Methods of population control: Surgical methods – Tubectomy and vasectomy, a brief understanding of",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(v) Methods of population control: Surgical methods – Tubectomy and vasectomy, a brief understanding of the use of condoms, contraceptive pills, intrauterine devices (IUDs) to prevent pregnancy.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Environmental concerns & Pollution",
+      "chapter_order": 6,
+      "topic": "(i) Brief idea about various environmental issues & concerns. Types and sources of pollution; major",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(i) Brief idea about various environmental issues & concerns. Types and sources of pollution; major pollutants. ● Air: Vehicular, industrial, burning garbage, brick kilns. ● Water: Household detergents, sewage, industrial waste, oil spills. ● Soil: Industrial waste, urban commercial and domestic waste, chemical fertilisers. ● Biomedical waste – used and discarded needles, syringes, soiled dressings etc. Radiation: X-rays; radioactive fallout from nuclear plants. ● Noise: Motor Vehicles, industri",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Environmental concerns & Pollution",
+      "chapter_order": 6,
+      "topic": "(ii) Biodegradable and Non-biodegradable wastes.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(ii) Biodegradable and Non-biodegradable wastes. Biodegradable wastes: meaning and example; paper, vegetable peels, etc. Non-biodegradable wastes: meaning and example; plastics, glass, Styrofoam etc. Pesticides like DDT etc. (iii)Effects of pollution on climate, environment, human health and other organisms; control measures. ● Brief explanation of: Greenhouse effect and Global warming, Acid rain, Ozone layer depletion. ● Measures to control pollution: - Use of unleaded petrol / CNG in automobil",
+      "effective_session": "2027-28"
+    }
+  ]
+}

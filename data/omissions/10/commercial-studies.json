@@ -1,0 +1,202 @@
+{
+  "subject_code": "58",
+  "subject_name": "Commercial Studies",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/14.-Commercial-Studies.pdf",
+  "source_pdf_sha256": "f6d57aefcb28918385e0ed4f8f318f9ae712276a0531aed44bdb67de7ed58c68",
+  "ingested_at": "2026-05-21T12:15:36.213Z",
+  "entries": [
+    {
+      "chapter": "Stakeholders in Commercial Organisations",
+      "chapter_order": 1,
+      "topic": "(a) Meaning of stakeholder, types: Internal (shareholder, employee and employer – meaning of each) and",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Meaning of stakeholder, types: Internal (shareholder, employee and employer – meaning of each) and External stakeholders (supplier, creditor, government and society – meaning of each); differences between internal and external stakeholders.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Stakeholders in Commercial Organisations",
+      "chapter_order": 1,
+      "topic": "(b) Expectations of employers (owners and managers), employees, creditors and suppliers, government and",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Expectations of employers (owners and managers), employees, creditors and suppliers, government and society from a commercial organisation.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Marketing and Sales",
+      "chapter_order": 2,
+      "topic": "(a) Marketing",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Marketing Meaning and objectives of marketing. Difference between marketing and sales.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Marketing and Sales",
+      "chapter_order": 2,
+      "topic": "(b) Product and service",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Product and service Meaning and difference between a product and a service (with examples).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Marketing and Sales",
+      "chapter_order": 2,
+      "topic": "(c) Pricing",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Pricing Meaning and objectives",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Marketing and Sales",
+      "chapter_order": 2,
+      "topic": "(d) Advertising and Sales promotion",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(d) Advertising and Sales promotion Advertising: meaning, importance of advertising; merits and demerits, difference between advertising and publicity. Advertising Agency; meaning and functions only, Social advertising media - Concept and examples only. Sales promotion – meaning and techniques; difference between advertising and sales promotion. (e) Consumer Protection Consumer Protection Act (2019); features of the Act, rights of a consumer, Consumer exploitation; meaning and types, Importance ",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Finance and Accounting",
+      "chapter_order": 3,
+      "topic": "(i) Meaning and preparation of Trading account, Profit and Loss account and Balance sheet based on",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(i) Meaning and preparation of Trading account, Profit and Loss account and Balance sheet based on the given trial balance with the adjustment of closing stock only.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Finance and Accounting",
+      "chapter_order": 3,
+      "topic": "(ii) (Preparation of manufacturing account, profit and loss on sale of assets, intangible and fictitious",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(ii) (Preparation of manufacturing account, profit and loss on sale of assets, intangible and fictitious assets, prepaid and accrued expenses and incomes are excluded.) (c) Costs Fundamental concept of Cost Classification of costs- based on behaviour (fixed, variable, semi-variable), nature (direct, indirect). (d) Budgeting Meaning and utility of budgeting; comparison between budgeting and forecasting; types of budgets: sales, production, cash, purchase and master – meaning only. (e) Sources of ",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Resources",
+      "chapter_order": 4,
+      "topic": "(i) Recruitment – meaning; sources: internal and external; advantages and disadvantages of internal and",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(i) Recruitment – meaning; sources: internal and external; advantages and disadvantages of internal and external sources.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Resources",
+      "chapter_order": 4,
+      "topic": "(ii) Selection- meaning and steps, types of selection tests.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(ii) Selection- meaning and steps, types of selection tests.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Resources",
+      "chapter_order": 4,
+      "topic": "(iii) Training – meaning, objectives and methods of training (on the job and off the job).",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(iii) Training – meaning, objectives and methods of training (on the job and off the job). (b) Industrial relations and trade unions. Industrial relations: Meaning and objectives; Trade Unions: Meaning and Functions. (c) Social Security Concept of Social Security; brief reference to Provident Fund, Gratuity, National Pension Scheme. (Acts are not required).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Logistics",
+      "chapter_order": 5,
+      "topic": "(a) Transportation",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(a) Transportation Modes of transportation: land (road and rail), air and water; merits and demerits of each.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Logistics",
+      "chapter_order": 5,
+      "topic": "(b) Warehousing",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(b) Warehousing Meaning, importance and types (public, private and bonded – meaning only).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Logistics",
+      "chapter_order": 5,
+      "topic": "(c) Insurance",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(c) Insurance Meaning; Types of insurance: Life insurance, General insurance; (Fire, Health and Marine- meaning only) principles of insurance.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Banking",
+      "chapter_order": 6,
+      "topic": "(a) Central Bank",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(a) Central Bank Central Bank: Meaning and functions, Difference between the Central Bank and Commercial Banks.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Banking",
+      "chapter_order": 6,
+      "topic": "(b) Internet Banking",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(b) Internet Banking Modes of transferring money / Net Banking: NEFT, RTGS, IMPS, mobile wallets: meaning only. ATM, Credit & Debit cards- meaning & difference, caution to be taken while using these cards.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Banking",
+      "chapter_order": 6,
+      "topic": "(c) Financial fraudulent practices",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(c) Financial fraudulent practices Credit card fraud, false accounting, insurance fraud, intellectual property fraud, internet and cyber fraud. A brief understanding of these types of financial fraud.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Government initiatives in Environment Protection",
+      "chapter_order": 7,
+      "topic": "(a) Environment (Protection) Act,1986 -",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(a) Environment (Protection) Act,1986 - Features of the act.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Government initiatives in Environment Protection",
+      "chapter_order": 7,
+      "topic": "(b) Central Pollution Control Board –",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(b) Central Pollution Control Board – Functions only.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

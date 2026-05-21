@@ -1,0 +1,192 @@
+{
+  "subject_code": "52",
+  "subject_name": "Physics",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/10.-Physics.pdf",
+  "source_pdf_sha256": "f5943257e332c5cbed52a9dddc7eda97b4684b416a8047417ae95c5f9b2465ba",
+  "ingested_at": "2026-05-21T12:15:36.497Z",
+  "entries": [
+    {
+      "chapter": "Measurements and Experimentation",
+      "chapter_order": 1,
+      "topic": "(i) International System of Units, the required SI units with correct symbols are given at the end of this",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(i) International System of Units, the required SI units with correct symbols are given at the end of this syllabus. Other commonly used system of units - fps and cgs.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Measurements and Experimentation",
+      "chapter_order": 1,
+      "topic": "(ii) Concept of least count of common instruments, Measurements using common instruments, Vernier",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(ii) Concept of least count of common instruments, Measurements using common instruments, Vernier callipers and micro-metre screw gauge for length, and simple pendulum for time. Measurement of length using, Vernier callipers and micro-metre screw gauge. Decreasing least-count leads to an increase in accuracy; least-count (LC) of Vernier callipers and screw gauge), zero error (basic idea), Focus more on screw gauge with pitch 1mm and least count 0.01 mm. Only pictorial numerical of Vernier callip",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Motion in One Dimension",
+      "chapter_order": 2,
+      "topic": "Motion in One Dimension",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "Scalar and vector quantities, distance, speed, velocity, acceleration; graphs of distance-time and speed-time; equations of uniformly accelerated motion with derivations. Examples of Scalar and vector quantities only, rest and motion in one dimension including motion under gravity; distance and displacement; speed and velocity; acceleration and retardation; distance-time and velocity-time graphs; information that can be derived from these graphs, [non-uniform acceleration excluded]. Equations to",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Laws of Motion",
+      "chapter_order": 3,
+      "topic": "(i) Contact and non-contact forces; cgs & SI units.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) Contact and non-contact forces; cgs & SI units. Examples of contact forces (frictional force, normal reaction force, tension force as applied through strings and non-contact forces (gravitational, electric and magnetic). General properties of non-contact forces. Inverse square relation, cgs and SI units of force and their relation with Gravitational units.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Laws of Motion",
+      "chapter_order": 3,
+      "topic": "(ii) Newton’s First Law of Motion (qualitative discussion) introduction of the idea of inertia, mass and force.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Newton’s First Law of Motion (qualitative discussion) introduction of the idea of inertia, mass and force. Newton's first law; statement and qualitative discussion; definitions of inertia and force from first law, Static and dynamic inertia, examples of inertia as illustration of first law. (Inertial mass not included). (iii)Newton’s Second Law of Motion (including F=ma); weight and mass. Detailed study of the second law. Linear momentum, p = mv; change in momentum ∆p = ∆(mv) = m ∆v for mas",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Laws of Motion",
+      "chapter_order": 3,
+      "topic": "(iv) Newton’s Third Law of Motion (qualitative discussion only); simple examples.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(iv) Newton’s Third Law of Motion (qualitative discussion only); simple examples. Statement with qualitative discussion; examples of action - reaction pairs, (FBA and FAB); action and reaction always act on different bodies.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Laws of Motion",
+      "chapter_order": 3,
+      "topic": "(v) Gravitation.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(v) Gravitation. Universal Law of Gravitation- Statement, equation and its importance, applications of the law. Gravity, acceleration due to gravity, free fall. Weight and mass, Weight as force of gravity comparison of mass and weight; gravitational units of force, (Simple numerical problems), (problems on variation of gravity excluded).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fluids",
+      "chapter_order": 4,
+      "topic": "(i) Change of pressure with depth (including the formula p=hρg); Transmission of pressure in liquids;",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) Change of pressure with depth (including the formula p=hρg); Transmission of pressure in liquids; Thrust and Pressure and their units; pressure exerted by a liquid column p = h ρg; simple daily life examples; Factors affecting the pressure in stationary fluid (i) broadness of the base of a dam, (ii) Diver’s suit etc. some consequences of p = h ρg; transmission of pressure in liquids; Pascal's law (Concept and simple numerical problems); examples; [working of hydraulic machines not included]",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fluids",
+      "chapter_order": 4,
+      "topic": "(ii) Buoyancy, Archimedes’ Principle; floatation; relationship with density; relative density; determination of",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Buoyancy, Archimedes’ Principle; floatation; relationship with density; relative density; determination of relative density of a solid. Buoyancy, upthrust (FB); definition, characteristic properties of upthrust; Archimedes’ principle; explanation of cases where bodies with different densities as compared with the densities of liquid in which it is immersed; different cases: Case I: FB < weight W of the body, 𝑑𝑑𝐵𝐵 > 𝑑𝑑𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓𝑓, Apparent weight, Relative Density (RD) and Arc",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Heat and Energy",
+      "chapter_order": 5,
+      "topic": "(i) Concepts of heat and temperature.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(i) Concepts of heat and temperature. Heat as energy, SI unit – joule. 1 cal = 4.186 J exactly.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Heat and Energy",
+      "chapter_order": 5,
+      "topic": "(ii) Anomalous expansion of water; graphs showing variation of volume and density of water with",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) Anomalous expansion of water; graphs showing variation of volume and density of water with temperature in the 0 to 10 0C range. Hope’s experiment and consequences of Anomalous expansion.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Heat and Energy",
+      "chapter_order": 5,
+      "topic": "(iii) Global warming and Green House effect.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iii) Global warming and Green House effect. Meaning, causes and impact on the life on earth. Energy degradation – meaning and examples.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Light",
+      "chapter_order": 6,
+      "topic": "(i) Reflection of light; images formed by a pair of parallel and plane mirrors.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(i) Reflection of light; images formed by a pair of parallel and plane mirrors. Laws of reflection; experimental verification; characteristics of images formed in a pair of mirrors, uses of plane mirrors. Formation of multiple images when two plane mirrors are placed parallel to each other.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Light",
+      "chapter_order": 6,
+      "topic": "(ii) Spherical mirrors; characteristics of image formed by these mirrors. Uses of concave and convex mirrors.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) Spherical mirrors; characteristics of image formed by these mirrors. Uses of concave and convex mirrors. (Only simple direct ray diagrams are required). Brief introduction to spherical mirrors - concave and convex mirrors, centre and radius of curvature, pole and principal axis, focus and focal length; path of specific rays [rays parallel to the principal axis, rays passing through the focus, rays through centre of curvature, rays parallel to each other, rays through a single point on the f",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sound",
+      "chapter_order": 7,
+      "topic": "(i) Introduction to wave motion. Types of mechanical waves, transverse and longitudinal waves, their",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(i) Introduction to wave motion. Types of mechanical waves, transverse and longitudinal waves, their comparison, Nature of Sound waves. Requirement of a medium for sound waves to travel; propagation and speed in different media; comparison with speed of light. Sound propagation, terms – frequency (f), wavelength ( λ), velocity (V), time period(T), relation V = f λ. (Simple numerical problems) effect of different factors on the speed of sound; comparison of speed of sound with speed of light; con",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sound",
+      "chapter_order": 7,
+      "topic": "(ii) Infrasonic, sonic, ultrasonic frequencies and their applications.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) Infrasonic, sonic, ultrasonic frequencies and their applications. Elementary ideas and simple applications only. Difference between ultrasonic, and supersonic; and infrasonic and subsonic.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electricity and Magnetism",
+      "chapter_order": 8,
+      "topic": "(i) Free electrons, Simple electric circuit using an electric cell and a bulb to introduce the idea of current",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(i) Free electrons, Simple electric circuit using an electric cell and a bulb to introduce the idea of current (including its relationship to charge); electric charge, potential difference; insulators and conductors; closed and open circuits; direction of current (electron flow and conventional); Resistance. Current Electricity: Concept of free electrons, types of conductors (good conductors, bad conductors, semi-conductors and superconductors), electric charge(Q) and its SI unit, quantum nature",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electricity and Magnetism",
+      "chapter_order": 8,
+      "topic": "(ii) Induced magnetism, Magnetic field of earth. Neutral points in magnetic fields.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(ii) Induced magnetism, Magnetic field of earth. Neutral points in magnetic fields. Magnetism: magnetism induced by bar magnets on magnetic materials; induction precedes attraction; lines of magnetic field and their properties; evidences of existence of earth’s magnetic field, magnetic compass. Uniform magnetic field of earth and non-uniform field of a bar magnet placed along magnetic north-south; neutral point; properties of magnetic field lines.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

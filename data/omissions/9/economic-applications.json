@@ -1,0 +1,82 @@
+{
+  "subject_code": "87",
+  "subject_name": "Economic Applications",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/19.-Economic-Applications.pdf",
+  "source_pdf_sha256": "70e73ad7396379d8348f7edbfd8bfa4bc3ec073b72d33b2abbc74398aeb7a5dc",
+  "ingested_at": "2026-05-21T12:15:36.349Z",
+  "entries": [
+    {
+      "chapter": "Basic Concepts of Economics",
+      "chapter_order": 1,
+      "topic": "(a) Meaning and definition of Economics; Economic entities: Consumer, Producer, Households and",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(a) Meaning and definition of Economics; Economic entities: Consumer, Producer, Households and Government. The importance of these economic entities. The meaning of an economy and role of the economic entities. A basic understanding of the concepts of economics. The definitions of economics with reference to allocation of resources and scarcity of resources (Robbins, Samuelson). Basic explanation of the role of consumer, producer, government and households in an economy.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Basic Concepts of Economics",
+      "chapter_order": 1,
+      "topic": "(b) Three major problems of an economy: What to produce? How to produce? For whom to produce?",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(b) Three major problems of an economy: What to produce? How to produce? For whom to produce? Efficient use of resources; basic understanding of the terms: economic growth and economic development A brief introduction to the basic problems of an economy - What to produce? How to produce? For whom to produce? Needs to be emphasised irrespective of the type of an economy. Manner in which economics as a subject helps us to allocate scarce resources in an efficient way needs to be explained. The con",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Basic Concepts of Economics",
+      "chapter_order": 1,
+      "topic": "(c) The nature and the classification of an economy: developed, underdeveloped and developing economy;",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(c) The nature and the classification of an economy: developed, underdeveloped and developing economy; Capitalistic, Socialistic, Mixed economies- main features. A basic understanding of the features of capitalistic, socialistic and mixed economies is required. Meaning and classification of economies into developing and developed should be explained.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "An Overview of Indian Economy",
+      "chapter_order": 2,
+      "topic": "An Overview of Indian Economy",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "The nature of Indian economy: the main sectors of Indian economy - Agriculture, Industry and Services. Role of these sectors in Indian economy and their interrelationship. The sectors according to ownership- private and public; the sectors according to type of economy- rural and urban. Role of agriculture in India and its problems. Impact of Agricultural practices on the Ecosystem. Construction of dams- loss of habitat species. Loss of topsoil and desertification. Indiscriminate use of fertilize",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Infrastructure of the Indian Economy",
+      "chapter_order": 3,
+      "topic": "Infrastructure of the Indian Economy",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Economic and social infrastructure of Indian economy. Social infrastructure- education, health, family welfare and housing. A basic understanding of the economic and social infrastructure and its role in India’s economic development. The problems pertaining to lack of such infrastructure and their adverse impact on the economy to be discussed.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Consumer Awareness",
+      "chapter_order": 4,
+      "topic": "Consumer Awareness",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Ways in which consumer is exploited. Reasons for exploitation of consumers; Growth of consumer awareness; consumer behaviour in the market; consumer rights. Legal measures available to protect consumers from being exploited – (COPRA, RTI). Understanding the importance of educating consumers of their rights - awareness of food adulteration and its harmful effects.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Globalization",
+      "chapter_order": 5,
+      "topic": "Globalization",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Meaning and factors enabling Globalization, WTO, impact of Globalization. Meaning of globalization. Factors enabling globalization–technology and liberalization (removal of trade barriers). WTO (main objectives), favourable impacts of the globalization – starting of MNC’s and benefits to Indian companies. NOTE: It is suggested that case studies may be discussed on the following topics: • Globalization • Consumer Awareness • Bhopal Gas Tragedy • Chernobyl Disaster",
+      "effective_session": "2027-28"
+    }
+  ]
+}

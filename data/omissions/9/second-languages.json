@@ -1,0 +1,52 @@
+{
+  "subject_code": "various",
+  "subject_name": "Second Languages",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/3.-Second-Languages.pdf",
+  "source_pdf_sha256": "566ba3a838bf2d6c03cbb3fdb931f2c13c1c6aac2897150d0b259871088e6576",
+  "ingested_at": "2026-05-21T13:30:53.939Z",
+  "entries": [
+    {
+      "chapter": "Composition:",
+      "chapter_order": 1,
+      "topic": "Composition:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "Candidates will be required to write one composition, in the language, which may include short explanations, directions, descriptions or narratives. There will be a choice of subjects, which will be varied and may be suggested by language or other stimuli such as pictures and objects.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Letter:",
+      "chapter_order": 2,
+      "topic": "Letter:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "Candidates will be required to write a letter from a choice of two subjects. Suggestions may be given. The layout of the letter with address, introduction, conclusion, etc., will form part of the assessment.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Comprehension:",
+      "chapter_order": 3,
+      "topic": "Comprehension:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "An unseen passage of about 250 words will be given in the language. Questions on the passage will be set for answers in the language, designed to test the candidates' understanding of the content of the passage.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Grammar:",
+      "chapter_order": 4,
+      "topic": "Grammar:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "This will consist of tests in the use of language vocabulary, syntax and idioms, synthesis in sentence construction, formation of sentences in the language correctly embodying given words or forms. The question will not require any knowledge of grammatical terms. SECTION B: PRESCRIBED TEXTS - 40 Marks Candidates will be required to answer four questions from ONLY two of the prescribed textbooks. All questions will be set in the language and candidates will be required to answer in the language. ",
+      "effective_session": "2027-28"
+    }
+  ]
+}

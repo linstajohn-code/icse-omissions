@@ -1,0 +1,282 @@
+{
+  "subject_code": "50",
+  "subject_name": "Geography",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/6.-Geography.pdf",
+  "source_pdf_sha256": "41ae8f589eafbf8d8457d1f105431bb21c9ce262e3b8127d9f712d1d6272c9e4",
+  "ingested_at": "2026-05-21T12:15:36.367Z",
+  "entries": [
+    {
+      "chapter": "Our World",
+      "chapter_order": 1,
+      "topic": "(i) Concept of latitudes: main latitudes, their location with degrees, parallels of latitude and their uses.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(i) Concept of latitudes: main latitudes, their location with degrees, parallels of latitude and their uses.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Our World",
+      "chapter_order": 1,
+      "topic": "(ii) Concept of longitudes - Prime Meridian, time (local, standard and time zones, Greenwich Mean Time",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(ii) Concept of longitudes - Prime Meridian, time (local, standard and time zones, Greenwich Mean Time (GMT) and International Date Line (IDL). Eastern and Western hemisphere.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Our World",
+      "chapter_order": 1,
+      "topic": "(iii) Using latitudes and longitudes to find location. Calculation of time.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(iii) Using latitudes and longitudes to find location. Calculation of time.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Our World",
+      "chapter_order": 1,
+      "topic": "(iv) Great Circles and their use.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(iv) Great Circles and their use. (c) Rotation and Revolution Rotation – direction, speed and its effects (occurrence of day and night, the sun rising in the east and setting in the west, Coriolis effect) Revolution of the earth and its inclined axis – effects: the variation in the length of the day and night and seasonal changes with Equinoxes and Solstices. HISTORY, CIVICS AND GEOGRAPHY (50) GEOGRAPHY",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Structure of the Earth",
+      "chapter_order": 2,
+      "topic": "(a) Earth’s Structure",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(a) Earth’s Structure Core, mantle, crust – meaning, extent and their composition.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Structure of the Earth",
+      "chapter_order": 2,
+      "topic": "(b) Landforms of the Earth",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(b) Landforms of the Earth Mountains, plateaus, plains (definition, types and their formation): Mountains – fold, residual and block. Plateaus – intermont and volcanic. Plains – structural and depositional. Examples from the world and India.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Structure of the Earth",
+      "chapter_order": 2,
+      "topic": "(c) Rocks",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(c) Rocks difference between minerals and rocks, types of rocks: igneous, sedimentary, metamorphic, their characteristics and formation; rock cycle.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Structure of the Earth",
+      "chapter_order": 2,
+      "topic": "(d) Volcanoes",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(d) Volcanoes Meaning, Types – active, dormant and extinct. Effects – constructive and destructive. Important volcanic zones of the world. (e) Earthquakes Meaning, causes and measurement. Effects: destructive and constructive. Earthquake zones of the World (f) Weathering and Denudation Meaning, types and effects of weathering. Types: Physical Weathering – block and granular disintegration, exfoliation; Chemical Weathering–oxidation, carbonation, hydration and solution; Biological Weathering – ca",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Hydrosphere",
+      "chapter_order": 3,
+      "topic": "Hydrosphere",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Meaning of hydrosphere. Tides - formation and pattern. Ocean Currents – their circulation pattern and effects. (Specifically of Gulf Stream, North Atlantic Drift, Labrador Current, Kuro Shio and Oya Shio.)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atmosphere",
+      "chapter_order": 4,
+      "topic": "(i) Meaning of insolation and terrestrial radiation.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) Meaning of insolation and terrestrial radiation.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atmosphere",
+      "chapter_order": 4,
+      "topic": "(ii) Factors affecting temperature: latitude, altitude, distance from the sea, slope of land, winds and ocean",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) Factors affecting temperature: latitude, altitude, distance from the sea, slope of land, winds and ocean currents. (c) Atmospheric Pressure and Winds. (i) Meaning and factors that affect atmospheric pressure. (ii) Major pressure belts of the world.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atmosphere",
+      "chapter_order": 4,
+      "topic": "(iii) Factors affecting direction and velocity of wind – pressure gradient, Coriolis Effect.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iii) Factors affecting direction and velocity of wind – pressure gradient, Coriolis Effect.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atmosphere",
+      "chapter_order": 4,
+      "topic": "(iv) Permanent winds – Trades, Westerlies and Polar Easterlies.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iv) Permanent winds – Trades, Westerlies and Polar Easterlies.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atmosphere",
+      "chapter_order": 4,
+      "topic": "(v) Periodic winds - Land and Sea breezes, Monsoons.",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(v) Periodic winds - Land and Sea breezes, Monsoons.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atmosphere",
+      "chapter_order": 4,
+      "topic": "(vi) Local winds - Loo, Chinook, Foehn and Mistral.",
+      "topic_order": 6,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(vi) Local winds - Loo, Chinook, Foehn and Mistral.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atmosphere",
+      "chapter_order": 4,
+      "topic": "(vii) Variable winds - Cyclones and Anticyclones.",
+      "topic_order": 7,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(vii) Variable winds - Cyclones and Anticyclones.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atmosphere",
+      "chapter_order": 4,
+      "topic": "(viii) Jet Streams- Meaning and importance.",
+      "topic_order": 8,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(viii) Jet Streams- Meaning and importance. (d) Humidity (i) Humidity – meaning and difference between relative and absolute humidity. (ii) Condensation – forms (clouds, dew, frost, fog and mist). (iii) Precipitation - forms (rain, snow, and hail). (iv) Types of rainfall – relief/orographic, convectional, cyclonic/ frontal with examples from the different parts of the world.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Pollution",
+      "chapter_order": 5,
+      "topic": "(i) Noise: Traffic, factories, construction sites, loudspeakers, airports.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(i) Noise: Traffic, factories, construction sites, loudspeakers, airports.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Pollution",
+      "chapter_order": 5,
+      "topic": "(ii) Air: vehicular, industrial, burning of garbage.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) Air: vehicular, industrial, burning of garbage.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Pollution",
+      "chapter_order": 5,
+      "topic": "(iii) Water: domestic and industrial waste.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iii) Water: domestic and industrial waste.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Pollution",
+      "chapter_order": 5,
+      "topic": "(iv) Soil: chemical fertilizers, bio medical waste and pesticides.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iv) Soil: chemical fertilizers, bio medical waste and pesticides.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Pollution",
+      "chapter_order": 5,
+      "topic": "(v) Radiation: X- rays; radioactive fallout from nuclear plants.",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(v) Radiation: X- rays; radioactive fallout from nuclear plants. (c) Effects - on the environment and human health. (d) Preventive Measures Carpools, promotion of public transport, no smoking zone, restricted use of fossil fuels, saving energy and encouragement of organic farming.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Natural Regions of the World",
+      "chapter_order": 6,
+      "topic": "Natural Regions of the World",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Location, area, climate, natural vegetation and human adaptation. Equatorial region, Tropical grasslands, Tropical Deserts, Tropical Monsoon, Mediterranean, Temperate grasslands, Taiga and Tundra.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Map Work",
+      "chapter_order": 7,
+      "topic": "(a) The major Natural Regions of the world - Equatorial, Tropical Monsoon, Tropical Deserts,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(a) The major Natural Regions of the world - Equatorial, Tropical Monsoon, Tropical Deserts, Mediterranean type, Tropical grasslands, Temperate grasslands, Taiga and Tundra.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Map Work",
+      "chapter_order": 7,
+      "topic": "(b) The Oceans, Seas, Gulfs and Straits - all Major Oceans, Caribbean Sea, North Sea, Black Sea, Caspian",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(b) The Oceans, Seas, Gulfs and Straits - all Major Oceans, Caribbean Sea, North Sea, Black Sea, Caspian Sea, South China Sea, Mediterranean Sea, Gulf of Carpentaria, Hudson Bay, Persian Gulf, Gulf of Mexico, Gulf of Guinea, Bering Strait, Strait of Gibraltar, Strait of Malacca.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Map Work",
+      "chapter_order": 7,
+      "topic": "(c) Rivers – Mississippi, Colorado, Amazon, Paraguay, Nile, Zaire, Niger, Zambezi, Orange, Rhine, Volga,",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Rivers – Mississippi, Colorado, Amazon, Paraguay, Nile, Zaire, Niger, Zambezi, Orange, Rhine, Volga, Danube, Murray, Darling, Hwang Ho, Yangtse Kiang, Ob, Indus, Ganga, Mekong, Irrawaddy, Tigris, Euphrates.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Map Work",
+      "chapter_order": 7,
+      "topic": "(d) Mountains – Rockies, Andes, Appalachian, Alps, Himalayas, Pyrenees, Scandinavian Highlands,",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(d) Mountains – Rockies, Andes, Appalachian, Alps, Himalayas, Pyrenees, Scandinavian Highlands, Caucasus, Atlas, Drakensburg, Khinghan, Zagros, Urals, Great Dividing Range. (e) Plateaus – Canadian Shield, Tibetan Plateau, Brazilian Highlands, Patagonian Plateau, Iranian Plateau, Mongolian Plateau.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

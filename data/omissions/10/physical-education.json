@@ -1,0 +1,1152 @@
+{
+  "subject_code": "72",
+  "subject_name": "Physical Education",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/26.-Physical-Education.pdf",
+  "source_pdf_sha256": "b67566325a2ffb3eadb86e8faeb8366eb9e3f0beab0153216aa8c273fa1e1812",
+  "ingested_at": "2026-05-21T12:15:36.383Z",
+  "entries": [
+    {
+      "chapter": "Human Growth and Development",
+      "chapter_order": 1,
+      "topic": "(i) Growth and Development",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "(i) Growth and Development Meaning of growth and development and difference between the two. A brief understanding of the Stages: Infancy (0 to 5 years),Childhood (5 to 12years), Adolescence (12 to 19 years), Adulthood(19 to 65 years and above)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Growth and Development",
+      "chapter_order": 1,
+      "topic": "(ii) Factors that influence Human Growth and Development",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "(ii) Factors that influence Human Growth and Development Hereditary, Environmental, Gender, Nationality, Nutrition.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Physical Education",
+      "chapter_order": 2,
+      "topic": "(i) Meaning of Physical Education",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "(i) Meaning of Physical Education",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Physical Education",
+      "chapter_order": 2,
+      "topic": "(ii) Objectives of Physical Education",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "(ii) Objectives of Physical Education Physical development, Psychological development, Social development, Emotional development.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Body types",
+      "chapter_order": 3,
+      "topic": "Body types",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "Endomorph, Mesomorph, Ectomorph.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Physical Fitness",
+      "chapter_order": 4,
+      "topic": "(i) Meaning of Physical fitness and its importance.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 14,
+      "source_excerpt": "(i) Meaning of Physical fitness and its importance.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Physical Fitness",
+      "chapter_order": 4,
+      "topic": "(ii) Components of Physical Fitness.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(ii) Components of Physical Fitness. Cardiovascular/respiratory endurance, Stamina, Strength, Flexibility, Power, Speed, Coordination, Agility, Balance, Accuracy.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Physical Fitness",
+      "chapter_order": 4,
+      "topic": "(iii) Factors affecting Physical Fitness.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(iii) Factors affecting Physical Fitness. Hereditary, Nutrition, Environment, Training (facilities and methods), Illness, Self-motivation, Emotional stability, Lifestyle, Posture.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sports Training",
+      "chapter_order": 5,
+      "topic": "(i) Meaning of Sports training.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(i) Meaning of Sports training.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sports Training",
+      "chapter_order": 5,
+      "topic": "(ii) Importance of sports training and its objectives.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(ii) Importance of sports training and its objectives. Builds up strength and endurance, Improves skill levels, Builds motivation, ambition and confidence, Improves knowledge of the their sport, Increases muscle tone, Facilitates good circulation, Improves agility and flexibility, Improves the rate of waste product disposal, Speeds up recovery time, More resistant to injury and illness, Improves concentration, Increases self-esteem. (A brief understanding)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sports Training",
+      "chapter_order": 5,
+      "topic": "(iii) Principles of Sports Training.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(iii) Principles of Sports Training. Individuality, Specificity, Progression, Overload, Adaptation, Recovery, Reversibility, Variance, Frequency, Continuity, Active participation, Periodization, Intensity. A brief understanding of the above.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Safety in Sports",
+      "chapter_order": 6,
+      "topic": "(i) Sports related injuries.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(i) Sports related injuries. Muscle strain/Pulled muscle, Torn ACL (anterior cruciate ligament), Torn MCL (medial collateral ligament), Shin splints, Stress fracture, Fracture, Plantar fasciitis, sprained ankle, Tennis elbow, Low back pain, Hip Bursitis, Concussion, Achilles tendonitis, Runner's knee. A brief understanding of the sports injuries and first aid for these injuries.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Safety in Sports",
+      "chapter_order": 6,
+      "topic": "(ii) Prevention of injuries.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(ii) Prevention of injuries. Warming up and cooling down to be done; fitness of the participant; use of correct equipment and maintaining equipment; Proper knowledge of rules of the game/ sport; Wearing the recommended protective gear; importance of resting between workouts; supervision of coach / teacher; proper training of skills and techniques; safe facilities.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Health Education",
+      "chapter_order": 7,
+      "topic": "(i) Meaning and Importance of Health Education",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(i) Meaning and Importance of Health Education",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Health Education",
+      "chapter_order": 7,
+      "topic": "(ii) Nutrition",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(ii) Nutrition Meaning of Nutrition and balanced diet. Balanced Diet - basic constituents, functions and sources: Carbohydrates, Proteins, Fats, Vitamins, Minerals, Water, Fiber; A brief understanding of malnutrition -undernutrition and overnutrition.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Health Education",
+      "chapter_order": 7,
+      "topic": "(iii) Dietary modification for Sportsperson",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(iii) Dietary modification for Sportsperson Calories (carbohydrates; Proteins; Vitamins; Fluid; Salts (sodium etc.)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Health Education",
+      "chapter_order": 7,
+      "topic": "(iv) Meal planning guidelines for various physical activities with sample menus.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 15,
+      "source_excerpt": "(iv) Meal planning guidelines for various physical activities with sample menus.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Careers in Physical Education",
+      "chapter_order": 8,
+      "topic": "SECTION B",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "SECTION B Candidates will be required to answer questions on any two of the following team games. Cricket, Football, Hockey, Basketball, Volleyball, Badminton. The details for each game are given below:",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Careers in Physical Education",
+      "chapter_order": 8,
+      "topic": "CRICKET",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "CRICKET",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Knowledge of the game",
+      "chapter_order": 1,
+      "topic": "Knowledge of the game",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Knowledge of the game",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules of the game",
+      "chapter_order": 2,
+      "topic": "Ways of a batsman getting out",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Ways of a batsman getting out",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental skills and technique",
+      "chapter_order": 3,
+      "topic": "Catching the ball, and Diving)",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Catching the ball, and Diving)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Maiden over, Hat trick, Extra, Dead rubber, Seam bowling, Over, No ball, Bouncer,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Maiden over, Hat trick, Extra, Dead rubber, Seam bowling, Over, No ball, Bouncer,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Sight screen, Bump ball, Danger area, Power play, Overthrow, Declaration, Appeal,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Sight screen, Bump ball, Danger area, Power play, Overthrow, Declaration, Appeal,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Bodyline Bowling, Dot ball, Substitute, Dead ball, Ball-tampering, Century,",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Bodyline Bowling, Dot ball, Substitute, Dead ball, Ball-tampering, Century,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Follow-on, Golden duck, Nick, Nightwatchman, Tailender, Pull shot,",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Follow-on, Golden duck, Nick, Nightwatchman, Tailender, Pull shot,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Innings defeat, Cover drive, Innings, Straight drive, Sweep shot, Hook shot,",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Innings defeat, Cover drive, Innings, Straight drive, Sweep shot, Hook shot,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Reverse sweep, Upper cut, Late cut, Leg glance, Pull shot, Flick shot, Beamer,",
+      "topic_order": 6,
+      "status": "included",
+      "source_page": 16,
+      "source_excerpt": "Reverse sweep, Upper cut, Late cut, Leg glance, Pull shot, Flick shot, Beamer,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Off cutter, Leg cutter, Short pitch, Full length delivery, Reverse swing,",
+      "topic_order": 7,
+      "status": "included",
+      "source_page": 17,
+      "source_excerpt": "Off cutter, Leg cutter, Short pitch, Full length delivery, Reverse swing,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International governing bodies of Cricket",
+      "chapter_order": 5,
+      "topic": "BCCI - Board of Control for Cricket in India ICC - International Cricket Council",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 17,
+      "source_excerpt": "BCCI - Board of Control for Cricket in India ICC - International Cricket Council",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International tournaments",
+      "chapter_order": 6,
+      "topic": "FOOTBALL",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 17,
+      "source_excerpt": "FOOTBALL",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Knowledge of the game",
+      "chapter_order": 1,
+      "topic": "Knowledge of the game",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 17,
+      "source_excerpt": "Knowledge of the game",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Laws of the game",
+      "chapter_order": 2,
+      "topic": "Goalpost, Height of Corner flags",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 17,
+      "source_excerpt": "Goalpost, Height of Corner flags The Ball: Shape, Material, Circumference, weight, Air pressure The Players: Number of players (playing eleven and substitutes), Number of substitutions allowed in a match,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Laws of the game",
+      "chapter_order": 2,
+      "topic": "Substitution procedure",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 17,
+      "source_excerpt": "Substitution procedure The Players’ Equipment, Compulsory Equipment The Referee: Powers and Duties, Compulsory Equipment, Referee signals Other match officials: Assistant Referees: Duties and Signals; Fourth official: Duties; Additional assistant referee: Duties; Reserve assistant referee: Duties The Duration of the Match: Periods of play, Half-time interval, Allowance for time lost, Penalty kick,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Laws of the game",
+      "chapter_order": 2,
+      "topic": "Abandoned match",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 17,
+      "source_excerpt": "Abandoned match The Start and Restart of Play: Kick-off and its Procedure (start, both halves, both halves of extra time and restarts play after a goal), Free kicks and its Procedure (Direct and Indirect), Penalty Kicks and its Procedure, Throw-in and its Procedure, Goal kicks and its Procedure, Corner Kicks and its Procedure",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Laws of the game",
+      "chapter_order": 2,
+      "topic": "The Ball in and out of Play",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 17,
+      "source_excerpt": "The Ball in and out of Play Determining the outcome of a match: Goal scored, Winning team, Kicks from the penalty mark Offside: Offside position, Offside offence, No offence Fouls and Misconduct: Direct free kick, Indirect free kick, Disciplinary action (Yellow card and Red card),",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Laws of the game",
+      "chapter_order": 2,
+      "topic": "Restart of play after fouls and misconduct",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 17,
+      "source_excerpt": "Restart of play after fouls and misconduct",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills and Technique",
+      "chapter_order": 3,
+      "topic": "Fundamental Skills and Technique",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 17,
+      "source_excerpt": "Passing (Short pass and Long pass); Trapping (Step trap, Inside trap, Thigh trap, Chest trap and Head trap); Shooting (Instep, Swerve shot, Chip and toe punt); Dribbling; Receiving; Heading; Tackle; Goalkeeping.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Advantage, Zonal marking, Sliding Tackle, Through pass, Quarter Circle,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 18,
+      "source_excerpt": "Advantage, Zonal marking, Sliding Tackle, Through pass, Quarter Circle,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Man-to-Man Marking, Additional time, Extra time, Nutmeg, One-on-one, Step over,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 18,
+      "source_excerpt": "Man-to-Man Marking, Additional time, Extra time, Nutmeg, One-on-one, Step over,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Technical area,Volley, Half Volley, Attacker, Defender, Chip, Cross,Overlap, Lob,",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 18,
+      "source_excerpt": "Technical area,Volley, Half Volley, Attacker, Defender, Chip, Cross,Overlap, Lob,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Banana Kick, Bicycle Kick, Wall Pass, Goal line technology (GLT)",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 18,
+      "source_excerpt": "Banana Kick, Bicycle Kick, Wall Pass, Goal line technology (GLT)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International Governing Bodies",
+      "chapter_order": 5,
+      "topic": "AIFF - All India Football Federation",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 18,
+      "source_excerpt": "AIFF - All India Football Federation",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International Governing Bodies",
+      "chapter_order": 5,
+      "topic": "FIFA - Federation Internationale de Football Association",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 18,
+      "source_excerpt": "FIFA - Federation Internationale de Football Association",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International Governing Bodies",
+      "chapter_order": 5,
+      "topic": "IFAB - International Football Association Board",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 18,
+      "source_excerpt": "IFAB - International Football Association Board",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International Tournaments",
+      "chapter_order": 6,
+      "topic": "HOCKEY",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 18,
+      "source_excerpt": "HOCKEY",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Knowledge of the game",
+      "chapter_order": 1,
+      "topic": "Knowledge of the game",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 18,
+      "source_excerpt": "Knowledge of the game",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules of the game",
+      "chapter_order": 2,
+      "topic": "Method of scoring",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 18,
+      "source_excerpt": "Method of scoring Conduct of play: Players, Goalkeepers and Players with Goalkeeping Privileges; Umpires (Responsibilities of Umpires). Penalties and procedures for taking penalties: Awarding: Free Hit, Penalty Corner and Penalty Stroke; Procedures: Free hit, Penalty corner, Penalty stroke. Personal Penalties: Cautions (Verbal warning); Temporary suspension: Green Card - 2 minutes suspension, Yellow Card- 5 minutes suspension; Permanent suspension (Red Card).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Equipment Specifications",
+      "chapter_order": 3,
+      "topic": "Hockey Stick (Specification and Properties)",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 19,
+      "source_excerpt": "Hockey Stick (Specification and Properties) Ball: Shape, Material, Circumference, Weight, Colour",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills and Technique",
+      "chapter_order": 4,
+      "topic": "Passing (Push, Drive and Sweep) Trap (Upright stop & Flat stop)",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 19,
+      "source_excerpt": "Passing (Push, Drive and Sweep) Trap (Upright stop & Flat stop) Dribbling (Straight dribble, Loose dribble, Indian dribble, Dribbling pull back, One hand dribble: right hand and reverse side) Shooting, Goalkeeping.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 5,
+      "topic": "Forehand, Playing Distance, Tackle, Back Stick, Dangerous Play, Field Goal,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 19,
+      "source_excerpt": "Forehand, Playing Distance, Tackle, Back Stick, Dangerous Play, Field Goal,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 5,
+      "topic": "Obstruction, Raised Ball, High Stick, Hooking, Reverse stick, Push, Scoop,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 19,
+      "source_excerpt": "Obstruction, Raised Ball, High Stick, Hooking, Reverse stick, Push, Scoop,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 5,
+      "topic": "Advantage Flick, High ball, Shooting circle, Under cutting, Jab, Foot,",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 19,
+      "source_excerpt": "Advantage Flick, High ball, Shooting circle, Under cutting, Jab, Foot,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 5,
+      "topic": "Give-and-go, Carry the ball, Centre pass, Back pass, Reverse hit, Rebound,",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 19,
+      "source_excerpt": "Give-and-go, Carry the ball, Centre pass, Back pass, Reverse hit, Rebound,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 5,
+      "topic": "Rusher, Long corner, Through pass, Stroke, Cross,",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 19,
+      "source_excerpt": "Rusher, Long corner, Through pass, Stroke, Cross, 16-yard hit,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International Governing Bodies",
+      "chapter_order": 6,
+      "topic": "IHF - Indian Hockey Federation",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 19,
+      "source_excerpt": "IHF - Indian Hockey Federation",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International tournaments",
+      "chapter_order": 7,
+      "topic": "BASKETBALL",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 19,
+      "source_excerpt": "BASKETBALL",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Knowledge of the game",
+      "chapter_order": 1,
+      "topic": "Knowledge of the game",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 19,
+      "source_excerpt": "Knowledge of the game",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules and Regulations of the Game",
+      "chapter_order": 2,
+      "topic": "Equipment needed to conduct the game",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 20,
+      "source_excerpt": "Equipment needed to conduct the game Teams: Definition, Rules, Players uniform",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules and Regulations of the Game",
+      "chapter_order": 2,
+      "topic": "Injured players",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 20,
+      "source_excerpt": "Injured players Captain and Coaches: Duties and powers",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules and Regulations of the Game",
+      "chapter_order": 2,
+      "topic": "Duration of Play Playing time, Tied score and Extra periods",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 20,
+      "source_excerpt": "Duration of Play Playing time, Tied score and Extra periods Status of the ball: Ball Live, Ball Dead Jump ball and Alternating possession: Jump ball: Definition, Procedure and Situations; Alternating possession: Definition and Procedure How the ball is played: Definition and Rule Control of Ball: Definition, Team Control: Continues and Ends Goal: When made and its value, Definition, Rule of scoring Throw-in, time-out, substitution: Definition, Rules and procedures. Game Lost by Forfeit, default,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules and Regulations of the Game",
+      "chapter_order": 2,
+      "topic": "Respective Violations",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 20,
+      "source_excerpt": "Respective Violations Fouls – Definition; Personal Foul, Double Foul - Definition and Penalty; Technical Foul: Rules of conduct, Violence, Definition and Penalty; Unsportsmanlike Foul, Disqualifyingfoul - Definition and Penalty Fighting - Definition, Rule and Penalty; Penalty for the respective Fouls; Five fouls by a player; Team fouls: Definition and Rule. Contact: General principles: Cylinder principle, Principle of verticality, Legal guarding position, Guarding a player who controls the ball,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules and Regulations of the Game",
+      "chapter_order": 2,
+      "topic": "Free Throws - Definition, Rule and Penalty",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 20,
+      "source_excerpt": "Free Throws - Definition, Rule and Penalty Duties and Powers of: Officials, Table officials and Commissioner; Referee; Scorer and Assistant Scorer; Timer; Short clock operator",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills and Technique",
+      "chapter_order": 3,
+      "topic": "Passing (chest pass, bounce pass, baseball pass, outlet pass and no-look pass)",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 20,
+      "source_excerpt": "Passing (chest pass, bounce pass, baseball pass, outlet pass and no-look pass)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills and Technique",
+      "chapter_order": 3,
+      "topic": "Shooting (layup, jump shot, hook shot, free throw, bank shot and slam dunk)",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 20,
+      "source_excerpt": "Shooting (layup, jump shot, hook shot, free throw, bank shot and slam dunk)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills and Technique",
+      "chapter_order": 3,
+      "topic": "Defence (man to man defence, zone defence and combination defence)",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 20,
+      "source_excerpt": "Defence (man to man defence, zone defence and combination defence) Offence (early offence, set offence, motion offence, zone offence and spread offence)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills and Technique",
+      "chapter_order": 3,
+      "topic": "Rebounding (Offensive and Defensive) Pivot",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "Rebounding (Offensive and Defensive) Pivot",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Drive, Fake, Fast Break, Blocking, Charge, Carry, Screen, Double Dribble, Travel,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "Drive, Fake, Fast Break, Blocking, Charge, Carry, Screen, Double Dribble, Travel,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Triple Threat, Ball Handler, Dead Ball, Front Court, Loose Ball, Held Ball, Dunk,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "Triple Threat, Ball Handler, Dead Ball, Front Court, Loose Ball, Held Ball, Dunk,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Field Goal, Alley-Oop, Back Court, Press, Box out, Double foul, Jump stop,",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "Field Goal, Alley-Oop, Back Court, Press, Box out, Double foul, Jump stop,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Timeout Air ball, Jump ball, Game clock, Block, Possession arrow",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "Timeout Air ball, Jump ball, Game clock, Block, Possession arrow",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International Governing Bodies of Basketball",
+      "chapter_order": 5,
+      "topic": "BFI - Basketball Federation of India",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "BFI - Basketball Federation of India",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International Governing Bodies of Basketball",
+      "chapter_order": 5,
+      "topic": "FIBA - Federation Internationale De Basketball",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "FIBA - Federation Internationale De Basketball",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International tournaments",
+      "chapter_order": 6,
+      "topic": "League",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "League International Tournaments:",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International tournaments",
+      "chapter_order": 6,
+      "topic": "FIBA World Championship, European Basketball championship, FIBA Asia Championship",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "FIBA World Championship, European Basketball championship, FIBA Asia Championship",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International tournaments",
+      "chapter_order": 6,
+      "topic": "VOLLEYBALL",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "VOLLEYBALL",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Knowledge of the game",
+      "chapter_order": 1,
+      "topic": "Knowledge of the game",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "Knowledge of the game",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules of the game",
+      "chapter_order": 2,
+      "topic": "Composition of teams Players equipment and forbidden objects",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "Composition of teams Players equipment and forbidden objects Team Leaders: Responsibility of Captain, Coach and Assistant coach Playing Format: To score a point, To win a set, To win the match Structure of Play: The Toss, Official warm-up session, Team starting line-up, Positions and Positional fault,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules of the game",
+      "chapter_order": 2,
+      "topic": "Rotation and Rotation fault",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 21,
+      "source_excerpt": "Rotation and Rotation fault States of Play: Ball in play, Ball out of play, Ball \"IN\", Ball \"OUT\" Playing the ball: Team Hits, Characteristics of the hit, Faults in playing the ball, Ball at the net, Ball crossing the net, Ball touching the net, Ball in the net. Player at the net: Reaching beyond the net, Penetration under the net, Contact with the net, Player's faults at the net Service: First service in a set, Service order, Authorization of the service, Execution of the service, Screening,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules of the game",
+      "chapter_order": 2,
+      "topic": "Faults made during service, Serving faults and Positional faults",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 22,
+      "source_excerpt": "Faults made during service, Serving faults and Positional faults Attack hit: Characteristics, Restrictions, Faults Block: Blocking, Block contact, Blocking within the opponent's space, Block and team hits, Blocking the service, Blocking faults Interruptions, Delays and Intervals: Interruptions (meaning); Number of regular game interruptions; Sequence of regular game interruptions; Request for regular game interruptions;",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules of the game",
+      "chapter_order": 2,
+      "topic": "Time-outs and Technical time-outs",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 22,
+      "source_excerpt": "Time-outs and Technical time-outs Exceptional game interruptions: Injury/illness, External interference, Prolonged interruptions Substitution: Limitation, Exceptional, Expulsion/disqualification, Illegal, Procedure, Improper request Game delays: Types of delays, Delay sanctions",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules of the game",
+      "chapter_order": 2,
+      "topic": "Intervals and change of court",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 22,
+      "source_excerpt": "Intervals and change of court Libero player: Designation of the Libero, Equipment, Actions involving the libero, Re-designation of a new libero Participants' conduct: Sportsmanlike conduct, Fair play Misconduct and its sanctions: Minor misconduct, Misconduct leading to sanction, Sanction scale, Cards used: Warning (Verbal and Yellow card); Penalty (Red card); Expulsion (Red plus Yellow card jointly);",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules of the game",
+      "chapter_order": 2,
+      "topic": "Disqualification (Red plus Yellow card separately)",
+      "topic_order": 6,
+      "status": "included",
+      "source_page": 22,
+      "source_excerpt": "Disqualification (Red plus Yellow card separately) Referees: Composition, Procedures, Location, Authority and Responsibilities of: First referee, Second referee, Scorer, Assistant scorer, Line judges.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills and Techniques",
+      "chapter_order": 3,
+      "topic": "Service (Underhand, Topspin, Float, Jump serve and Jump float)",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 22,
+      "source_excerpt": "Service (Underhand, Topspin, Float, Jump serve and Jump float)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills and Techniques",
+      "chapter_order": 3,
+      "topic": "Pass (Underarm pass and Overhand pass) Set (Overhead and Bump)",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 22,
+      "source_excerpt": "Pass (Underarm pass and Overhand pass) Set (Overhead and Bump) Attack/spike (Backcourt, Line and cross-court shot, Dip, Block-abuse, Off-speed hit, Quick hit, Slide and",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills and Techniques",
+      "chapter_order": 3,
+      "topic": "Double-quick hit) Block (Single block, Double block and Triple block) Dig",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 22,
+      "source_excerpt": "Double-quick hit) Block (Single block, Double block and Triple block) Dig",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Back row attack, Block assist, Side out, Blocking error, Floater, Two set,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 22,
+      "source_excerpt": "Back row attack, Block assist, Side out, Blocking error, Floater, Two set,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Extension roll, Free ball, Joust, Overlapping, Back set, Carry,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 22,
+      "source_excerpt": "Extension roll, Free ball, Joust, Overlapping, Back set, Carry,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Closing the block, Ball down, Quick set, Serving zone, Defence zone, Attack zone,",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 22,
+      "source_excerpt": "Closing the block, Ball down, Quick set, Serving zone, Defence zone, Attack zone,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 4,
+      "topic": "Foot fault, Net violation, Trap set, Reading an opponent, Cross-court attack",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 22,
+      "source_excerpt": "Foot fault, Net violation, Trap set, Reading an opponent, Cross-court attack",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International Governing Bodies of Volleyball",
+      "chapter_order": 5,
+      "topic": "VFI - Volleyball Federation of India",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "VFI - Volleyball Federation of India",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International Governing Bodies of Volleyball",
+      "chapter_order": 5,
+      "topic": "FIVB - Federation International De Volleyball",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "FIVB - Federation International De Volleyball",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International tournaments",
+      "chapter_order": 6,
+      "topic": "BADMINTON",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "BADMINTON",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Knowledge of the game",
+      "chapter_order": 1,
+      "topic": "Knowledge of the game",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "Knowledge of the game",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules of the game",
+      "chapter_order": 2,
+      "topic": "Scoring system Change of ends",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "Scoring system Change of ends Service: Singles (serving and receiving courts); Doubles: Serving and receiving courts, Order of play and position on court, Scoring and serving, Sequence of serving",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules of the game",
+      "chapter_order": 2,
+      "topic": "Service court errors Lets Shuttle not in play",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "Service court errors Lets Shuttle not in play",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Rules of the game",
+      "chapter_order": 2,
+      "topic": "Continuous play, Misconduct and Penalties",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "Continuous play, Misconduct and Penalties Officials duties and appeals: Referee, Umpire, Service judge, Line judges",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills",
+      "chapter_order": 4,
+      "topic": "Grip (Forehand grip and Backhand grip) Footwork",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "Grip (Forehand grip and Backhand grip) Footwork",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills",
+      "chapter_order": 4,
+      "topic": "Serve (High serve, Low serve, Flick serve)",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "Serve (High serve, Low serve, Flick serve) Strokes (Overhead forehand stroke, Overhead backhand stroke, Underarm forehand stroke and Underarm backhand stroke)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Fundamental Skills",
+      "chapter_order": 4,
+      "topic": "Shots (Clearing/lobbing, Drop shots and Smash)",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "Shots (Clearing/lobbing, Drop shots and Smash)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 5,
+      "topic": "Short serve Long serve Wide serve Service order, Love, All, Deuce, Forecourt,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "Short serve Long serve Wide serve Service order, Love, All, Deuce, Forecourt,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 5,
+      "topic": "Mid-court, Rear court, Rally, Set, Rubber, Lunge, Clear lob,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "Mid-court, Rear court, Rally, Set, Rubber, Lunge, Clear lob,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 5,
+      "topic": "Half smash, Full smash, Carry, Baseline smash, Drive, Push shot,",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 23,
+      "source_excerpt": "Half smash, Full smash, Carry, Baseline smash, Drive, Push shot,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 5,
+      "topic": "Tumbling net shot, Net kill, Net lift Hairpin net shot, Alley, Back alley,",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 24,
+      "source_excerpt": "Tumbling net shot, Net kill, Net lift Hairpin net shot, Alley, Back alley,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Terminology",
+      "chapter_order": 5,
+      "topic": "Follow through, Court, Wood shot Flick, Bird, Singles footwork base",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 24,
+      "source_excerpt": "Follow through, Court, Wood shot Flick, Bird, Singles footwork base",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International Governing Bodies of Badminton",
+      "chapter_order": 6,
+      "topic": "BAI - Badminton Association of India BWF - Badminton World Federation",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 24,
+      "source_excerpt": "BAI - Badminton Association of India BWF - Badminton World Federation",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International tournaments",
+      "chapter_order": 7,
+      "topic": "(i) Assessment by the Teacher(s).",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 25,
+      "source_excerpt": "(i) Assessment by the Teacher(s).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "National and International tournaments",
+      "chapter_order": 7,
+      "topic": "(ii) Assessment by an External Examiner.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 25,
+      "source_excerpt": "(ii) Assessment by an External Examiner.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Work to be assessed by Teacher (s) - 50 marks.",
+      "chapter_order": 1,
+      "topic": "Work to be assessed by Teacher (s) - 50 marks.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 25,
+      "source_excerpt": "The skill and performance of the candidates will be assessed by the teacher(s), responsible for preparing the candidates for the examination, in two of the following games and activities of their choice: Athletics, cricket, hockey, football, handball, volleyball, softball, basketball, tennis, badminton, swimming, dancing, gymnastics, yoga, boxing, wrestling, judo and karate, table tennis, kho-kho and kabaddi.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Work to be assessed by the External Examiner- 50 marks",
+      "chapter_order": 2,
+      "topic": "(i) Floor push-ups for boys - The boys take a front-leaning position with body supported on hands and",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 25,
+      "source_excerpt": "(i) Floor push-ups for boys - The boys take a front-leaning position with body supported on hands and balls of feet; the arms are straight and at right angle to the body. He then dips or lowers the body so that the chest nearly touches the floor, he then pushes back to the starting position by straightening the arms and repeats the procedures as many times as possible. The arms must be completely extended with each push-up; the body must be held straight throughout. Scoring consists of the numbe",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Work to be assessed by the External Examiner- 50 marks",
+      "chapter_order": 2,
+      "topic": "(ii) Push-ups for girls -- This is executed from a stall bar bench or a stool 32 cm high by 50 cm long and",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 25,
+      "source_excerpt": "(ii) Push-ups for girls -- This is executed from a stall bar bench or a stool 32 cm high by 50 cm long and 35 cm wide. It should be placed on the floor about 15 cm from a wall so that the subjects will not take a position too far forward. The girl should grasp the outer edges of the bench, or stool, at the nearest corners and assume the front-leaning rest position, with the balls of her feet on the floor and with her body and arms forming a right angle. She should then lower her body so that the",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Work to be assessed by the External Examiner- 50 marks",
+      "chapter_order": 2,
+      "topic": "(iii) Parallel bars",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 27,
+      "source_excerpt": "(iii) Parallel bars Boys - The straight arm support, the straddle seat, the back roll to a straddle-seat, the shoulder balance, the single-let flank dismount, the double-leg flank dismount. Girls - The straight arm support, swinging, the straddle seat, the forward roll.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Work to be assessed by the External Examiner- 50 marks",
+      "chapter_order": 2,
+      "topic": "(iv) Vaulting Horse",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 27,
+      "source_excerpt": "(iv) Vaulting Horse Boys - The side vault, the through vault, the straddle vault, the head spring vault. High horse - the side vault, the through vault, the straddle vault. Long horse -- the through vault, the straddle vault. Girls - The side vault, the squat stand dismount, the straddle vault, the straddle stand, the head spring vault.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Work to be assessed by the External Examiner- 50 marks",
+      "chapter_order": 2,
+      "topic": "(v) Horizontal bar - (boys only)",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 27,
+      "source_excerpt": "(v) Horizontal bar - (boys only) Upward swing and dismount, swinging to mount and dismount, swinging and changing hands to face opposite direction. (c) Swimming - The candidates will be tested in any two of the following of their choice. Boys - Freestyle – 50m, 100m, 200m and 400m; Breast stroke– 50m, 100m; Backstroke – 50m, 100m; Butterfly stroke – 50m, 100m; Diving - standing one-leg dive, standing semi-crouch dive, standing stationary dive, the front jump dive from the springboard. Girls - Fr",
+      "effective_session": "2027-28"
+    }
+  ]
+}

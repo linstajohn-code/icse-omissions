@@ -1,0 +1,222 @@
+{
+  "subject_code": "52",
+  "subject_name": "Chemistry",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/11.-Chemistry.pdf",
+  "source_pdf_sha256": "686ff8c7d352384290fe5cfaa0d1f57ce4d529d60b057557d2eefe6e9900d7e9",
+  "ingested_at": "2026-05-21T12:15:36.463Z",
+  "entries": [
+    {
+      "chapter": "The Language of Chemistry",
+      "chapter_order": 1,
+      "topic": "(i) Symbol of an element; valency; representation of radicals and formulae of compounds. Balancing of",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(i) Symbol of an element; valency; representation of radicals and formulae of compounds. Balancing of simple chemical equations. • Symbol – definition; symbols of the elements used often. • Valency - definition; hydrogen combination and number of valence electrons of the metals and non- metals; mono, di, tri and tetra valent elements. • Radicals – definition; formulae formation, reactivity of radicals, and valencies. Existence of radicals in atmosphere, their effects on living organisms. Reducti",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Language of Chemistry",
+      "chapter_order": 1,
+      "topic": "(ii) Relative Atomic Masses (atomic weights) and Relative Molecular Masses (molecular weights): either -",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(ii) Relative Atomic Masses (atomic weights) and Relative Molecular Masses (molecular weights): either - standard H atom or 1/12th of carbon 12 atom. • Definitions. • Calculation of Relative Molecular Mass and percentage composition of a compound.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Chemical changes and reactions",
+      "chapter_order": 2,
+      "topic": "(i) Types of chemical changes.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) Types of chemical changes. • Direct combination • Decomposition • Displacement • Double decomposition/Double displacement (Double Displacement Reaction of Sodium Sulphate with Barium Chloride; Reaction of Silver Nitrate with Sodium Chloride; Reaction of Lead Nitrate with Potassium Iodide.) (The above to be taught with suitable chemical equations as examples followed by demonstration).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Chemical changes and reactions",
+      "chapter_order": 2,
+      "topic": "(ii) Energy changes in a chemical change.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Energy changes in a chemical change. Exothermic and endothermic reactions with examples – evolution/absorption of heat, light and electricity.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Water",
+      "chapter_order": 3,
+      "topic": "(i) Water as a universal solvent.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) Water as a universal solvent. • Mixtures, solutions, colloids and suspensions. • Solutions as 'mixtures' of solids in water; saturated, unsaturated and supersaturated solutions. • Qualitative effect of temperature on solubility along with solubility curve (e.g. solutions of calcium sulphate, potassium nitrate and sodium chloride in water).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Water",
+      "chapter_order": 3,
+      "topic": "(ii) Water of Crystallisation-Definition only.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Water of Crystallisation-Definition only. (a) Hydrated substances: meaning and examples (CuSO4. 5H2O, FeSO4. 7H2O, Na2CO3. 10H2O, Na2SO4.10H2O). (b) Anhydrous substances. Meaning and examples only (NaNO3, KCl, PbCl2, K2SO4). (c) Properties. • Efflorescence- definition and examples like Washing soda- Na2CO3.10H2O. • Deliquescence- definition and examples like Ferric chloride – FeCl3. • Hygroscopy – definition and examples like Quick lime - CaO, concentrated Sulphuric acid- H2SO4.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Water",
+      "chapter_order": 3,
+      "topic": "(iii) Drying Agents- meaning and examples like Quick lime- CaO and Dehydrating Agents- meaning and",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(iii) Drying Agents- meaning and examples like Quick lime- CaO and Dehydrating Agents- meaning and examples like concentrated Sulphuric acid- H2SO4.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Water",
+      "chapter_order": 3,
+      "topic": "(iv) Soft water and Hard water.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(iv) Soft water and Hard water. • Meaning (in terms of action of soap). • Advantages and disadvantages of soft water and hard water. • Types and causes of hardness.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Water",
+      "chapter_order": 3,
+      "topic": "(v) Removal of Temporary and Permanent hardness.",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(v) Removal of Temporary and Permanent hardness. • Removal of hardness (i) By boiling (ii) By addition of washing soda • Making water potable- Filtration, Chlorination, Defluoridation, Role of Alum in purification of water. Common diseases due to polluted water-diarrhoea, typhoid, cholera, dysentery, hepatitis A, polio, cancer and organ damage.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atomic Structure and Chemical bonding",
+      "chapter_order": 4,
+      "topic": "(i) Structure of an Atom, discovery of nucleus, electrons, Rutherford’s and Bohr’s model of an atom, mass",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(i) Structure of an Atom, discovery of nucleus, electrons, Rutherford’s and Bohr’s model of an atom, mass number and atomic number, Isotopes and Octet Rule. • Definition of an atom. • Constituents of an atom - nucleus (protons, neutrons) with associated electrons; mass number, atomic number. • Rutherford’s experiment (gold foil), the conclusions, merits and demerits. • Bohr’s model- Simplified form (Mathematical expressions not required). • Electron distribution in the orbits - 2n2 rule, Octet r",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atomic Structure and Chemical bonding",
+      "chapter_order": 4,
+      "topic": "(ii) Electrovalent and covalent bonding, ions and electrons, radicals, structures of various",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) Electrovalent and covalent bonding, ions and electrons, radicals, structures of various compounds – orbit structure. (a) Electrovalent Bond. • Definition • Ion formation • Atomic orbit structure for the formation of Electrovalent compounds (e.g. NaCl, MgCl2, CaO) (b) Covalent Bond. • Definition • Atomic orbit structure for the formation of Covalent molecules on the basis of duplet and octet of electrons (examples: hydrogen, chlorine, oxygen, nitrogen, hydrogen chloride, water, ammonia, carb",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Periodic Table",
+      "chapter_order": 5,
+      "topic": "The Periodic Table",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Dobereiner’s Triads, Newland’s law of Octaves, Mendeleev’s contributions; Modern Periodic Law, the Modern Periodic Table (Groups and periods). • General idea of Dobereiner’s triads, Newland’s law of Octaves, Mendeleev’s periodic law-limited to principles, examples, merits and limitations. • Discovery of Atomic Number and its use as a basis for Modern Periodic law. • Modern Periodic Table (Groups 1 to 18 and periods 1 to 7). (Placement of Transition and Inner transition elements to be mentioned).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of the First Element -Hydrogen",
+      "chapter_order": 6,
+      "topic": "(i) Hydrogen from: water, dilute acids and alkalis.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(i) Hydrogen from: water, dilute acids and alkalis. (a) Hydrogen from water. • The action of cold water on sodium, potassium and calcium. • The action of hot water on magnesium. • The action of steam on aluminium, zinc, and red-hot iron; (reversibility of reaction between iron and steam). • The action of steam on non-metal (carbon). Students can be shown the action of sodium and calcium on water in the laboratory. They must be asked to make observations and write equations for the above reaction",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of the First Element -Hydrogen",
+      "chapter_order": 6,
+      "topic": "(ii) The preparation and collection of hydrogen by a standard laboratory method other than electrolysis.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(ii) The preparation and collection of hydrogen by a standard laboratory method other than electrolysis. The reason for using zinc in the laboratory preparation, the removal of impurities in the hydrogen gas, the precautions during the collection of the gas.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of the First Element -Hydrogen",
+      "chapter_order": 6,
+      "topic": "(iii) Industrial manufacture of hydrogen by Bosch process.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(iii) Industrial manufacture of hydrogen by Bosch process. • Main reactions and conditions. • Separation of CO2 and CO from hydrogen.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of the First Element -Hydrogen",
+      "chapter_order": 6,
+      "topic": "(iv) Oxidation and reduction reactions.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(iv) Oxidation and reduction reactions. Differences in terms of addition and removal of oxygen / hydrogen. • Electronic concept (Gain/loss of electrons). • Oxidizing and Reducing agents. • Redox reaction.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of Gas Laws",
+      "chapter_order": 7,
+      "topic": "(i) The behaviour of gases under changes of temperature and pressure; explanation in terms of molecular",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(i) The behaviour of gases under changes of temperature and pressure; explanation in terms of molecular motion (particles, atoms, molecules); Boyle’s Law, Charles’s Law and absolute zero; gas equation; simple relevant calculations. • The behaviour of gases under changes of temperature and pressure; explanation in terms of molecular motion (particles, atoms, molecules). • Mathematical derivation & Graphical representation of Boyle’s Law: statement, mathematical form, simple calculations. • Mathem",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Study of Gas Laws",
+      "chapter_order": 7,
+      "topic": "(ii) Relationship between Kelvin scale and Celsius Scale of temperature; Standard temperature and pressure.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(ii) Relationship between Kelvin scale and Celsius Scale of temperature; Standard temperature and pressure. Conversion of temperature from Celsius Scale to Kelvin scale and vice versa. Standard temperature and pressure (Simple calculations on conversion of temperature and on standard temperature and pressure).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atmospheric and Environmental Chemistry",
+      "chapter_order": 8,
+      "topic": "(a) Acid Rain- Composition, cause and its impact.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(a) Acid Rain- Composition, cause and its impact. Sulphur in fossil fuels giving oxides of sulphur when burnt. High temperatures in furnaces and internal combustion engines produce oxides of nitrogen. (Equations to be included.). Effects of acid rain on soil chemistry and water bodies.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atmospheric and Environmental Chemistry",
+      "chapter_order": 8,
+      "topic": "(b) Global warming.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(b) Global warming. Greenhouse gases-their sources and ways of reducing their presence in the atmosphere. (Water Vapour, carbon dioxide, methane and oxides of nitrogen.)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Atmospheric and Environmental Chemistry",
+      "chapter_order": 8,
+      "topic": "(c) Ozone depletion.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(c) Ozone depletion. • Formation of ozone- relevant equations. • Functions of ozone in the atmosphere. • Destruction of the ozone layer- Chemicals responsible for this to be named but reactions not required. Water Pollution. Water – composition and substances that are present in it, beneficial and potentially harmful to life. • Benefits: Dissolved oxygen for aquatic life, essential minerals for life. • Harmful: Contamination with toxic heavy metals (Special mention to ‘Minamata disease’); plasti",
+      "effective_session": "2027-28"
+    }
+  ]
+}

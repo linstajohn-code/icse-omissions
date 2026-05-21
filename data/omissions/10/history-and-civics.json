@@ -1,0 +1,172 @@
+{
+  "subject_code": "50",
+  "subject_name": "History and Civics",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/5.-History-Civics.pdf",
+  "source_pdf_sha256": "3591b7507842daf80717ee536581cd4cfa8430214688485d62f758decd33fc78",
+  "ingested_at": "2026-05-21T12:15:36.023Z",
+  "entries": [
+    {
+      "chapter": "The Union Legislature",
+      "chapter_order": 1,
+      "topic": "(i) Lok Sabha - term, composition, qualifications for membership. Parliamentary procedures: a brief idea",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(i) Lok Sabha - term, composition, qualifications for membership. Parliamentary procedures: a brief idea of sessions, quorum, question hour, types of questions-meaning of starred, unstarred and short notice questions, zero hour, adjournment and no-confidence motion. Anti-Defection Law provisions, Passing of Ordinary and Money Bills. Speaker – election, removal; and functions.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Union Legislature",
+      "chapter_order": 1,
+      "topic": "(ii) Rajya Sabha – composition, qualifications for membership, election, term, Presiding Officer.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(ii) Rajya Sabha – composition, qualifications for membership, election, term, Presiding Officer. Powers and functions of Union Parliament –(legislative, financial, judicial, electoral, amendment of the Constitution, control over executive). Exclusive powers of the two Houses.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Union Executive",
+      "chapter_order": 2,
+      "topic": "(a) The President:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) The President: Qualifications for election, composition of Electoral College, reason for indirect election, term of office, procedure for impeachment. Powers (executive, legislative, financial, judicial, discretionary and emergency)- any two effects of each emergency).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Union Executive",
+      "chapter_order": 2,
+      "topic": "(b) The Vice-President:",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) The Vice-President: Qualifications for election, removal, term of office and powers.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Union Executive",
+      "chapter_order": 2,
+      "topic": "(c) Prime Minister and Council of Ministers: Appointment, formation of Council of Ministers, tenure,",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Prime Minister and Council of Ministers: Appointment, formation of Council of Ministers, tenure, functions - policy making, administrative, legislative, financial, emergency. Position and powers of the Prime Minister. Collective and individual responsibility of the members of the Cabinet. Distinction between the Council of Ministers and the Cabinet.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Judiciary",
+      "chapter_order": 3,
+      "topic": "(a) The Supreme Court:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) The Supreme Court: Composition, qualifications of judges, appointment, independence of judiciary from the control of executive and legislature; Jurisdiction and functions: Independence of Judiciary, Original, Appellate, Advisory, Revisory, Judicial Review and Court of Record. Enforcement of Fundamental Rights and Writs.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Judiciary",
+      "chapter_order": 3,
+      "topic": "(b) The High Courts:",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) The High Courts: Composition, qualifications of judges, appointment; Jurisdiction and functions: Original, Appellate, Revisory, Judicial Review and Court of Record. Enforcement of Fundamental Rights and Writs.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Judiciary",
+      "chapter_order": 3,
+      "topic": "(c) Subordinate Courts:",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Subordinate Courts: Distinction between Court of the District Judge and Sessions Court. Lok Adalats: meaning and advantages. SECTION B: HISTORY",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Indian National Movement (1857 - 1917)",
+      "chapter_order": 1,
+      "topic": "(a) The First War of Independence, 1857",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(a) The First War of Independence, 1857 Only the causes (political, socio-religious, economic and military) and consequences –(Only changes in the administration, Queen Victoria’s Proclamation, Relation with Princely states and Changes in the Army) will be tested. [The events, however, need to be mentioned in order to maintain continuity and for a more comprehensive understanding.]",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Indian National Movement (1857 - 1917)",
+      "chapter_order": 1,
+      "topic": "(b) Factors leading to the growth of Nationalism – economic exploitation, repressive colonial policies,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(b) Factors leading to the growth of Nationalism – economic exploitation, repressive colonial policies, socio-religious reform movements (any two contributions of Raja Rammohan Roy, Jyotiba Phule, Swami Dayananda Saraswathi and Swami Vivekananda) and role of the Press. Foundation of the Indian National Congress - The year of formation and name of the Founder Immediate objectives of the Indian National Congress - the first two sessions and their Presidents should be mentioned.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Indian National Movement (1857 - 1917)",
+      "chapter_order": 1,
+      "topic": "(c) First Phase of the Indian National Movement (1885-1907) - objectives and methods of struggle of",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(c) First Phase of the Indian National Movement (1885-1907) - objectives and methods of struggle of the Early Nationalists. Any two contributions of Dadabhai Naoroji, Surendranath Banerjee and Gopal Krishna Gokhale. Second Phase of the Indian National Movement (1905-1916) - Brief mention of the causes of the Partition of Bengal and its perspective by the Nationalists. Reasons for Surat Split of 1907; objectives and methods of struggle of Assertive Nationalists. Any two contributions of Bal Ganga",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mass Phase of the National Movement (1915-1947)",
+      "chapter_order": 2,
+      "topic": "(a) Mahatma Gandhi - Non-Cooperation Movement : causes (Khilafat Movement, Rowlatt Act,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(a) Mahatma Gandhi - Non-Cooperation Movement : causes (Khilafat Movement, Rowlatt Act, Jallianwala Bagh Tragedy), programme and suspension – Chauri Chaura incident and impact of the Movement; the Civil Disobedience Movement: causes (reaction to the Simon Commission (clauses will not be tested) Declaration of Poorna Swaraj at the Lahore Session of 1929), Dandi March, programme and impact of the Movement, Gandhi-Irwin Pact and the Second Round Table Conference; Reason for renewal of the Civil Dis",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mass Phase of the National Movement (1915-1947)",
+      "chapter_order": 2,
+      "topic": "(b) Forward Bloc (objectives) and INA (name of the founder objectives and contribution of Subhas",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(b) Forward Bloc (objectives) and INA (name of the founder objectives and contribution of Subhas Chandra Bose).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mass Phase of the National Movement (1915-1947)",
+      "chapter_order": 2,
+      "topic": "(c) Independence and Partition of India – Cabinet Mission Plan (clauses only); Mountbatten Plan",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(c) Independence and Partition of India – Cabinet Mission Plan (clauses only); Mountbatten Plan (clauses and its acceptance); and the Indian Independence Act of 1947 (clauses only).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Contemporary World",
+      "chapter_order": 3,
+      "topic": "(i) The objectives of the U.N.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(i) The objectives of the U.N. The composition and functions of the General Assembly, the Security Council, and the International Court of Justice. Major agencies of the United Nations: UNICEF, WHO and UNESCO – headquarters and functions only.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Contemporary World",
+      "chapter_order": 3,
+      "topic": "(ii) Universal Declaration of Human Rights – (Only meaning)",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(ii) Universal Declaration of Human Rights – (Only meaning) (e) Non-Aligned Movement Brief meaning; objectives; Panchsheel- only meaning, principles need to be taught only for understanding and not for testing; role of Jawaharlal Nehru; Names of the architects of NAM.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

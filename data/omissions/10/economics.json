@@ -1,0 +1,192 @@
+{
+  "subject_code": "53",
+  "subject_name": "Economics",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/13.-Economics.pdf",
+  "source_pdf_sha256": "224bf7d388f8b265021c681e86cfa245417515370e88555eb2776584a8c02441",
+  "ingested_at": "2026-05-21T12:15:36.168Z",
+  "entries": [
+    {
+      "chapter": "The Productive Mechanism",
+      "chapter_order": 1,
+      "topic": "(a) Land: meaning and characteristics, productivity of land – meaning only; factors affecting productivity of",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Land: meaning and characteristics, productivity of land – meaning only; factors affecting productivity of land.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Productive Mechanism",
+      "chapter_order": 1,
+      "topic": "(b) Labour: meaning and characteristics; division of labour: meaning, type and advantages; efficiency of",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Labour: meaning and characteristics; division of labour: meaning, type and advantages; efficiency of labour; meaning, reasons for low efficiency of Indian labour.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Productive Mechanism",
+      "chapter_order": 1,
+      "topic": "(c) Capital: meaning and characteristics and types: physical and financial capital- meaning with examples;",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Capital: meaning and characteristics and types: physical and financial capital- meaning with examples; Capital Formation; meaning, Process of capital formation; Need for capital formation;",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Productive Mechanism",
+      "chapter_order": 1,
+      "topic": "(d) Entrepreneur: meaning, functions and role of entrepreneur in economic development.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(d) Entrepreneur: meaning, functions and role of entrepreneur in economic development.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Theory of Demand and Supply",
+      "chapter_order": 2,
+      "topic": "(a) Meaning and concept of Demand and Supply.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Meaning and concept of Demand and Supply. Law of demand and supply: demand and supply schedule and curve (both individual and market); movement and shift of the demand and supply curve; determinants of demand and supply; exceptions to the law of demand. Meaning of demand and supply; the concept of Demand, types of demand and concept of supply to be explained (with examples). A basic understanding of the law of demand and supply in which demand and supply schedules to be used to explain the d",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Theory of Demand and Supply",
+      "chapter_order": 2,
+      "topic": "(b) Elasticity of demand and elasticity of supply: meaning, types, percentage method of measuring elasticity",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Elasticity of demand and elasticity of supply: meaning, types, percentage method of measuring elasticity of demand and elasticity of supply, factors affecting elasticity of demand and supply. The concept of price elasticity of demand and elasticity of supply are to be explained with percentage method. Factors affecting the elasticity of demand and supply are to be specified. (Numerical problems are not for testing).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Market",
+      "chapter_order": 3,
+      "topic": "Market",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "Meaning and types. Meaning of Market; Types of Markets: Perfect competition, Monopoly, Monopolistic Competition, Oligopoly - meaning with examples; a brief understanding of the features of the different types of markets along with differences.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Banking in India",
+      "chapter_order": 4,
+      "topic": "(i) Qualitative Credit control measures: margin requirements; credit rationing; moral suasion.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(i) Qualitative Credit control measures: margin requirements; credit rationing; moral suasion.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Banking in India",
+      "chapter_order": 4,
+      "topic": "(ii) Quantitative Credit control measures: Bank Rate, Open Market Operations, Cash Reserve Ratio",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(ii) Quantitative Credit control measures: Bank Rate, Open Market Operations, Cash Reserve Ratio (CRR), Statutory Liquidity Ratio. A brief understanding of the above. (e) Demonetisation A brief understanding. (f) Public Finance (i) Meaning of Public Finance. (ii) Sources of Public Revenue: • Tax Revenue. Direct Tax (meaning, merits and demerits); Indirect Tax (meaning, merits and demerits); difference between direct and indirect taxes. Goods and Services Tax (GST) - Meaning and objectives; Progr",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Banking in India",
+      "chapter_order": 4,
+      "topic": "(iii) Public Expenditure.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(iii) Public Expenditure. Meaning of public expenditure, Revenue and Capital expenditure with examples; reason for growth of public expenditure in India.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Banking in India",
+      "chapter_order": 4,
+      "topic": "(iv) Public Debt.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(iv) Public Debt. Meaning and types of Public debts.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Inflation",
+      "chapter_order": 5,
+      "topic": "(a) Inflation",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(a) Inflation Meaning of inflation.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Inflation",
+      "chapter_order": 5,
+      "topic": "(b) Stages of Inflation",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(b) Stages of Inflation Creeping, Walking, Running and Hyper – meaning only.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Inflation",
+      "chapter_order": 5,
+      "topic": "(c) Types of Inflation: Cost push inflation and demand- pull inflation",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(c) Types of Inflation: Cost push inflation and demand- pull inflation Meaning, causes and differences only (diagram not required). Negative effects of inflation on production. Positive and negative effects of inflation on distribution with reference to fixed income group and business income group only.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Consumer Awareness",
+      "chapter_order": 6,
+      "topic": "(a) Consumer Exploitation and Consumer awareness.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(a) Consumer Exploitation and Consumer awareness. Meaning of consumer exploitation; a brief understanding of the forms of consumer exploitation; reasons for exploitation of consumers in India- a brief understanding. Meaning of Consumer Awareness.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Consumer Awareness",
+      "chapter_order": 6,
+      "topic": "(b) Consumer Rights& Duties.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(b) Consumer Rights& Duties. A brief understanding of the above. COPRA- 2019meaning and features; RTI- meaning and significance.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Consumer Awareness",
+      "chapter_order": 6,
+      "topic": "(c) Food adulteration.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(c) Food adulteration. Meaning and harmful effects.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Consumer Awareness",
+      "chapter_order": 6,
+      "topic": "(d) Technical and Administrative measures for Consumer Protection:",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(d) Technical and Administrative measures for Consumer Protection: A brief understanding of: Public Distribution System (PDS); Bureau of Indian Standards (BIS); AGMARK, ECOMARK.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "subject_code": "01",
+  "subject_name": "English",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/2.-English.pdf",
+  "source_pdf_sha256": "d3b2a451edff8071706cea38b5fcc33c13c1ff709cdf8e1c0591eb88f77be231",
+  "ingested_at": "2026-05-21T12:15:36.076Z",
+  "entries": [
+    {
+      "chapter": "DRAMA: Julius Caesar - William Shakespeare",
+      "chapter_order": 1,
+      "topic": "DRAMA: Julius Caesar - William Shakespeare",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(Acts I & II) 2. TREASURE CHEST: A Collection of ICSE Short Stories & Poems (Evergreen Publications (India) Ltd. New Delhi) PROSE (Short Stories):",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Bonku Babu's Friend – Satyajit Ray",
+      "chapter_order": 1,
+      "topic": "Bonku Babu's Friend – Satyajit Ray",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Bonku Babu's Friend – Satyajit Ray",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Oliver Asks for More – Charles Dickens",
+      "chapter_order": 2,
+      "topic": "Oliver Asks for More – Charles Dickens",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Oliver Asks for More – Charles Dickens",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Model Millionaire – Oscar Wilde",
+      "chapter_order": 3,
+      "topic": "The Model Millionaire – Oscar Wilde",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "The Model Millionaire – Oscar Wilde",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Home-coming – Rabindranath Tagore",
+      "chapter_order": 4,
+      "topic": "Home-coming – Rabindranath Tagore",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Home-coming – Rabindranath Tagore",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Boy who Broke the Bank – Ruskin Bond",
+      "chapter_order": 5,
+      "topic": "The Boy who Broke the Bank – Ruskin Bond",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "POETRY:",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Night Mail – W.H. Auden",
+      "chapter_order": 1,
+      "topic": "The Night Mail – W.H. Auden",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "The Night Mail – W.H. Auden",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Skimbleshanks: The Railway Cat – T.S. Eliot",
+      "chapter_order": 2,
+      "topic": "Skimbleshanks: The Railway Cat – T.S. Eliot",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Skimbleshanks: The Railway Cat – T.S. Eliot",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "I Remember, I Remember – Thomas Hood",
+      "chapter_order": 3,
+      "topic": "I Remember, I Remember – Thomas Hood",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "I Remember, I Remember – Thomas Hood",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "A Doctor’s Journal Entry for August 6, 1945 – Vikram Seth",
+      "chapter_order": 4,
+      "topic": "A Doctor’s Journal Entry for August 6, 1945 – Vikram Seth",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "A Doctor’s Journal Entry for August 6, 1945 – Vikram Seth",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "A Work of Artifice – Marge Piercy",
+      "chapter_order": 5,
+      "topic": "A Work of Artifice – Marge Piercy",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "NOTE: The Class IX Examination is to be conducted on the portion of the syllabus that is prescribed for Class IX.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

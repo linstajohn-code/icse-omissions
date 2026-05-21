@@ -1,0 +1,172 @@
+{
+  "subject_code": "88",
+  "subject_name": "Commercial Applications",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/20.-Commercial-Applications.pdf",
+  "source_pdf_sha256": "53e2bdfaccfbd77855a0352d52423fea24b9246f07291d1f379ed13423230a8e",
+  "ingested_at": "2026-05-21T12:15:36.280Z",
+  "entries": [
+    {
+      "chapter": "Understanding the basics of Markets and Marketing",
+      "chapter_order": 1,
+      "topic": "(a) Definition of markets and marketing – with examples from consumer goods, consumer services.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Definition of markets and marketing – with examples from consumer goods, consumer services. A clear understanding of markets (wherever a buy and sell takes place is a market); examples of non- traditional markets such as catalogues, direct sales, tele-markets, etc. Definition and stages of marketing. Types of markets.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Understanding the basics of Markets and Marketing",
+      "chapter_order": 1,
+      "topic": "(b) Product and Service",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Product and Service Meaning and difference between a product and a service (with examples); features and types of products and services.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Understanding the basics of Markets and Marketing",
+      "chapter_order": 1,
+      "topic": "(c) Understanding 4 ‘P’s– Product, Price, Place and Promotion.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Understanding 4 ‘P’s– Product, Price, Place and Promotion. Elements of Marketing Mix, stages of Product life cycle, pricing strategies such as skimming, penetration, parity, cost plus, place – types of distribution channels, promotional strategies, concept of advertising, direct selling, publicity.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Understanding the basics of Markets and Marketing",
+      "chapter_order": 1,
+      "topic": "(d) Advertising and brand promotion.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(d) Advertising and brand promotion. Definition, features, advantages, disadvantages and types of advertising. Media used for advertising: meaning and examples only; Meaning and advantages of sales promotion; definition of brand, branding, brand promotion, brand loyalty and brand equity; how to bring about brand promotion, advantages of branding, difference between Advertising and sales Promotion, Advertising and Publicity. (e) Sales and the selling process; qualities of a good salesman. Sales a",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Understanding Finance",
+      "chapter_order": 2,
+      "topic": "(a) Elementary understanding of Generally Accepted Accounting Principles (GAAP).",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Elementary understanding of Generally Accepted Accounting Principles (GAAP). GAAP to be explained - Entity concept, duality concept, matching concept, money-measurement concept, going concern concept.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Understanding Finance",
+      "chapter_order": 2,
+      "topic": "(b) Principles of Financial accounting and reporting –receipt and payment account, income and expenditure",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Principles of Financial accounting and reporting –receipt and payment account, income and expenditure account; balance sheet. Meaning, features and uses of receipt and payment account, income and expenditure account and differences. Concept of balance sheet -Meaning features and uses.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Understanding Finance",
+      "chapter_order": 2,
+      "topic": "(c) Banking - functions of the Central Bank and Commercial banks, types of accounts and banking",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Banking - functions of the Central Bank and Commercial banks, types of accounts and banking transactions. Functions of the Central Bank and Commercial banks and differences between the two.; types of bank deposit accounts(Savings, Current, Recurring, Fixed Account)and differences; requirement for an account holder for operating a bank account - Pass book, cheque book, Pay-in slip book; Advantages of bank account, advantages and disadvantages of cheques; When can a bank refuse payment of a ch",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Understanding Finance",
+      "chapter_order": 2,
+      "topic": "(d) Fundamental concept of Cost (direct, variable etc.).",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(d) Fundamental concept of Cost (direct, variable etc.). Classification of cost according to nature (direct and indirect), behaviour (variable, fixed and semi-fixed).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Understanding Human Resources",
+      "chapter_order": 3,
+      "topic": "(a) Human Resource in a commercial organisation.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(a) Human Resource in a commercial organisation. Features, role and functions of Human Resource Management in any organisation.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Understanding Human Resources",
+      "chapter_order": 3,
+      "topic": "(b) Commonly used methods of recruitment, selection and training.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(b) Commonly used methods of recruitment, selection and training. Definition, sources (internal and external) and methods (direct and indirect)of recruitment; their advantages and disadvantages. Selection – meaning, methods of Selection; types of Interviews; Meaning and importance of training; types of training and methods of training (meaning only): On the job (Coaching, under study, Assistant to, Job rotation, Committee membership and Apprenticeship) and Off the job(Internship, Vestibule, Case",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Development of Public Relations",
+      "chapter_order": 4,
+      "topic": "(i) Destruction of ecosystem due to industrialisation, dwelling of business units, transport, tourism and",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(i) Destruction of ecosystem due to industrialisation, dwelling of business units, transport, tourism and mining.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Development of Public Relations",
+      "chapter_order": 4,
+      "topic": "(ii) Excessive consumption of minerals, raw materials and other non-renewable resources.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(ii) Excessive consumption of minerals, raw materials and other non-renewable resources. A brief understanding with examples.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Development of Public Relations",
+      "chapter_order": 4,
+      "topic": "(iii) Energy crisis: Urban and rural sectors. Renewable and non-renewable energy: greenhouse effect,",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(iii) Energy crisis: Urban and rural sectors. Renewable and non-renewable energy: greenhouse effect, global warming and acid rain. Energy crisis: Urban and rural sectors. Renewable and non-renewable energy: Meaning, differences and examples; meaning and causes of greenhouse effect; global warming and threats of global warming; acid rain and its impact.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Development of Public Relations",
+      "chapter_order": 4,
+      "topic": "(iv) Environmental values and ethics.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(iv) Environmental values and ethics. Fundamental duties and value education. Use of cloth bags, organic manure, clean surroundings, respect for other people’s things, developing an ethical environmental consciousness e.g. refusing use of polybags, styrofoam containers, etc.; reusing plastic and glass containers; recycling: e.g. paper – this will reduce demand on wood and save trees.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Development of Public Relations",
+      "chapter_order": 4,
+      "topic": "(v) Consumer Education",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(v) Consumer Education Meaning of Consumer Education; Understanding the importance of educating consumers of their rights; Types of consumer rights; making correct choices while buying different items; food adulteration and its harmful effects.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Development of Public Relations",
+      "chapter_order": 4,
+      "topic": "(vi) Effects of pollution on environment, human, health.",
+      "topic_order": 6,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(vi) Effects of pollution on environment, human, health. Bhopal Gas Tragedy; Chernobyl Disaster. (f) Community participation and contribution of public awareness programmes. Community participation and public awareness programmes for ecological restoration and conservation like the Chipko Andolan (Movement).",
+      "effective_session": "2027-28"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "subject_code": "58",
+  "subject_name": "Commercial Studies",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/14.-Commercial-Studies.pdf",
+  "source_pdf_sha256": "f6d57aefcb28918385e0ed4f8f318f9ae712276a0531aed44bdb67de7ed58c68",
+  "ingested_at": "2026-05-21T12:15:36.208Z",
+  "entries": [
+    {
+      "chapter": "Commercial Activities",
+      "chapter_order": 1,
+      "topic": "(i) Trade (types of trade: wholesale and retail, domestic and foreign, e-commerce & e-trade - meaning",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(i) Trade (types of trade: wholesale and retail, domestic and foreign, e-commerce & e-trade - meaning and examples of each.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Commercial Activities",
+      "chapter_order": 1,
+      "topic": "(ii) Aids to trade: transport, banking, advertising, insurance, warehousing, packaging – meaning and",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(ii) Aids to trade: transport, banking, advertising, insurance, warehousing, packaging – meaning and examples of each. (f) Commercial organisations – Classification on the basis of ownership. (i) Private Sector enterprise - Sole proprietorship, Partnership, one-person company, Joint stock company, Limited liability partnership, Co-operative society (Meaning and features only). (ii) Public sector enterprise – Departmental undertaking, public corporation, and government companies (Meaning and exam",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Commercial Activities",
+      "chapter_order": 1,
+      "topic": "(iii) Joint Sector Enterprises – Meaning, features only.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(iii) Joint Sector Enterprises – Meaning, features only.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Important departments of a Commercial Organization",
+      "chapter_order": 2,
+      "topic": "(a) Production",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(a) Production",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Important departments of a Commercial Organization",
+      "chapter_order": 2,
+      "topic": "(b) Marketing and Sales",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(b) Marketing and Sales",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Important departments of a Commercial Organization",
+      "chapter_order": 2,
+      "topic": "(c) Finance and Accounting",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(c) Finance and Accounting",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Important departments of a Commercial Organization",
+      "chapter_order": 2,
+      "topic": "(d) Human Resources",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(d) Human Resources Meaning and objectives of each of the above.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Communication in Commercial Organisations",
+      "chapter_order": 3,
+      "topic": "Communication in Commercial Organisations",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Meaning and process; role of communication in a commercial organisation; different methods of communication: letter, e-mail, conference calling (audio & video), social media – meaning of each.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Accounting and Bookkeeping",
+      "chapter_order": 4,
+      "topic": "(a) Meaning and objective",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(a) Meaning and objective Meaning of accounting and bookkeeping; objective of accounting; accounting cycle; distinction between accounting and bookkeeping.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Accounting and Bookkeeping",
+      "chapter_order": 4,
+      "topic": "(b) Basic accounting terminology",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(b) Basic accounting terminology Capital, liability, asset, revenue, expense, purchase, sales, stocks, debtors, creditors, drawings, debit and credit, discount (Meaning only).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Accounting and Bookkeeping",
+      "chapter_order": 4,
+      "topic": "(c) Basic accounting principles and concepts.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(c) Basic accounting principles and concepts. Business entity, money measurement, going concern, accounting period, dual aspect and accounting equation, matching principle, principle of full disclosure– meaning and examples.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Accounting and Bookkeeping",
+      "chapter_order": 4,
+      "topic": "(d) Journal",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(d) Journal Meaning of Journal; and classification of accounts, rules of debit and credit. Recording of transactions in journal. (Simple numerical based on the terminology mentioned in part",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Introduction to Accounting and Bookkeeping",
+      "chapter_order": 4,
+      "topic": "(b) need to be covered. Compound journal entries including cash discount, bad debts and opening and closing",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(b) need to be covered. Compound journal entries including cash discount, bad debts and opening and closing entries need not be covered). (e) Ledger Meaning, posting and balancing of ledger accounts. (Ledger posting on the basis of simple journal entries). (f) Trial balance Meaning, objectives and preparation of trial balance with the given set of ledger account balances. (Re-drafting of trial balance need not be covered.)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Banking",
+      "chapter_order": 5,
+      "topic": "Banking",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Commercial Banks - Functions and Types of Accounts (Savings, Current, Recurring & Fixed Account – meaning and difference only).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Trade",
+      "chapter_order": 6,
+      "topic": "E-commerce & E-trade",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "E-commerce & E-trade Merits and demerits of online trading.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Social Responsibility of Commercial Organisations towards the Environment",
+      "chapter_order": 7,
+      "topic": "(a) E- Waste Management- meaning only.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(a) E- Waste Management- meaning only.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Social Responsibility of Commercial Organisations towards the Environment",
+      "chapter_order": 7,
+      "topic": "(b) Recycling",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(b) Recycling",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Social Responsibility of Commercial Organisations towards the Environment",
+      "chapter_order": 7,
+      "topic": "(c) Afforestation",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(c) Afforestation",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Social Responsibility of Commercial Organisations towards the Environment",
+      "chapter_order": 7,
+      "topic": "(d) Eco Friendly products",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(d) Eco Friendly products (e) Legal Compliance of environmental norms A brief understanding of the above.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

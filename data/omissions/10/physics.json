@@ -1,0 +1,212 @@
+{
+  "subject_code": "52",
+  "subject_name": "Physics",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/10.-Physics.pdf",
+  "source_pdf_sha256": "f5943257e332c5cbed52a9dddc7eda97b4684b416a8047417ae95c5f9b2465ba",
+  "ingested_at": "2026-05-21T12:15:36.503Z",
+  "entries": [
+    {
+      "chapter": "Force, Work, Power and Energy",
+      "chapter_order": 1,
+      "topic": "(i) Turning forces concept; moment of a force; forces in equilibrium; centre of gravity; [discussions using",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(i) Turning forces concept; moment of a force; forces in equilibrium; centre of gravity; [discussions using simple examples and simple numerical problems]. Elementary introduction of translational and rotational motions; moment (turning effect) of a force, also called torque and its cgs and SI units; common examples - door, steering wheel, bicycle pedal, etc.; clockwise and anti-clockwise moments; conditions for a body to be in equilibrium (translational); principle of moment and its verificatio",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Force, Work, Power and Energy",
+      "chapter_order": 1,
+      "topic": "(ii) Work, energy, power and their relation with force. (Work - energy theorem without derivation.)",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(ii) Work, energy, power and their relation with force. (Work - energy theorem without derivation.) Definition of work. W FS= cos θ; special cases of θ = 00, 900. W= mgh. Definition of energy, energy as work done. Various units of work and energy and their relation with SI units. [erg, calorie, kW h and eV]. Definition of Power, P=W/t; SI and cgs units; other units, kilowatt (kW), megawatt (MW) and gigawatt (GW); and horsepower (1hp=746W) [Simple numerical problems on work, power and energy].",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Force, Work, Power and Energy",
+      "chapter_order": 1,
+      "topic": "(iii) Principle of Conservation of energy.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iii) Principle of Conservation of energy. Statement of the principle of conservation of energy; theoretical verification that U + K = constant for a freely falling body. Application of this law to simple pendulum (qualitative only); [simple numerical problems].",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Force, Work, Power and Energy",
+      "chapter_order": 1,
+      "topic": "(iv) Different types of energy (e.g., chemical energy, Mechanical energy, heat energy, electrical energy,",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iv) Different types of energy (e.g., chemical energy, Mechanical energy, heat energy, electrical energy, nuclear energy, sound energy, light energy). Mechanical energy: potential energy U = mgh (derivation included) gravitational PE, examples; kinetic energy K= ½ mv2 (derivation included); forms of kinetic energy: translational, rotational and vibrational - only simple examples. [Numerical problems on K and U only in case of translational motion]; qualitative discussions of electrical, chemical",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Force, Work, Power and Energy",
+      "chapter_order": 1,
+      "topic": "(v) Machines as force multipliers; load, effort, mechanical advantage, velocity ratio and efficiency; simple",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(v) Machines as force multipliers; load, effort, mechanical advantage, velocity ratio and efficiency; simple treatment of levers, pulley systems showing the utility of each type of machine. Functions and uses of simple machines: Terms- effort E, load L, mechanical advantage MA = L/E, velocity ratio VR = VE/VL = dE / dL, input (Wi), output (Wo), Power output (PO), Power Input(PI),efficiency ( η), relation between η and MA, VR (derivation included); for all practical machines η <1; MA < VR. Lever:",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Light",
+      "chapter_order": 2,
+      "topic": "(i) Refraction of light through a glass block and a triangular prism - qualitative treatment of simple",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(i) Refraction of light through a glass block and a triangular prism - qualitative treatment of simple applications such as real and apparent depth of objects in water and apparent bending of sticks in water. Applications of refraction of light. Partial reflection and refraction due to change in medium. Laws of refraction; the effect on speed (V), wavelength ( λ) and frequency (f) due to refraction of light; conditions for a light ray to pass undeviated. Values of speed of light (c) in vacuum, a",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Light",
+      "chapter_order": 2,
+      "topic": "(ii) Total internal reflection: Critical angle; examples in triangular glass prisms; comparison with reflection",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(ii) Total internal reflection: Critical angle; examples in triangular glass prisms; comparison with reflection from a plane mirror (qualitative only). Applications of total internal reflection. Transmission of light from a denser medium (glass/water) to a rarer medium (air) at different angles of incidence; critical angle (C) μ = 1/sin C. Essential conditions for total internal reflection. Total internal reflection in a triangular glass prism; ray diagram, different cases - angles of prism (60º",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Light",
+      "chapter_order": 2,
+      "topic": "(iii) Lenses (converging and diverging) including characteristics of the images formed (using ray diagrams",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iii) Lenses (converging and diverging) including characteristics of the images formed (using ray diagrams only); magnifying glass; location of images using ray diagrams and thereby determining magnification. Types of lenses (converging and diverging), convex and concave, action of a lens as a set of prisms; technical terms; centre of curvature, radii of curvature, principal axis, foci, focal plane and focal length; methods to find focal length of convex lens detailed study of refraction of ligh",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Light",
+      "chapter_order": 2,
+      "topic": "(iv) Using a triangular prism to produce a visible spectrum from white light; Electromagnetic spectrum.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iv) Using a triangular prism to produce a visible spectrum from white light; Electromagnetic spectrum. Scattering of light. Deviation produced by a triangular prism; dependence on colour (wavelength) of light; dispersion and spectrum; electromagnetic spectrum: broad classification (names only arranged in order of increasing wavelength); properties common to all electromagnetic radiations; properties and uses of infrared and ultraviolet radiation. Simple application of scattering of light e.g. b",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sound",
+      "chapter_order": 3,
+      "topic": "(i) Reflection of Sound Waves; echoes: their use; simple numerical problems on echoes.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(i) Reflection of Sound Waves; echoes: their use; simple numerical problems on echoes. Production of echoes, condition for formation of echoes; simple numerical problems; use of echoes by bats, dolphins, fishermen, medical field. SONAR.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sound",
+      "chapter_order": 3,
+      "topic": "(ii) Natural vibrations, Damped vibrations, Forced vibrations and Resonance - a special case of forced",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(ii) Natural vibrations, Damped vibrations, Forced vibrations and Resonance - a special case of forced vibrations. Meaning and simple applications of natural, damped, forced vibrations and resonance. Applications of resonance.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sound",
+      "chapter_order": 3,
+      "topic": "(iii) Loudness, pitch and quality of sound.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(iii) Loudness, pitch and quality of sound. Characteristics of sound: loudness and intensity; subjective and objective nature of all characteristics; sound level in decibel(dB) (as unit only); interdependence of: pitch and frequency, quality and waveforms (with examples).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electricity and Magnetism",
+      "chapter_order": 4,
+      "topic": "(i) Ohm’s Law; concepts of emf, potential difference (pd), resistance; resistances in series and parallel,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(i) Ohm’s Law; concepts of emf, potential difference (pd), resistance; resistances in series and parallel, internal resistance. Concepts of pd (V), current (I), resistance (R) and charge (Q). Ohm's law: statement, V=IR; SI units; experimental verification; graph of V vs I and resistance from slope; ohmic and non-ohmic resistors, factors affecting resistance (including specific resistance) and internal resistance; super conductors, electromotive force (emf); combination of resistances in series a",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electricity and Magnetism",
+      "chapter_order": 4,
+      "topic": "(ii) Electrical power and energy.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(ii) Electrical power and energy. Electrical energy; examples of heater, motor, lamp, loudspeaker, etc. Electrical power; measurement of electrical energy, W = QV = VIt from the definition of pd. Combining with ohm’s law W = VIt = I2 Rt = (V2/R)t and electrical power P = (W/t) = VI = I2R = V2/R. Units: SI and commercial; Power rating of common appliances, household consumption of electric energy; calculation of total energy consumed by electrical appliances; W = Pt (kilowatt × hour = kW h), [sim",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electricity and Magnetism",
+      "chapter_order": 4,
+      "topic": "(iii) Stages of power distribution – main circuit; switches; fuses; earthing; safety precautions; three-pin plugs;",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(iii) Stages of power distribution – main circuit; switches; fuses; earthing; safety precautions; three-pin plugs; colour coding of wires-live, neutral and earth wires. Only stages of power distribution and corresponding voltages for heavy industries, light industries and domestic, frequency of AC in household supplies, meaning of Live, neutral and earth wire, their colour coding; Need for supplying power at high voltage; House wiring (ring system); main circuit with live, neutral and earth wire",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Electricity and Magnetism",
+      "chapter_order": 4,
+      "topic": "(iv) Magnetic effect of a current (principles only, laws not required); electromagnetic induction (elementary);",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(iv) Magnetic effect of a current (principles only, laws not required); electromagnetic induction (elementary); transformer. Oersted’s experiment on the magnetic effect of electric current; magnetic field (B) and field lines due to current in a straight wire (qualitative only), right hand thumb rule – magnetic field due to a current in a loop; Electromagnets: their uses; comparisons with a permanent magnet; Fleming’s Left Hand Rule, Working principle of transformer- Simple introduction to electr",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Heat",
+      "chapter_order": 5,
+      "topic": "(i) Calorimetry: Meaning, specific heat capacity; principle of method of mixtures; Numerical Problems on",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(i) Calorimetry: Meaning, specific heat capacity; principle of method of mixtures; Numerical Problems on specific heat capacity using heat loss and gain and the method of mixtures. Heat and its units (calorie, joule), temperature and its units (oC,, K);factors affecting heat absorbed and released, thermal (heat) capacity C' = Q/ T (SI unit of C'): Specific heat Capacity C = Q/m T (SI unit of C) Mutual relation between Heat Capacity and Specific Heat capacity, values of C for some common substa",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Heat",
+      "chapter_order": 5,
+      "topic": "(ii) Latent heat; loss and gain of heat involving change of state for fusion only, vaporization.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(ii) Latent heat; loss and gain of heat involving change of state for fusion only, vaporization. Change of phase (state); heating curve for water; latent heat; specific latent heat of fusion (SI unit). Simple numerical problems. Common physical phenomena involving latent heat of fusion. Heating and cooling curve. [No numerical involving latent heat of vaporization.]",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Modern Physics",
+      "chapter_order": 6,
+      "topic": "(i) Radioactivity and changes in the nucleus; background radiation and safety precautions.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(i) Radioactivity and changes in the nucleus; background radiation and safety precautions. Brief introduction (qualitative only) of the nucleus, nuclear structure, atomic number (Z), mass number (A). Radioactivity as spontaneous disintegration. α, β and γ - their nature and comparative properties; changes within the nucleus. One example each of α and β decay with equations showing changes in Z and A. Uses of radioactivity-radio isotopes: Alpha emitters (Americium-241 smoke detector, Radium-223 t",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Modern Physics",
+      "chapter_order": 6,
+      "topic": "(ii) Nuclear fission and fusion (Only definitions of the reactions and differences between them.)",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(ii) Nuclear fission and fusion (Only definitions of the reactions and differences between them.) A NOTE ON SI UNITS SI units (Systeme International d’Unites) were adopted internationally in 1968. Fundamental units The system has seven fundamental (or basic) units, one for each of the fundamental quantities. Fundamental quantity Unit Name Symbol Mass kilogram kg Length metre m Time second s Electric current ampere A Temperature kelvin K Luminous intensity candela cd Amount of substance mole mol ",
+      "effective_session": "2027-28"
+    }
+  ]
+}

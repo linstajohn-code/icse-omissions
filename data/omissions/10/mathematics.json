@@ -1,0 +1,272 @@
+{
+  "subject_code": "51",
+  "subject_name": "Mathematics",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/9.-Mathematics.pdf",
+  "source_pdf_sha256": "8384d0cdff1f7e0d090623256aef7a4da516de67a10ca65155f50bcbde281007",
+  "ingested_at": "2026-05-21T12:15:36.399Z",
+  "entries": [
+    {
+      "chapter": "Commercial Mathematics",
+      "chapter_order": 1,
+      "topic": "(i) Goods and Services Tax (GST)",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(i) Goods and Services Tax (GST) Computation of tax including problems involving discounts, list-price, profit, loss, basic/cost price including inverse cases. Candidates are also expected to find price paid by the consumer after paying State Goods and Service Tax (SGST) and Central Goods and Service Tax (CGST) - the different rates as in vogue on different types of items will be provided. Problems based on corresponding inverse cases are also included.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Commercial Mathematics",
+      "chapter_order": 1,
+      "topic": "(ii) Banking",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(ii) Banking Recurring Deposit Accounts: computation of interest and maturity value using the formula: I =𝑃𝑃 𝑛𝑛(𝑛𝑛+1) 2×12 × 𝑟𝑟 MV = P × n + I",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Commercial Mathematics",
+      "chapter_order": 1,
+      "topic": "(iii) Shares and Dividends",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(iii) Shares and Dividends",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 2,
+      "topic": "(i) Linear Inequations",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(i) Linear Inequations Linear Inequations in one unknown for x ∈ N, W, Z, R. Solving: • Algebraically and writing the solution in set notation form. • Representation of solution on the number line.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 2,
+      "topic": "(ii) Quadratic Equations in one variable",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(ii) Quadratic Equations in one variable (a) Nature of roots • Two distinct real roots if b2 – 4ac > 0 • Two equal real roots if b2 – 4ac = 0 • No real roots if b2 – 4ac < 0 (b) Solving Quadratic equations by: • Factorisation • Using Formula. (c) Solving simple quadratic equation problems. (a) Face/Nominal Value, Market Value, Dividend, Rate of Dividend, Premium. (b) Formulae • Income = number of shares × rate of dividend × FV. • Return = (Income / Investment) × 100. Note: Brokerage and fraction",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 2,
+      "topic": "(iii) Ratio and Proportion",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iii) Ratio and Proportion (a) Proportion, Continued proportion, mean proportion (b) Componendo, dividendo, alternendo, invertendo properties and their combinations. (c) Direct simple applications on proportions only.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 2,
+      "topic": "(iv) Factorisation of polynomials:",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iv) Factorisation of polynomials: (a) Factor Theorem. (b) Remainder Theorem. (c) Factorising a polynomial completely after obtaining one factor by factor theorem. Note: f",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 2,
+      "topic": "(x) not to exceed degree 3.",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(x) not to exceed degree 3.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 2,
+      "topic": "(v) Matrices",
+      "topic_order": 6,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(v) Matrices (a) Order of a matrix. Row and column matrices. (b) Compatibility for addition and multiplication. (c) Null and Identity matrices. (d) Addition and subtraction of 2 ×2 matrices. (e) Multiplication of a 2 ×2 matrix by • a non-zero rational number • a matrix.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 2,
+      "topic": "(vi) Arithmetic and Geometric Progression",
+      "topic_order": 7,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(vi) Arithmetic and Geometric Progression • Finding their General term. • Finding Sum of their first ‘n’ terms. • Simple Applications.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Algebra",
+      "chapter_order": 2,
+      "topic": "(vii) Co-ordinate Geometry",
+      "topic_order": 8,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(vii) Co-ordinate Geometry (a) Reflection (i) Reflection of a point in a line: x=0, y =0, x= a, y=a, the origin. (ii) Reflection of a point in the origin. (iii) Invariant points. (b) Co-ordinates expressed as (x, y), Section formula, Midpoint formula, Concept of slope, Equation of a line, Various forms of straight lines. (i) Section and Mid-point formula (Internal section only, co-ordinates of the centroid of a triangle included). (ii) Equation of a line: • Slope – intercept form y = mx + c • Tw",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Geometry",
+      "chapter_order": 3,
+      "topic": "(i) As a size transformation.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(i) As a size transformation.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Geometry",
+      "chapter_order": 3,
+      "topic": "(ii) Comparison with congruency, keyword being proportionality.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(ii) Comparison with congruency, keyword being proportionality.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Geometry",
+      "chapter_order": 3,
+      "topic": "(iii) Three conditions: SSS, SAS, AA. Simple applications (proof not included).",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iii) Three conditions: SSS, SAS, AA. Simple applications (proof not included).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Geometry",
+      "chapter_order": 3,
+      "topic": "(iv) Applications of Basic Proportionality Theorem.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(iv) Applications of Basic Proportionality Theorem.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Geometry",
+      "chapter_order": 3,
+      "topic": "(v) Areas of similar triangles are proportional to the squares of corresponding sides.",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(v) Areas of similar triangles are proportional to the squares of corresponding sides.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Geometry",
+      "chapter_order": 3,
+      "topic": "(vi) Direct applications based on the above including applications to maps and models.",
+      "topic_order": 6,
+      "status": "included",
+      "source_page": 11,
+      "source_excerpt": "(vi) Direct applications based on the above including applications to maps and models. (b) Loci Loci: Definition, meaning, Theorems and constructions based on Loci. (i) The locus of a point at a fixed distance from a fixed point is a circle with the fixed point as centre and fixed distance as radius. (ii) The locus of a point equidistant from two intersecting lines is the bisector of the angles between the lines. (iii) The locus of a point equidistant from two given points is the perpendicular b",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mensuration",
+      "chapter_order": 4,
+      "topic": "Mensuration",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "Area and volume of solids – Cylinder, Cone and Sphere. Three-dimensional solids - right circular cylinder, right circular cone and sphere: Area (total surface and curved surface) and Volume. Direct application problems including cost, Inner and Outer volume and melting and recasting method to find the volume or surface area of a new solid. Combination of solids included. Note: Problems on Frustum are not included.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Trigonometry",
+      "chapter_order": 5,
+      "topic": "(a) Using Identities to solve/prove simple algebraic trigonometric expressions",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(a) Using Identities to solve/prove simple algebraic trigonometric expressions sin2 A + cos2 A = 1 1 + tan2 A = sec2A 1+cot2A = cosec2A; 0 ≤ A ≤ 90 °",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Trigonometry",
+      "chapter_order": 5,
+      "topic": "(b) Heights and distances: Solving 2-D problems involving angles of elevation and depression using",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(b) Heights and distances: Solving 2-D problems involving angles of elevation and depression using trigonometric tables. Note: Cases involving more than two right angled triangles excluded.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Statistics",
+      "chapter_order": 6,
+      "topic": "(a) Computation of:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(a) Computation of: • Measures of Central Tendency: Mean, median, mode for raw and arrayed data. Mean*, median class and modal class for grouped data. (both continuous and discontinuous). * Mean by all 3 methods included: Direct : Σf Σfx Short-cut : Axdwhere Σf Σfd A −=+ Step-deviation: i Ax twhere Σf Σft A − =×+ i",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Statistics",
+      "chapter_order": 6,
+      "topic": "(b) Graphical Representation. Histograms and Less than Ogive.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 12,
+      "source_excerpt": "(b) Graphical Representation. Histograms and Less than Ogive. • Finding the mode from the histogram, the upper quartile, lower Quartile and median etc. from the ogive. • Calculation of inter Quartile range.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Probability",
+      "chapter_order": 7,
+      "topic": "(a) Units may be written in full or using the agreed symbols, but no other abbreviation may be used.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(a) Units may be written in full or using the agreed symbols, but no other abbreviation may be used.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Probability",
+      "chapter_order": 7,
+      "topic": "(b) The letter ‘s’ is never added to symbols to indicate the plural form.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(b) The letter ‘s’ is never added to symbols to indicate the plural form.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Probability",
+      "chapter_order": 7,
+      "topic": "(c) A full stop is not written after symbols for units unless it occurs at the end of a sentence.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(c) A full stop is not written after symbols for units unless it occurs at the end of a sentence.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Probability",
+      "chapter_order": 7,
+      "topic": "(d) When unit symbols are combined as a quotient, e.g., metre per second, it is recommended that it should",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 13,
+      "source_excerpt": "(d) When unit symbols are combined as a quotient, e.g., metre per second, it is recommended that it should be written as m/s, or as m s-1. (e) Three decimal signs are in common international use: the full point, the mid-point and the comma. Since the full point is sometimes used for multiplication and the comma for spacing digits in large numbers, it is recommended that the mid-point be used for decimals. (2) Names and symbols In general Implies that Identically equal to ⇒ ≡ is logically equival",
+      "effective_session": "2027-28"
+    }
+  ]
+}

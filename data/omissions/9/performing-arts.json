@@ -1,0 +1,172 @@
+{
+  "subject_code": "91",
+  "subject_name": "Performing Arts",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/22.-Performing-Arts.pdf",
+  "source_pdf_sha256": "b0b9ad35e38c17ac065afb1e145dc87486471d2d917d4f083924bc819f18c795",
+  "ingested_at": "2026-05-21T12:15:36.455Z",
+  "entries": [
+    {
+      "chapter": "Identification of ragas with the help of given short Swara-vistar.",
+      "chapter_order": 5,
+      "topic": "Identification of ragas with the help of given short Swara-vistar.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Identification of ragas with the help of given short Swara-vistar.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Life and contribution in brief of Tansen and Pt. V.N. Bhatkhande.",
+      "chapter_order": 6,
+      "topic": "PRACTICAL",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "PRACTICAL",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Singing and identifying Shuddha and Vikrit Swaras.",
+      "chapter_order": 1,
+      "topic": "Singing and identifying Shuddha and Vikrit Swaras.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Singing and identifying Shuddha and Vikrit Swaras.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Idea of Laya; Vilambit, Madhya and Drutlayas.",
+      "chapter_order": 2,
+      "topic": "Idea of Laya; Vilambit, Madhya and Drutlayas.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Idea of Laya; Vilambit, Madhya and Drutlayas.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Singing of 10 alankars in Dugun and ChaugunLaya.",
+      "chapter_order": 3,
+      "topic": "Singing of 10 alankars in Dugun and ChaugunLaya.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "4. Yaman, Khamaj, Kafi, Bhairavi, AlhaiyaBilawal - Singing of one Madhya layakhayal song in any three ragas as mentioned above (with alaaps and taans). Lakshangeet and Swarmalika in the other two ragas, One Dhrupad Geet in any one raga (Only sthai and antara); National Anthem - Jana Gana Mana and National Song – Vande Mataram (notation is not required). 5. Padhant (Reciting): Thekas of the following five taals with Taali, Khali shown on hands: Teen Taal, Keharwa, Dadra, Ektaal and Chartaal; thei",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Identification of ragas.",
+      "chapter_order": 6,
+      "topic": "(a) Non-detail terms: Sangeet; two main systems of Indian Music; Naad, Saptak; Thaat; Alankar; Raga,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(a) Non-detail terms: Sangeet; two main systems of Indian Music; Naad, Saptak; Thaat; Alankar; Raga, Janak-Janya Ragas and Ashraya raga; Vadi, Samvadi, Anuvadi, Vivadi; Aroha, Avaroha, Pakad;Chal and AchalSwar. Chal and AchalThaat, Toda, Alaap; Matra, Vibhag, Taal, Avartan, Sam, Taali, Khali, Theka; Thah (Barabar or Ekgun), Dugun, Chaugun.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Identification of ragas.",
+      "chapter_order": 6,
+      "topic": "(b) Detailed topics: Swara (Shuddha and VikritSwars), Jati (Odava, Shadava, Sampoorna), Laya (Vilambit,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(b) Detailed topics: Swara (Shuddha and VikritSwars), Jati (Odava, Shadava, Sampoorna), Laya (Vilambit, Madhya, Drut), Varna (Sthai, Arohi, Avarohi, Sanchari), Forms of Gat (Maseetkhani and Razakhani). 2. Description of the five ragas mentioned under ‘practical’ – their Thaat, Jati, Vadi-Samvadi, Swaras (Varjit and Vikrit), Aroha-Avaroha, Pakad, time of raga and similar raga. 3. Description of the five taals mentioned under ‘practical’; writing them in Thah and Dugun in Taal notation. 4. Knowled",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Identification of ragas with the help of given short swara-vistar.",
+      "chapter_order": 5,
+      "topic": "Identification of ragas with the help of given short swara-vistar.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Identification of ragas with the help of given short swara-vistar.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Life and contribution in brief of Tansen and Pt. V.N. Bhatkhande.",
+      "chapter_order": 6,
+      "topic": "PRACTICAL",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "PRACTICAL",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Handling of the instrument; correct posture and finger movement.",
+      "chapter_order": 1,
+      "topic": "Handling of the instrument; correct posture and finger movement.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Handling of the instrument; correct posture and finger movement.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Playing of 10 alankars in Thah, Dugun and Chaugun.",
+      "chapter_order": 2,
+      "topic": "Playing of 10 alankars in Thah, Dugun and Chaugun.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "3. Yaman, Khamaj, Kafi, Bhairavi, AlhaiyaBilawal – Playing of one Razakhani Gat in all the ragas as mentioned above (with alaaps and todas). Dhun in any raga mentioned above. National Anthem-Jana Gana Mana and National Song – Vande Mataram (notation is required). 4. Padhant (Reciting) - Thekas of the following five taals with Taali, Khali shown on hands: Teen Taal, Keharwa, Dadra, Ektaal and Chartaal; their Dugun also.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Identification of ragas.",
+      "chapter_order": 5,
+      "topic": "Identification of ragas.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Identification of ragas.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Playing of simple Bols like Da Ra Da Ra, Da Ra Dir Dir, Da Dir, Da Ra, etc.",
+      "chapter_order": 6,
+      "topic": "(a) Non-detail terms: Matra, Taal,Vibhag; Sam; Tali, Khali, Avartan, Theka, Kayada, Palta, Tihai, Mohra,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Non-detail terms: Matra, Taal,Vibhag; Sam; Tali, Khali, Avartan, Theka, Kayada, Palta, Tihai, Mohra, Mukhada, Tukda, Kismen (varieties of Theka) and Peshkara.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Playing of simple Bols like Da Ra Da Ra, Da Ra Dir Dir, Da Dir, Da Ra, etc.",
+      "chapter_order": 6,
+      "topic": "(b) Detailed topic: Laya (Vilambit, Madhya and Drut), Layakari (Thah, Dugun, Tigun and Chaugun), Origin",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Detailed topic: Laya (Vilambit, Madhya and Drut), Layakari (Thah, Dugun, Tigun and Chaugun), Origin and development of Tabla. 2. Writing in Taal-notation of the six Taals mentioned under ‘practical’; with their simple development; writing of Thekas in Thah, Dugun and Chaugunlayakaris.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Basic knowledge of: Sangeet, Swara and Saptak.",
+      "chapter_order": 3,
+      "topic": "PRACTICAL",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "PRACTICAL 1. Knowledge and practice of Vilambit, Madhya and Drutlayas as also of Thah, Dugun and Chaugun, with the help of Tali, Khali and matras on hands while reciting Thekas of Taals prescribed. 2. Technique of producing main syllables of Tabla and Bayan (Varnas) like Ta, Dha, Ge, Kat, Tin, Dhin, Tita etc. 3. Playing of Thekas of the following six Taals with development: two kaayadas and its four paltas with tihai in Teentaal, One tukda in each Jhaptaal and Ektaal, one paran in chaartaal, two",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Accompaniment (Sangat) in Taals (Dadra and Keharwa).",
+      "chapter_order": 4,
+      "topic": "Accompaniment (Sangat) in Taals (Dadra and Keharwa).",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "5. Padhant(Reciting) - Thekas in Thah and Dugun. Simple developments of Taals mentioned in para (3), showing Taali, Khali etc. on hands.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

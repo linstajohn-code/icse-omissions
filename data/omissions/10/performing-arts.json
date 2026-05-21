@@ -1,0 +1,232 @@
+{
+  "subject_code": "91",
+  "subject_name": "Performing Arts",
+  "icse_class": 10,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/22.-Performing-Arts.pdf",
+  "source_pdf_sha256": "b0b9ad35e38c17ac065afb1e145dc87486471d2d917d4f083924bc819f18c795",
+  "ingested_at": "2026-05-21T12:15:36.461Z",
+  "entries": [
+    {
+      "chapter": "Identification of Ragas of Classes IX and X (a few note combinations given).",
+      "chapter_order": 5,
+      "topic": "Identification of Ragas of Classes IX and X (a few note combinations given).",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "Identification of Ragas of Classes IX and X (a few note combinations given).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Life and contribution in brief of Amir Khusroand Pt.Vishnu Digambar Paluskar.",
+      "chapter_order": 6,
+      "topic": "Life and contribution in brief of Amir Khusroand Pt.Vishnu Digambar Paluskar.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "Life and contribution in brief of Amir Khusroand Pt.Vishnu Digambar Paluskar.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "A brief description of 4 eminent vocalists (present or recent past).",
+      "chapter_order": 7,
+      "topic": "PRACTICAL",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "PRACTICAL",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Singing of three alankars in Teental, Jhaptaal and Dadra each.",
+      "chapter_order": 1,
+      "topic": "Singing of three alankars in Teental, Jhaptaal and Dadra each.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "2. Bhairav, Bhopaali, Desh, Bageshwari, Malkauns - Singing of Chotakhayal song in any three ragas as mentioned above (with alaaps and taans). Lakshangeet and Swarmalika in the other two ragas, One Badakhayal in any one of the above-mentioned ragas (Only sthai and antara); Tarana (notation of Tarana is not required). 3. Padhant (Reciting)-Thekas of the following new taals as also those learnt in Class IX in Dugun and Chaugun, showing Tali, Khali and Matras on hands: Rupak, Jhaptaal, Tilwada, Dham",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Identification of ragas learnt in Classes IX and X.",
+      "chapter_order": 4,
+      "topic": "(a) Non-detail terms: Sound (Dhwani); Kan; Meend, Soot; Zamzama; Gamak; Baj; Khatka; Jhala; Tigun.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(a) Non-detail terms: Sound (Dhwani); Kan; Meend, Soot; Zamzama; Gamak; Baj; Khatka; Jhala; Tigun.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Identification of ragas learnt in Classes IX and X.",
+      "chapter_order": 4,
+      "topic": "(b) Detailed topics: Nad; three qualities of Nad (volume, pitch, timbre); Shruti and placement of 12 swaras;",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "(b) Detailed topics: Nad; three qualities of Nad (volume, pitch, timbre); Shruti and placement of 12 swaras; Maseetkhani and Razakhani Gat; Relationship between VadiSwar and time of playing Raga. 2. Origin and the development of the instrument. Methods of handling instruments; tuning of the instrument with a labelled diagram. 3. Complete description of all the 10 ragas mentioned under ‘Practical’ in Classes IX and X. 4. Writing in the Tal notation, all the 10 Taals learnt in Classes IX and X, th",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Writing in complete musical notation of the Maseetkhani and Razakhani Gats.",
+      "chapter_order": 5,
+      "topic": "Writing in complete musical notation of the Maseetkhani and Razakhani Gats.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Writing in complete musical notation of the Maseetkhani and Razakhani Gats.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Identification of Ragas (a few note combinations given) of Classes IX and X.",
+      "chapter_order": 6,
+      "topic": "Identification of Ragas (a few note combinations given) of Classes IX and X.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Identification of Ragas (a few note combinations given) of Classes IX and X.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Life and contribution in brief of Amir Khusro and Pt. Vishnu DigambarPaluskar.",
+      "chapter_order": 7,
+      "topic": "Life and contribution in brief of Amir Khusro and Pt. Vishnu DigambarPaluskar.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Life and contribution in brief of Amir Khusro and Pt. Vishnu DigambarPaluskar.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Brief description of four eminent instrumentalists (present or recent past).",
+      "chapter_order": 8,
+      "topic": "PRACTICAL",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "PRACTICAL",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Playing of three alankars in Teental, Jhaptaal and Dadra each.",
+      "chapter_order": 1,
+      "topic": "Playing of three alankars in Teental, Jhaptaal and Dadra each.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "2. Bhairav, Bhopaali, Desh, Bageshwari, Malkauns – Playing of five Razakhani Gat in all the above five mentioned Ragas and one Maseetkhani Gat in any one of the five ragas as mentioned above (with alaaps, toda and jhala). Dhun (notation of Dhun is not required). 3. Padhant (Reciting)-Thekas of the following new taals as also those learnt in Class IX in Dugun and Chaugun, showing Tali, Khali and Matras on hands: Rupak,Jhaptal, Tilwada, Dhamar and Deepchandi (Chanchar).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Identification of ragas learnt in Classes IX and X.",
+      "chapter_order": 4,
+      "topic": "(a) Non-detail terms: Names of 10 Pranas, AadiLaya (Only in Dadra and Keharwa), Lehra (Nagma), Paran,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(a) Non-detail terms: Names of 10 Pranas, AadiLaya (Only in Dadra and Keharwa), Lehra (Nagma), Paran, Uthan, Chakkardar Tukda, Dumdar and BedumTihai, Gat, Padhant,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Identification of ragas learnt in Classes IX and X.",
+      "chapter_order": 4,
+      "topic": "(b) Detailed topics: Origin and development of Tabla, Basic 10 Varnas (Syllables) of Tabla, TaalJaati System,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(b) Detailed topics: Origin and development of Tabla, Basic 10 Varnas (Syllables) of Tabla, TaalJaati System, Solo and Sangat.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Brief description of four eminent percussionist (present or recent past).",
+      "chapter_order": 2,
+      "topic": "Brief description of four eminent percussionist (present or recent past).",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "3. Writing in Taal notation, Thekas, in Thah, Dugun, Tigun and Chaugun, of all Taals learnt in Class IX and X. 4. Names of different parts (components) of the Tabla with the help of a simple sketch. Tuning of the instrument.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Identification of Taals (a few bol combinations given) of Classes IX and X.",
+      "chapter_order": 5,
+      "topic": "PRACTICAL",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "PRACTICAL",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Technique of producing bols on Tabla like Tirkit, Kran, etc.",
+      "chapter_order": 1,
+      "topic": "Technique of producing bols on Tabla like Tirkit, Kran, etc.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "2. Development of following Taals: Teental – 1 uthan, 2 new kaydas and its 4 paltas with tihai, 1 Rela, 1 Chakardaar Tukda, 1 Damdar and BedamTihai, Roopak – 1 Tihai, Sooltaal – 1 Tihai, Teevra Taal – 1 Paran, Deepchandi Taal, TilwadaTaal (only Theka). 3. Padhant (Reciting)- Thekas of all Taals of Class IX and X with development mentioned in para (2), giving Tali, Khali etc. by hands in Dugun and Chaugun.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Ability to accompany with vocalist and instrumentalist with development.",
+      "chapter_order": 4,
+      "topic": "Course Work",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "Course Work 1. Candidates will be required to practice and perform singing or playing. This performance may be undertaken in connection with the topics suggested below. The practical work of candidates will be assessed by the teacher as course work. The teacher is free to assess the course work either on the basis of continuous assessment or on the basis of periodical tests.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Suggested topics for practical work:",
+      "chapter_order": 2,
+      "topic": "(i) Individual performances,",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(i) Individual performances,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Suggested topics for practical work:",
+      "chapter_order": 2,
+      "topic": "(ii) Practice for school functions,",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(ii) Practice for school functions,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Suggested topics for practical work:",
+      "chapter_order": 2,
+      "topic": "(iii) Performance in a group of either players or singers, not necessarily in school,",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iii) Performance in a group of either players or singers, not necessarily in school,",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Suggested topics for practical work:",
+      "chapter_order": 2,
+      "topic": "(iv) Prepare a PowerPoint presentation on an eminent vocalist or instrumentalist.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(iv) Prepare a PowerPoint presentation on an eminent vocalist or instrumentalist.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Suggested topics for practical work:",
+      "chapter_order": 2,
+      "topic": "(v) A visit to a sound recording studio.",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(v) A visit to a sound recording studio. 3. In addition to the course work the candidates will be tested in singing or playing one instrument by an External Examiner. Assessment 1. The teacher and the External Examiner will assess the practice and performance of candidates. 2. The following aspects of practice and performance should be taken into consideration: (i) Musical performance, Expression, Diction, Tonal quality, Breath control; (ii) Accuracy; (iii) Style and interpretation. 3. The Exter",
+      "effective_session": "2027-28"
+    }
+  ]
+}

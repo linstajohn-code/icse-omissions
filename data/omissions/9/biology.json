@@ -1,0 +1,192 @@
+{
+  "subject_code": "52",
+  "subject_name": "Biology",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/12.-Biology.pdf",
+  "source_pdf_sha256": "8cd305387a06fa57c9f48b16aab0fbff6fdda7b3b7d6e784b776620e03af0163",
+  "ingested_at": "2026-05-21T12:15:36.043Z",
+  "entries": [
+    {
+      "chapter": "Basic Biology",
+      "chapter_order": 1,
+      "topic": "(i) The cell, a unit of life, protoplasm, basic difference between prokaryotic and eukaryotic cell; differences",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(i) The cell, a unit of life, protoplasm, basic difference between prokaryotic and eukaryotic cell; differences between an animal and a plant cell. ● A basic understanding of the cell theory, structure of plant and animal cell with functions of various cell organelles (Protoplasm, Cytoplasm, Nucleus, Nucleolus, Mitochondria, Endoplasmic Reticulum, Ribosome, Golgi bodies, Plastids, Lysosomes, Centrosome and Vacuole) and cell boundaries (Cell Wall, Cell Membrane). ● Major differences between a pro",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Basic Biology",
+      "chapter_order": 1,
+      "topic": "(ii) Tissues: Types of plant and animal tissues.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Tissues: Types of plant and animal tissues. ● A brief understanding of their location, basic structure and functions with examples. ● A brief understanding of their role in different physiological processes in plants and animals.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Flowering Plants",
+      "chapter_order": 2,
+      "topic": "(i) Flower: Structure of a bisexual flower, functions of various parts.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) Flower: Structure of a bisexual flower, functions of various parts. ● A brief introduction to complete and incomplete flowers. ● Essential and non-essential whorls of a bisexual flower; their various parts and functions. ● Inflorescence and placentation (meaning only). (Charts or actual specimens may be used to help enhance clarity of concepts.)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Flowering Plants",
+      "chapter_order": 2,
+      "topic": "(ii) Pollination: self and cross-pollination.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Pollination: self and cross-pollination. ● Explanation, advantages and disadvantages of self and cross-pollination. ● Agents of pollination and the characteristic features of flowers pollinated by various agents such as insects, wind, and water. ● A brief idea as to how nature favours cross pollination.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Flowering Plants",
+      "chapter_order": 2,
+      "topic": "(iii) Fertilisation.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(iii) Fertilisation. ● Events taking place between pollination and fertilisation leading to the formation of zygote in the embryo sac. ● A brief explanation of the terms -double fertilization and triple fusion. ● Fruit and Seed - definition and significance.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Plant Physiology",
+      "chapter_order": 3,
+      "topic": "(i) Structure of dicot and monocot seeds. Germination of seeds, types, and conditions for seed germination.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) Structure of dicot and monocot seeds. Germination of seeds, types, and conditions for seed germination. ● Structure and germination of Bean seed and Maize grain. ● Differences between monocot and dicot seeds. ● Differences between hypogeal and epigeal germination. ● Conditions for seed germination - to be explained and supported by experiments.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Plant Physiology",
+      "chapter_order": 3,
+      "topic": "(ii) Respiration in plants: outline of the process, gaseous exchange.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Respiration in plants: outline of the process, gaseous exchange. ● A brief outline of the process mentioning the terms Glycolysis, Krebs cycle and their significance. ● A reference to be made to aerobic and anaerobic respiration with chemical equations in each case. ● Experiments on gaseous exchange and on heat production.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Diversity in Animal Kingdom:",
+      "chapter_order": 4,
+      "topic": "Diversity in Animal Kingdom:",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Kingdom Animalia - non-chordates from Porifera to Echinodermata and Chordates - all five Classes.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Economic importance of Bacteria and Fungi",
+      "chapter_order": 5,
+      "topic": "(i) Useful role of bacteria.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(i) Useful role of bacteria. ● Medicine: antibiotics, serums and vaccines. ● Agriculture: nitrogen cycle (role of nitrogen fixing, nitrifying and denitrifying bacteria). ● Industry -curing of tea, tanning of leather.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Economic importance of Bacteria and Fungi",
+      "chapter_order": 5,
+      "topic": "(ii) Harmful role of bacteria - spoilage of food, diseases in plants and animals, bio-weapons.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Harmful role of bacteria - spoilage of food, diseases in plants and animals, bio-weapons.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Economic importance of Bacteria and Fungi",
+      "chapter_order": 5,
+      "topic": "(iii) Economic importance of Fungi.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iii) Economic importance of Fungi. A brief idea of the useful role of Fungi in breweries, bakeries, cheese processing, and mushroom cultivation. (Processes of manufacture are not required).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Anatomy and Physiology",
+      "chapter_order": 6,
+      "topic": "(i) Nutrition.",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(i) Nutrition. • Classes of food; balanced diet. Malnutrition and deficiency diseases. − Functions of carbohydrates, fats, proteins, mineral salts (calcium, iodine, iron and sodium), vitamins and water in proper functioning of the body. − Sources of vitamins, their functions and deficiency diseases. − Meaning and importance of a ‘Balanced Diet’. − Role of cellulose in our diet. − Causes, symptoms and prevention of Kwashiorkor and Marasmus. • The structure of a tooth, different types of teeth. − ",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Anatomy and Physiology",
+      "chapter_order": 6,
+      "topic": "(ii) Skeleton - Movement and Locomotion.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) Skeleton - Movement and Locomotion. ● Functions of human skeleton. ● Axial and Appendicular Skeleton. ● Types of joints with reference to their location. - immovable joints. - slightly movable joints. - freely movable (hinge joint, ball and socket joint, gliding joint, pivot joint).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Human Anatomy and Physiology",
+      "chapter_order": 6,
+      "topic": "(iii) Structure and functions of skin.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iii) Structure and functions of skin. ● Various parts of the skin and their functions. ● Special derivatives of the skin with reference to sweat glands, sebaceous glands, hair, nails and mammary glands. ● Heat regulation - vasodilation and vasoconstriction.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Health and Hygiene",
+      "chapter_order": 7,
+      "topic": "(i) A brief introduction to communicable, non-communicable, endemic, epidemic, pandemic and sporadic",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(i) A brief introduction to communicable, non-communicable, endemic, epidemic, pandemic and sporadic diseases; modes of transmission. ● Meaning of each of the above with examples. ● Modes of transmission: air; water; vectors (housefly, mosquito, cockroach).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Health and Hygiene",
+      "chapter_order": 7,
+      "topic": "(ii) Bacterial, Viral, Protozoan, Helminthic diseases.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(ii) Bacterial, Viral, Protozoan, Helminthic diseases. ● Bacterial: Cholera, typhoid, tuberculosis. ● Viral: AIDS, Chicken pox, Hepatitis. ● Protozoan: Malaria, Amoebic Dysentery, Sleeping sickness. ● Helminthic: Ascariasis, Taeniasis, Filariasis. (Symptoms and measures to control the above diseases.) (Scientific names of causative agents not required).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Health and Hygiene",
+      "chapter_order": 7,
+      "topic": "(iii) Aids to Health:",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(iii) Aids to Health: ● An understanding of the use and action of the following – vaccination, immunization, antitoxin, serum, antiseptics, disinfectants, antibiotics. ● An idea of the local defense system and its merits, difference between antiseptics and disinfectants.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Health and Hygiene",
+      "chapter_order": 7,
+      "topic": "(iv) Health Organizations: Red Cross, WHO.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(iv) Health Organizations: Red Cross, WHO. Major activities of the Red Cross and WHO.",
+      "effective_session": "2027-28"
+    }
+  ]
+}

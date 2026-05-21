@@ -1,0 +1,612 @@
+{
+  "subject_code": "84",
+  "subject_name": "Yoga",
+  "icse_class": 9,
+  "exam_year": 2028,
+  "effective_session": "2027-28",
+  "source_pdf_url": "https://cisce.org/wp-content/uploads/2026/01/27.-Yoga.pdf",
+  "source_pdf_sha256": "26a65428793f5d2b8e47643ab4c18ae3d9b75b4dddeffe925a28bf01db1e7224",
+  "ingested_at": "2026-05-21T12:15:36.464Z",
+  "entries": [
+    {
+      "chapter": "The Human Skeleton",
+      "chapter_order": 1,
+      "topic": "The Human Skeleton",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "Functions and classification; axial and appendicular skeletal system; types of joints. Functions of the human skeleton; classification of the skeletal system; the axial skeletal system: skull bones and vertebral column. Curves of the spine: cervical curve, thoracic curve, lumbar curve, sacral curve, coccyx. Rib cage and sternum, structure and functions (briefly); the appendicular skeletal system: Location of pectoral girdle (scapula and clavicle), bones of arms; pelvic girdle-ilium, pubis, ischi",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Muscular System",
+      "chapter_order": 2,
+      "topic": "(i) Its ability to contract(briefly) ii) Its ability to extend (briefly) (iii) Muscle tone",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(i) Its ability to contract(briefly) ii) Its ability to extend (briefly) (iii) Muscle tone and its importance for maintaining posture",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Muscular System",
+      "chapter_order": 2,
+      "topic": "(iv) Attachment of muscles to bones through tendons and a basic",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(iv) Attachment of muscles to bones through tendons and a basic understanding of how muscles make movement possible",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Muscular System",
+      "chapter_order": 2,
+      "topic": "(v) Concept of agonist and antagonist muscles.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 4,
+      "source_excerpt": "(v) Concept of agonist and antagonist muscles. Identifying the following important muscles:(i) Muscles in the neck and shoulder regions-Trapezius and Deltoid",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Muscular System",
+      "chapter_order": 2,
+      "topic": "(ii) Muscles in the arms-biceps and triceps (iii) Muscles in the chest pectorals, intercostal muscles(iv)",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) Muscles in the arms-biceps and triceps (iii) Muscles in the chest pectorals, intercostal muscles(iv) Muscles in the belly-Rectus abdominis, oblique, Transversus (v) Muscles along the spine-Paraspinal muscles (vi)Muscles in the buttocks-Gluteal muscles",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Muscular System",
+      "chapter_order": 2,
+      "topic": "(vii) Muscles in the thighs -Hamstrings, Quadriceps, Adductors,",
+      "topic_order": 5,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(vii) Muscles in the thighs -Hamstrings, Quadriceps, Adductors, viii) Diaphragm. Importance of a good posture: An understanding that a poor posture (rounded shoulders, a hunched back) can lead to headaches, backaches and sluggishness. A poor posture also interferes with healthy breathing.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Respiratory System",
+      "chapter_order": 3,
+      "topic": "(ii) expiration;",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "(ii) expiration; How yoga cultures breath and improves respiration.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Digestive System",
+      "chapter_order": 4,
+      "topic": "The Digestive System",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "The alimentary canal and the importance of a healthy diet. The Alimentary Canal: Mouth, Oesophagus, Stomach, Liver, Pancreas, Small Intestine, Large Intestine, Rectum, Anus (Location and function, in brief, of each of the above). SECTION II: SAGES OF INDIA Candidates are expected to know about the lives and teachings of the following sages of India:",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Valmiki",
+      "chapter_order": 1,
+      "topic": "Valmiki",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Early Life; meeting Narada and the turning point of his life; repetition of ‘Mara’ changing to ‘Rama’; formation of a Valmika (anthill) hence his name Valmiki; meeting with Rama and Sita; giving shelter to Sita and her sons Lava and Kusha, when she was banished by Rama; inspiration received to write the Ramayana; importance of the Ramayana and its story in brief; liberation of Ravana through Rama.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Kabir",
+      "chapter_order": 2,
+      "topic": "Kabir",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Birth and early life; Meeting with and discipleship under Swami Ramananda; His marriage; Kabir as a social and religious rebel; His death in Magar; Works: Kabir Bijak. Concepts expounded by some of his famous dohas.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Mirabai",
+      "chapter_order": 3,
+      "topic": "Mirabai",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Birth and early life; Her connection from childhood with Sri Krishna; Her marriage to Prince Bhojraj; Akbar disguised as a merchant visiting her; Ill treatment at the hands of her in-laws after her husband's demise (incident of her drinking the poison unaffected); Her last days in Vrindavan; Importance of her poems and songs.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Ramakrishna Paramhansa",
+      "chapter_order": 4,
+      "topic": "Ramakrishna Paramhansa",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 5,
+      "source_excerpt": "Birth and early Life; His marriage to Saradamani; arrival at Dakshineswar and introduction to priesthood; his meeting with teachers like Bhairavi Brahmani &Totapuri; Any three miraculous events in his life. SECTION III:CONCEPTS OF YOGA",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Guru and Shishya",
+      "chapter_order": 1,
+      "topic": "Guru and Shishya",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Importance of Guru in yoga, qualities of Guru, types of shishya and relationship between the Guru and shishya.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The four Purusharthas, the four Ashramas",
+      "chapter_order": 2,
+      "topic": "The four Purusharthas, the four Ashramas",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "Basic understanding of the above.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The four Margas (Bhakti, Karma, Raja, Jnana)",
+      "chapter_order": 3,
+      "topic": "(iv) faith and surrendering ego, types of karma, black, white and black and white, karmashaya",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(iv) faith and surrendering ego, types of karma, black, white and black and white, karmashaya and how it builds up, role of karma as cause of bondage and salvation. Raja yoga: the path to inner world through concentration and will to control the mind and its modifications, ashtanga yoga. Jnana yoga: the path of wisdom, knowledge and intellect.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Patanjali and his contributions to Yoga",
+      "chapter_order": 4,
+      "topic": "Patanjali and his contributions to Yoga",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "A brief story of his life, contribution to Sanskrit grammar, Ayurveda and the Yoga sutras.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Ashtanga Yoga as defined in the Yoga Sutras",
+      "chapter_order": 5,
+      "topic": "(a) Asanas",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(a) Asanas",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Ashtanga Yoga as defined in the Yoga Sutras",
+      "chapter_order": 5,
+      "topic": "(b) Pranayama",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(b) Pranayama",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Ashtanga Yoga as defined in the Yoga Sutras",
+      "chapter_order": 5,
+      "topic": "(c) Pratyahara",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(c) Pratyahara",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Ashtanga Yoga as defined in the Yoga Sutras",
+      "chapter_order": 5,
+      "topic": "(d) Dharana",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 6,
+      "source_excerpt": "(d) Dharana (e) Dhyana (f) Samadhi SECTION IV: PSYCHOLOGY AND PHYSIOLOGY OF YOGA",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "An Understanding of Yoga",
+      "chapter_order": 1,
+      "topic": "An Understanding of Yoga",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "Definition of yoga: according to Patanjali, as explained in the Bhagvad Gita. (yoga is excellence in action\\works) How is yoga different from other forms of physical exercise? To be discussed with respect to the interconnection between mind, body, and spirit and how yoga brings these into harmony with each other. Yoga also addresses imbalances and illnesses at an organic level (the action of yoga reaches the inner organs and heals chronic ailments from the roots).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Hatha Yoga",
+      "chapter_order": 2,
+      "topic": "(i) Muscles: asanas should strengthen them (sun aspect) and make them flexible (moon aspect).",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(i) Muscles: asanas should strengthen them (sun aspect) and make them flexible (moon aspect).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Hatha Yoga",
+      "chapter_order": 2,
+      "topic": "(ii) Degree of stretch in an asana should not be maximum nor minimum but optimum (balanced and so",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(ii) Degree of stretch in an asana should not be maximum nor minimum but optimum (balanced and so recommended). (b) Breath (i) Inhalation, the power or the sun aspect of the breath. (ii) Exhalation, the peace or the moon aspect of the breath. (c) Nadis Ida (moon channel, left nostril), Pingala (sun channel, right nostril), Sushumna (central channel) (Just a basic concept and location of above nadis).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Psychological aspect of an asana practice",
+      "chapter_order": 3,
+      "topic": "(a) Reactivity threshold: By watching the breath instead of paying attention to the pain experienced during",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(a) Reactivity threshold: By watching the breath instead of paying attention to the pain experienced during an asana one becomes less reactive in day to day life as well.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Psychological aspect of an asana practice",
+      "chapter_order": 3,
+      "topic": "(b) Meditative and relaxing postures: bring self-discipline, relaxation and steadiness.",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(b) Meditative and relaxing postures: bring self-discipline, relaxation and steadiness.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Psychological aspect of an asana practice",
+      "chapter_order": 3,
+      "topic": "(c) Forward bending asanas: Bring peace, release of tension, and humility to the mind.",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(c) Forward bending asanas: Bring peace, release of tension, and humility to the mind.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Psychological aspect of an asana practice",
+      "chapter_order": 3,
+      "topic": "(d) Back bending asanas: Energise the system and enhance self-esteem.",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "(d) Back bending asanas: Energise the system and enhance self-esteem. (e) Standing asanas: Help to root the practitioner in existence. Enhance stability and endurance. (f) Balancing asanas: Increase concentration and focus. (g) Inverted asanas: Hormone balancing hence anti-anxiety and anti-depression.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Pancha Koshas",
+      "chapter_order": 4,
+      "topic": "Pancha Koshas",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 7,
+      "source_excerpt": "Panch Koshas - a concept from the Taittiriya Upanishad: Annamaya Pranamaya, Manomaya, Vijnanamaya,Anandamaya kosha. A basic understanding of how a human being is made up of the above sheaths; how each sheath is related to the next sheath.An understanding of the relationship between life force (prana) and the physical body (Annamaya) so also an understanding of connection between thoughts (Manomaya) and the energy flowing in the body (Pranamaya).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Pancha Pranas",
+      "chapter_order": 5,
+      "topic": "Prana, Apana, Samana, Udana, Vyana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "Prana, Apana, Samana, Udana, Vyana Location and basic functions of the above 5 pranas.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Seven Chakras",
+      "chapter_order": 6,
+      "topic": "Muladhara, Swadishthana, Manipura, Anahata, Visuddhi, Ajna, Sahasrara",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "Muladhara, Swadishthana, Manipura, Anahata, Visuddhi, Ajna, Sahasrara Location and functions; the element the chakra is associated with; colour of the chakra.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Sutras",
+      "chapter_order": 7,
+      "topic": "Sutras",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "Sutras 2.29. 2.46 The above two sutras should be known with their meanings.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Yogachara: wellness through the four pillars of yoga",
+      "chapter_order": 8,
+      "topic": "(i) Ahar (diet)",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(i) Ahar (diet) An introduction to the concepts of Sattva, Rajas and Tamas as applied to food; The importance of a healthy diet and its effect on physical, emotional and mental wellbeing. Importance of the following: (a) Incorporating seasonal fresh fruit and vegetables in the diet (b) Drinking adequate amount of water in a day (c) Health hazards of in taking an excess of aerated drinks, refined flour, salt, white sugar, packaged foods. (d) Concept of mitahar (as in Hatha yoga), importance of ea",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Yogachara: wellness through the four pillars of yoga",
+      "chapter_order": 8,
+      "topic": "(ii) Vihar (relaxation and recreation)",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(ii) Vihar (relaxation and recreation) Importance of conscious relaxation as in shavasana, doing recreational activities (developing creative hobbies) in which, body, mind and emotions are involved.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Yogachara: wellness through the four pillars of yoga",
+      "chapter_order": 8,
+      "topic": "(iii) Achar",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(iii) Achar Importance of discipline in routines and actions/work; for example: sleep and wake up early, maintain meal times.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Yogachara: wellness through the four pillars of yoga",
+      "chapter_order": 8,
+      "topic": "(iv) Vichar(thoughts)",
+      "topic_order": 4,
+      "status": "included",
+      "source_page": 8,
+      "source_excerpt": "(iv) Vichar(thoughts) Positive thinking, pratipaksh bhavana, understanding the temporary nature of the objects through Anitya bhavana, attitude of gratitude and forgiveness, surrendering the ‘I ‘sense. PAPER II (Internal Assessment) The practical work is divided into two sections as follows: Section A (40 Marks): Course Work - the course work will be assessed by the teacher on the basis of continuous assessment. The candidate will be assessed on the basis of his/her output in the following areas",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Vrikshasana",
+      "chapter_order": 1,
+      "topic": "Vrikshasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Vrikshasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Garudasana",
+      "chapter_order": 2,
+      "topic": "Garudasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Garudasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Utthita Trikonasana",
+      "chapter_order": 3,
+      "topic": "Utthita Trikonasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Utthita Trikonasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Utthita Parshva Konasana",
+      "chapter_order": 4,
+      "topic": "Utthita Parshva Konasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Utthita Parshva Konasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Virbhadrasana I",
+      "chapter_order": 5,
+      "topic": "Virbhadrasana I",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Virbhadrasana I",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Virbhadrasana II",
+      "chapter_order": 6,
+      "topic": "Virbhadrasana II",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Virbhadrasana II",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Prasarita Pada Uttanasana I",
+      "chapter_order": 7,
+      "topic": "Prasarita Pada Uttanasana I",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Prasarita Pada Uttanasana I",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Pada Hastasana",
+      "chapter_order": 8,
+      "topic": "Pada Hastasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Pada Hastasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Adho Mukha Shvanasana",
+      "chapter_order": 9,
+      "topic": "Adho Mukha Shvanasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Adho Mukha Shvanasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Parvatasana",
+      "chapter_order": 10,
+      "topic": "Parvatasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Parvatasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "UrdhvaPrasaritaPadasana",
+      "chapter_order": 11,
+      "topic": "UrdhvaPrasaritaPadasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "UrdhvaPrasaritaPadasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Supta Virasana",
+      "chapter_order": 12,
+      "topic": "Supta Virasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Supta Virasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Ushtrasana",
+      "chapter_order": 13,
+      "topic": "Ushtrasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Ushtrasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Dhanurasana",
+      "chapter_order": 14,
+      "topic": "Dhanurasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Dhanurasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Marichyasana 1 (Twist only)",
+      "chapter_order": 15,
+      "topic": "Marichyasana 1 (Twist only)",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Marichyasana 1 (Twist only)",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Bharadvajasana I",
+      "chapter_order": 16,
+      "topic": "Bharadvajasana I",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 9,
+      "source_excerpt": "Bharadvajasana I",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Bharadvajasana II",
+      "chapter_order": 17,
+      "topic": "Bharadvajasana II",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "Bharadvajasana II",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Malasana (Squatting only)",
+      "chapter_order": 18,
+      "topic": "Malasana (Squatting only)",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "19. Shirshasana (half shirshasana, wherein, the student can climb the wall and rest the toes on the wall while doing shirshasana).",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "SalambhaSarvangasana I",
+      "chapter_order": 20,
+      "topic": "SalambhaSarvangasana I",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "SalambhaSarvangasana I",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Halasana",
+      "chapter_order": 21,
+      "topic": "Halasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "Halasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Karna Pidasana",
+      "chapter_order": 22,
+      "topic": "Karna Pidasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "Karna Pidasana",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "Supta Konasana",
+      "chapter_order": 23,
+      "topic": "Supta Konasana",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(B) The Surya Namaskar (C) Breathing\\pranayama 1. Anapanasati - sensing the incoming and outgoing breath in the nasal passages for about 3 minutes to begin within order to slow down thoughts. This can be eventually extended to 5 minutes. 2. Abdominal Breathing, the students should be made aware that the belly should move outwards when we inhale and move inwards when we exhale.",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Full Yogic breath:",
+      "chapter_order": 3,
+      "topic": "(a) Abdominal breath",
+      "topic_order": 1,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(a) Abdominal breath",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Full Yogic breath:",
+      "chapter_order": 3,
+      "topic": "(b) Thoracic breath",
+      "topic_order": 2,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(b) Thoracic breath",
+      "effective_session": "2027-28"
+    },
+    {
+      "chapter": "The Full Yogic breath:",
+      "chapter_order": 3,
+      "topic": "(c) Clavicular breath",
+      "topic_order": 3,
+      "status": "included",
+      "source_page": 10,
+      "source_excerpt": "(c) Clavicular breath",
+      "effective_session": "2027-28"
+    }
+  ]
+}
