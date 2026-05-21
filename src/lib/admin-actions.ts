@@ -18,6 +18,30 @@ import { createAdminClient } from "@/lib/supabase/admin";
 
 export type ActionState = { error: string } | null;
 
+// ─── Public cache invalidation ───────────────────────────────────────────────
+
+/**
+ * After any admin mutation, revalidate the SSG public pages for the affected
+ * subject so students immediately see the updated omission state.
+ *
+ * Uses `'layout'` type so Next.js invalidates the subject page AND all
+ * chapter pages nested underneath it in one call.
+ */
+async function revalidatePublicPages(
+  db: ReturnType<typeof createAdminClient>,
+  subjectId: string
+): Promise<void> {
+  const { data } = await db
+    .from("subjects")
+    .select("slug, class_id")
+    .eq("id", subjectId)
+    .single();
+  if (!data) return;
+  const { slug, class_id } = data as { slug: string; class_id: number };
+  // Invalidates the subject overview + all chapter pages under it
+  revalidatePath(`/class/${class_id}/subject/${slug}`, "layout");
+}
+
 // ─── Auth guard ───────────────────────────────────────────────────────────────
 
 /**
@@ -97,6 +121,7 @@ export async function updateOmission(
     diff_jsonb: diff,
   });
 
+  await revalidatePublicPages(db, subjectId);
   revalidatePath(`/admin/subjects/${subjectId}`);
   revalidatePath("/admin");
   redirect(`/admin/subjects/${subjectId}`);
@@ -135,6 +160,7 @@ export async function softDeleteTopic(
     diff_jsonb: null,
   });
 
+  await revalidatePublicPages(db, subjectId);
   revalidatePath(`/admin/subjects/${subjectId}`);
   revalidatePath("/admin");
   redirect(`/admin/subjects/${subjectId}`);
@@ -173,6 +199,7 @@ export async function softDeleteChapter(
     diff_jsonb: null,
   });
 
+  await revalidatePublicPages(db, subjectId);
   revalidatePath(`/admin/subjects/${subjectId}`);
   revalidatePath("/admin");
   redirect(`/admin/subjects/${subjectId}`);
