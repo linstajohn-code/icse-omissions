@@ -1,0 +1,25 @@
+{
+  "$schema": "../schemas/subjects.schema.json",
+  "description": "Seed list of ICSE Class 9 & 10 subjects. Same set applies to both classes; the DB instantiates per class via subjects.class_id. Final codes/groups reconciled against the CISCE Regulations PDF in Phase 1 — any mismatch logged as an ADR.",
+  "subjects": [
+    { "code": "ENG",  "name": "English",                        "group": "I",   "slug": "english" },
+    { "code": "HIN",  "name": "Hindi",                          "group": "I",   "slug": "hindi" },
+    { "code": "HCG",  "name": "History, Civics and Geography",  "group": "I",   "slug": "history-civics-geography" },
+    { "code": "MATH", "name": "Mathematics",                    "group": "I",   "slug": "mathematics" },
+    { "code": "PHY",  "name": "Physics",                        "group": "I",   "slug": "physics" },
+    { "code": "CHE",  "name": "Chemistry",                      "group": "I",   "slug": "chemistry" },
+    { "code": "BIO",  "name": "Biology",                        "group": "I",   "slug": "biology" },
+    { "code": "COM",  "name": "Commercial Studies",             "group": "II",  "slug": "commercial-studies" },
+    { "code": "ECO",  "name": "Economics",                      "group": "II",  "slug": "economics" },
+    { "code": "ENV",  "name": "Environmental Science",          "group": "II",  "slug": "environmental-science" },
+    { "code": "TDA",  "name": "Technical Drawing Applications", "group": "II",  "slug": "technical-drawing-applications" },
+    { "code": "CA",   "name": "Computer Applications",          "group": "III", "slug": "computer-applications" },
+    { "code": "ECA",  "name": "Economic Applications",          "group": "III", "slug": "economic-applications" },
+    { "code": "COA",  "name": "Commercial Applications",        "group": "III", "slug": "commercial-applications" },
+    { "code": "ART",  "name": "Art",                            "group": "III", "slug": "art" },
+    { "code": "PA",   "name": "Performing Arts",                "group": "III", "slug": "performing-arts" },
+    { "code": "HS",   "name": "Home Science",                   "group": "III", "slug": "home-science" },
+    { "code": "PE",   "name": "Physical Education",             "group": "III", "slug": "physical-education" },
+    { "code": "YOG",  "name": "Yoga",                           "group": "III", "slug": "yoga" }
+  ]
+}
