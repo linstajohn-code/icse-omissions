@@ -80,6 +80,18 @@ export default async function SubjectPage({ params }: Props) {
               </div>
               <div className="flex items-center gap-2 shrink-0">
                 <span className="text-xs text-muted-foreground">{chapter.topics.length} topics</span>
+                {(() => {
+                  const omitted = chapter.topics.filter((t) => t.status === "omitted").length;
+                  const partial = chapter.topics.filter((t) => t.status === "partial").length;
+                  if (omitted > 0 || partial > 0) {
+                    return (
+                      <span className="text-xs font-medium text-destructive" aria-label={`${omitted + partial} omitted or partial topics`}>
+                        {omitted + partial} omitted
+                      </span>
+                    );
+                  }
+                  return null;
+                })()}
                 <ChevronRight className="h-4 w-4 text-muted-foreground group-hover:text-primary transition-colors" aria-hidden />
               </div>
             </div>

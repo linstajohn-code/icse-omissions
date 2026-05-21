@@ -3,14 +3,31 @@ import { ThemeProvider } from "@/components/theme-provider";
 import { SiteHeader } from "@/components/site-header";
 import "./globals.css";
 
+const BASE = process.env.NEXT_PUBLIC_BASE_URL ?? "https://icse-syllabus.vercel.app";
+
 export const metadata: Metadata = {
   title: {
     default: "ICSE Syllabus 2027-28",
     template: "%s | ICSE Syllabus",
   },
   description:
-    "Browse the complete ICSE Class 9 & 10 syllabus for the 2027-28 session. Every topic is cited to the official CISCE PDF.",
-  keywords: ["ICSE", "CISCE", "Class 9", "Class 10", "syllabus", "2027-28"],
+    "Official CISCE omissions for ICSE Class 9 & 10, session 2027-28. Every topic is cited to the source PDF — page number and verbatim excerpt.",
+  keywords: ["ICSE", "CISCE", "Class 9", "Class 10", "syllabus", "2027-28", "omissions", "board exam"],
+  metadataBase: new URL(BASE),
+  openGraph: {
+    type: "website",
+    siteName: "ICSE Syllabus 2027-28",
+    title: "ICSE Syllabus 2027-28",
+    description:
+      "Official CISCE omissions for Class 9 & 10 — every topic cited to the source PDF.",
+    url: BASE,
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "ICSE Syllabus 2027-28",
+    description:
+      "Official CISCE omissions for Class 9 & 10 — every topic cited to the source PDF.",
+  },
 };
 
 export default function RootLayout({
