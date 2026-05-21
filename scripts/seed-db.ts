@@ -159,11 +159,18 @@ async function seedFile(filePath: string): Promise<void> {
     ch.topics.push(entry);
   }
 
+  // Use a sequential counter for chapter/topic order so subjects like English
+  // (which have multiple works with the same chapter_order in the JSON) don't
+  // violate the unique (subject_id, order) constraint.
   let topicCount = 0;
-  for (const [chapterName, { order: chapterOrder, topics }] of chapterMap) {
-    const chapterId = await insertChapter(subjectId, chapterName, chapterOrder);
+  let chapterSeq = 0;
+  for (const [chapterName, { topics }] of chapterMap) {
+    chapterSeq++;
+    const chapterId = await insertChapter(subjectId, chapterName, chapterSeq);
+    let topicSeq = 0;
     for (const entry of topics) {
-      const topicId = await insertTopic(chapterId, entry.topic, entry.topic_order);
+      topicSeq++;
+      const topicId = await insertTopic(chapterId, entry.topic, topicSeq);
       await insertOmission(topicId, circularId, entry);
       topicCount++;
     }
