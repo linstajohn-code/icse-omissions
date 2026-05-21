@@ -1,0 +1,23 @@
+name: CI
+
+# Phase 0 stub. Real lint, typecheck, unit tests, E2E, axe, and Lighthouse CI
+# arrive incrementally in Phases 1–2. Keeping this file empty-but-valid so the
+# first real workflow run in Phase 1 isn't held up by Actions config.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  placeholder:
+    name: Phase 0 placeholder
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Announce phase
+        run: |
+          echo "Phase 0 — planning only. CI checks are wired up in Phase 1."
+          echo "Files present:"
+          ls -la docs/ data/ schemas/

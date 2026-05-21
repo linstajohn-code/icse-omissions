@@ -1,0 +1,21 @@
+{
+  "name": "icse-omissions",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Public reference for ICSE Class 9 & 10 syllabus omissions, with every omission citable to the official CISCE Regulations PDF.",
+  "packageManager": "pnpm@9.12.0",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "dev": "echo 'Phase 2 will wire up Next.js dev' && exit 0",
+    "build": "echo 'Phase 2 will wire up Next.js build' && exit 0",
+    "lint": "echo 'Phase 1 will wire up ESLint' && exit 0",
+    "typecheck": "echo 'Phase 1 will wire up tsc --noEmit' && exit 0",
+    "test": "echo 'Phase 1 will wire up Vitest' && exit 0",
+    "test:e2e": "echo 'Phase 3 will wire up Playwright' && exit 0",
+    "ingest:cisce": "echo 'Phase 1 will implement the CISCE ingest CLI' && exit 0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
