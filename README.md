@@ -91,6 +91,7 @@ In the Supabase **SQL Editor → New query**, run each file in order:
 ```
 supabase/migrations/0001_init.sql
 supabase/migrations/0002_seed_taxonomy.sql
+supabase/migrations/0003_seed_omissions.sql
 supabase/migrations/0004_admin_ops.sql
 ```
 
