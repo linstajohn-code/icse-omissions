@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
     "target": "ES2022",
-    "lib": ["ES2022", "DOM", "DOM.Iterable"],
+    "lib": [
+      "ES2022",
+      "DOM",
+      "DOM.Iterable"
+    ],
     "module": "ESNext",
     "moduleResolution": "Bundler",
     "esModuleInterop": true,
@@ -11,6 +15,11 @@
     "allowSyntheticDefaultImports": true,
     "jsx": "preserve",
     "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
     "strict": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
@@ -20,14 +29,28 @@
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "forceConsistentCasingInFileNames": true,
-    "verbatimModuleSyntax": true,
     "useDefineForClassFields": true,
     "noEmit": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
-    }
+      "@/*": [
+        "./src/*"
+      ]
+    },
+    "allowJs": true
   },
-  "include": ["**/*.ts", "**/*.tsx", "**/*.mts", "**/*.cts"],
-  "exclude": ["node_modules", ".next", "dist", "build", "coverage"]
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "scripts",
+    ".next",
+    "dist",
+    "build",
+    "coverage"
+  ]
 }

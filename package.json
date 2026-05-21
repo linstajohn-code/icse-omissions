@@ -2,20 +2,50 @@
   "name": "icse-omissions",
   "version": "0.0.0",
   "private": true,
-  "description": "Public reference for ICSE Class 9 & 10 syllabus omissions, with every omission citable to the official CISCE Regulations PDF.",
-  "packageManager": "pnpm@9.12.0",
+  "description": "Public reference for ICSE Class 9 & 10 syllabus, citable to the official CISCE Regulations PDFs.",
+  "packageManager": "pnpm@9.15.9",
   "engines": {
     "node": ">=22.0.0"
   },
   "scripts": {
-    "dev": "echo 'Phase 2 will wire up Next.js dev' && exit 0",
-    "build": "echo 'Phase 2 will wire up Next.js build' && exit 0",
-    "lint": "echo 'Phase 1 will wire up ESLint' && exit 0",
-    "typecheck": "echo 'Phase 1 will wire up tsc --noEmit' && exit 0",
-    "test": "echo 'Phase 1 will wire up Vitest' && exit 0",
-    "test:e2e": "echo 'Phase 3 will wire up Playwright' && exit 0",
-    "ingest:cisce": "echo 'Phase 1 will implement the CISCE ingest CLI' && exit 0"
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "eslint . --max-warnings=0",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:e2e": "playwright test",
+    "ingest:cisce": "tsx scripts/ingest-cisce.ts"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "@supabase/supabase-js": "^2",
+    "@tanstack/react-query": "^5",
+    "canvas": "^3.1.0",
+    "class-variance-authority": "^0.7",
+    "clsx": "^2",
+    "commander": "^12.1.0",
+    "framer-motion": "^12",
+    "lucide-react": "^0.460",
+    "next": "15",
+    "next-themes": "^0.4",
+    "pdfjs-dist": "^4.9.155",
+    "react": "19",
+    "react-dom": "19",
+    "tailwind-merge": "^2",
+    "zod": "^3.23.8",
+    "zustand": "^5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^22.10.0",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15",
+    "tailwindcss": "^4",
+    "tsx": "^4.19.1",
+    "typescript": "^5.6.3",
+    "vitest": "^2.1.8"
+  }
 }
