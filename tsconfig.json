@@ -35,6 +35,9 @@
     "paths": {
       "@/*": [
         "./src/*"
+      ],
+      "@app/*": [
+        "./app/*"
       ]
     },
     "allowJs": true
