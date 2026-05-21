@@ -1,6 +1,9 @@
 import type { NextConfig } from "next";
 
 const config: NextConfig = {
+  // Anchor file-tracing to the project root so Next.js ignores
+  // the stray package-lock.json in the parent directory.
+  outputFileTracingRoot: __dirname,
   async headers() {
     return [
       {
