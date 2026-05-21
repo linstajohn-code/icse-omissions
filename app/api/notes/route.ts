@@ -126,14 +126,12 @@ export async function PUT(request: NextRequest) {
     return NextResponse.json({ ok: true });
   }
 
+  // reason: no Database generic on supabase client; explicit cast required
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const upsertRow = { user_id: user.id, topic_id: topicId, body_md: body.notes_md } as any;
   const { error } = await supabase
     .from("notes")
-    // reason: no Database generic on supabase client; explicit cast required
-    // eslint-disable-next-line @typescript-eslint/no-explicit-any
-    .upsert(
-      { user_id: user.id, topic_id: topicId, body_md: body.notes_md } as any,
-      { onConflict: "user_id,topic_id" }
-    );
+    .upsert(upsertRow, { onConflict: "user_id,topic_id" });
 
   if (error)
     return NextResponse.json({ error: error.message }, { status: 500 });

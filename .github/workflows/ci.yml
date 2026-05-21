@@ -1,9 +1,5 @@
 name: CI
 
-# Phase 0 stub. Real lint, typecheck, unit tests, E2E, axe, and Lighthouse CI
-# arrive incrementally in Phases 1–2. Keeping this file empty-but-valid so the
-# first real workflow run in Phase 1 isn't held up by Actions config.
-
 on:
   push:
     branches: [main]
@@ -11,13 +7,55 @@ on:
     branches: [main]
 
 jobs:
-  placeholder:
-    name: Phase 0 placeholder
+  typecheck-build:
+    name: Type-check & Build
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
-      - name: Announce phase
-        run: |
-          echo "Phase 0 — planning only. CI checks are wired up in Phase 1."
-          echo "Files present:"
-          ls -la docs/ data/ schemas/
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Type-check (tsc --noEmit)
+        run: pnpm tsc --noEmit
+
+      - name: Build
+        run: pnpm build
+        env:
+          # Provide stub values so the build completes without a live Supabase.
+          # Public pages read from JSON files; only auth/admin routes need these.
+          NEXT_PUBLIC_SUPABASE_URL: https://placeholder.supabase.co
+          NEXT_PUBLIC_SUPABASE_ANON_KEY: placeholder-anon-key
+          NEXT_PUBLIC_BASE_URL: https://icse-syllabus.vercel.app
+
+  lint:
+    name: ESLint
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Lint
+        run: pnpm lint

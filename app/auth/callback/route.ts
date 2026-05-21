@@ -18,17 +18,14 @@ export async function GET(request: NextRequest) {
       const { data: { user } } = await supabase.auth.getUser();
 
       if (user?.email) {
+        const displayName =
+          (user.user_metadata["full_name"] as string | undefined) ?? null;
+        // reason: supabase-js without Database generic requires cast
         // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        await supabase.from("users").upsert(
-          {
-            id: user.id,
-            email: user.email,
-            display_name:
-              (user.user_metadata["full_name"] as string | undefined) ?? null,
-            role: "student",
-          } as any, // reason: supabase-js without Database generic requires cast
-          { onConflict: "id", ignoreDuplicates: true }
-        );
+        const userRow: any = { id: user.id, email: user.email, display_name: displayName, role: "student" };
+        await supabase
+          .from("users")
+          .upsert(userRow, { onConflict: "id", ignoreDuplicates: true });
       }
 
       return NextResponse.redirect(`${origin}${next}`);
