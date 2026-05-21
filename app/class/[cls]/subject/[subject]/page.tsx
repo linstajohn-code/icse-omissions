@@ -2,9 +2,19 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { ChevronRight, Printer } from "lucide-react";
-import { getSubjectChapters } from "@/lib/data";
+import { getSubjectChapters, listSubjectSummaries } from "@/lib/data";
 import { getSubjectMeta } from "@/lib/subjects";
 import { chapterToSlug } from "@/lib/utils";
+
+export function generateStaticParams() {
+  const params: { cls: string; subject: string }[] = [];
+  for (const cls of ["9", "10"] as const) {
+    for (const s of listSubjectSummaries(Number(cls) as 9 | 10)) {
+      params.push({ cls, subject: s.slug });
+    }
+  }
+  return params;
+}
 
 interface Props {
   params: Promise<{ cls: string; subject: string }>;

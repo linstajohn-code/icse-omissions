@@ -2,12 +2,31 @@ import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { ChevronRight, FileText, Printer } from "lucide-react";
-import { getChapterDetail } from "@/lib/data";
+import { getChapterDetail, listSubjectSummaries, getSubjectChapters } from "@/lib/data";
 import { getSubjectMeta } from "@/lib/subjects";
 import { Badge } from "@/components/ui/badge";
 import { SourceCitation } from "@/components/source-citation";
 import { TopicControls } from "@/components/topic-controls";
 import type { OmissionStatus } from "@/types/ingest";
+
+export function generateStaticParams() {
+  const params: { cls: string; subject: string; chapter: string }[] = [];
+  for (const cls of ["9", "10"] as const) {
+    for (const s of listSubjectSummaries(Number(cls) as 9 | 10)) {
+      const result = getSubjectChapters(Number(cls) as 9 | 10, s.slug);
+      if (!result) continue;
+      for (const ch of result.chapters) {
+        // Return decoded slug (Next.js URL-decodes params before passing to the component)
+        params.push({
+          cls,
+          subject: s.slug,
+          chapter: ch.name.toLowerCase().replace(/\s+/g, "-"),
+        });
+      }
+    }
+  }
+  return params;
+}
 
 interface Props {
   params: Promise<{ cls: string; subject: string; chapter: string }>;
