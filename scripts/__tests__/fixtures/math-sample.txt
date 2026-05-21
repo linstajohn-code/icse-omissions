@@ -1,0 +1,183 @@
+ skills, skills of reading tables, charts and graphs. 
+6.  To develop an interest in mathematics. 
+
+CLASS IX
+
+There will be one paper of three hours duration carrying 80 marks and Internal Assessment of 20 marks. 
+
+Certain questions may require the use of Mathematical tables (Logarithmic and Trigonometric tables). 
+
+The solution of a question may require the knowledge of more than one branch of the syllabus. 
+
+1.  Pure Arithmetic 
+
+Rational and Irrational Numbers 
+
+Rational, irrational numbers as real numbers, their place in the number system. Surds and rationalization of 
+surds. Simplifying an expression by rationalizing the denominator. Representation of rational and irrational 
+numbers on the number line.  
+
+Proofs of irrationality of  
+
+2.  Commercial Mathematics 
+
+√2 , √3 ,
+
+√5
+
+Compound Interest 
+
+(a)  Compound interest as a repeated Simple Interest computation with a growing Principal. Use of this in 
+
+computing Amount over a period of 2 or 3 years.  
+
+(b)  Use of formula 
+
+. Finding CI from the relation CI = A – P. 
+
+𝑛𝑛
+
+• 
+
+Interest compounded half-yearly included. 
+
+𝐴𝐴 = 𝑃𝑃 �1 +
+
+𝑟𝑟
+100�
+
+•  Using the formula to find one quantity given different combinations of A, P, r, n, CI and SI; difference 
+
+between CI and SI type included. Rate of growth and depreciation. 
+
+Note: Paying back in equal installments, being given rate of interest and installment amount, not included. 
+
+3.  Algebra 
+
+(i)  Expansions 
+
+Recall of concepts learned in earlier classes. 
+(a ± b)2 
+
+ICSE Examination Year 2028 
+
+1 
+ 
+ 
+ 
+ 
+(a ± b)3 
+
+(x ± a) (x ± b) 
+(a ± b ± c)2  
+
+(ii)  Factorisation  
+
+a2 – b2 
+a3 ± b3 
+ax2 + bx + c, by splitting the middle term. 
+
+ (iii) Simultaneous Linear Equations in two variables. (With numerical coefficients only) 
+
+•  Solving algebraically by:  
+
+-  Elimination  
+
+- 
+
+Substitution and  
+
+-  Cross Multiplication method  
+
+•  Solving simple problems by framing appropriate equations.  
+
+(iv) Indices/ Exponents 
+
+Handling positive, fractional, negative and “zero” indices. 
+
+Simplification of expressions involving various exponents, etc. Use of laws of exponents. 
+
+m
+
+n
+
+m+n
+
+m
+
+n
+
+m-n
+
+m
+
+n
+
+mn
+
+= a
+  × a
+(v)  Logarithms 
+
+a
+
+ , a
+
+  ÷ a
+
+= a
+
+, (a
+
+)
+
+= a
+
+(a)  Logarithmic form vis-à-vis exponential form: interchanging. 
+(b)  Laws of Logarithms and their uses. 
+
+Expansion of expression with the help of laws of logarithms 
+
+e.g.   y = 
+
+2
+
+b
+
+4
+a ×
+3
+c
+
+log y = 4 log a + 2 log b – 3 log c etc. 
+
+4.  Geometry 
+
+(i)  Triangles 
+
+(a)  Congruency: four cases: SSS, SAS, AAS, and RHS. Illustration through cutouts. Simple applications. 
+
+(b)  Problems based on: 
+
+•  Angles opposite equal sides are equal and converse. 
+• 
+
+If two sides of a triangle are unequal, then the greater angle is opposite the greater side and 
+converse. 
+
+•  Sum of any two sides of a triangle is greater than the third side. 
+•  Of all straight lines that can be drawn to a given line from a point outside it, the perpendicular 
+
+is the shortest. 
+
+Proofs not required. 
+
+ICSE Examination Year 2028 
+
+2 
+ 
+ 
+ 
+  
+  
+(c)  Mid-Point Theorem and its converse, equal intercept

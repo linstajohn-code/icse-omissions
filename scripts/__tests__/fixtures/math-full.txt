@@ -1,0 +1,1274 @@
+ICSEINDIAN CERTIFICATE OFSECONDARY EDUCATIONEXAMINATION YEAR 2028MATHEMATICS(51)Developed by:
+Research, Development and Curriculum Division (RDCD)
+CISCE
+
+January 2026 
+
+____________________________________________________________________________________________
+
+© Copyright, Council for the Indian School Certificate Examinations 
+
+All rights reserved. The copyright to this publication and any part thereof solely vests in the Council for the Indian 
+School Certificate Examinations. This publication and no part thereof may be reproduced, transmitted, distributed or 
+stored in any manner whatsoever, without the prior written approval of the Council for the Indian School Certificate 
+Examinations. 
+
+ 
+Council for the Indian School Certificate Examinations (CISCE)
+
+MISSION STATEMENT
+
+The Council for the Indian School Certificate
+Examinations is committed to serving the nation's
+children, through high quality educational
+endeavours, empowering them to contribute towards
+a humane, just and pluralistic society, promoting
+introspective living, by creating exciting learning
+opportunities, with a commitment to excellence.
+
+ETHOS OF CISCE
+
+Trust and fair play.
+Minimum monitoring.
+Allowing schools to evolve their own niche.
+Catering to the needs of the children.
+Giving freedom to experiment with new ideas
+and practices.
+Diversity and plurality - the basic strength for
+evolution of ideas.
+Schools to motivate pupils towards the
+cultivation of:
+
+       Excellence - The Indian and Global  
+       experience.
+
+  Values - Spiritual and cultural - to be the bedrock     
+
+       of the educational experience.
+
+Schools to have an 'Indian Ethos', strong roots in
+the national psyche and be sensitive to national
+aspirations.
+
+MATHEMATICS (51) 
+
+Aims: 
+
+1.  To acquire knowledge and understanding of the terms, symbols, concepts, principles, processes, proofs, etc. 
+
+of mathematics. 
+
+2.  To develop an understanding of mathematical concepts and their application to further studies in mathematics 
+
+and science. 
+
+3.  To develop skills to apply mathematical knowledge to solve real life problems. 
+4.  To develop the necessary skills to work with modern technological devices such as calculators and computers 
+
+in real life situations. 
+
+5.  To develop drawing skills, skills of reading tables, charts and graphs. 
+6.  To develop an interest in mathematics. 
+
+CLASS IX
+
+There will be one paper of three hours duration carrying 80 marks and Internal Assessment of 20 marks. 
+
+Certain questions may require the use of Mathematical tables (Logarithmic and Trigonometric tables). 
+
+The solution of a question may require the knowledge of more than one branch of the syllabus. 
+
+1.  Pure Arithmetic 
+
+Rational and Irrational Numbers 
+
+Rational, irrational numbers as real numbers, their place in the number system. Surds and rationalization of 
+surds. Simplifying an expression by rationalizing the denominator. Representation of rational and irrational 
+numbers on the number line.  
+
+Proofs of irrationality of  
+
+2.  Commercial Mathematics 
+
+√2 , √3 ,
+
+√5
+
+Compound Interest 
+
+(a)  Compound interest as a repeated Simple Interest computation with a growing Principal. Use of this in 
+
+computing Amount over a period of 2 or 3 years.  
+
+(b)  Use of formula 
+
+. Finding CI from the relation CI = A – P. 
+
+𝑛𝑛
+
+• 
+
+Interest compounded half-yearly included. 
+
+𝐴𝐴 = 𝑃𝑃 �1 +
+
+𝑟𝑟
+100�
+
+•  Using the formula to find one quantity given different combinations of A, P, r, n, CI and SI; difference 
+
+between CI and SI type included. Rate of growth and depreciation. 
+
+Note: Paying back in equal installments, being given rate of interest and installment amount, not included. 
+
+3.  Algebra 
+
+(i)  Expansions 
+
+Recall of concepts learned in earlier classes. 
+(a ± b)2 
+
+ICSE Examination Year 2028 
+
+1 
+ 
+ 
+ 
+ 
+(a ± b)3 
+
+(x ± a) (x ± b) 
+(a ± b ± c)2  
+
+(ii)  Factorisation  
+
+a2 – b2 
+a3 ± b3 
+ax2 + bx + c, by splitting the middle term. 
+
+ (iii) Simultaneous Linear Equations in two variables. (With numerical coefficients only) 
+
+•  Solving algebraically by:  
+
+-  Elimination  
+
+- 
+
+Substitution and  
+
+-  Cross Multiplication method  
+
+•  Solving simple problems by framing appropriate equations.  
+
+(iv) Indices/ Exponents 
+
+Handling positive, fractional, negative and “zero” indices. 
+
+Simplification of expressions involving various exponents, etc. Use of laws of exponents. 
+
+m
+
+n
+
+m+n
+
+m
+
+n
+
+m-n
+
+m
+
+n
+
+mn
+
+= a
+  × a
+(v)  Logarithms 
+
+a
+
+ , a
+
+  ÷ a
+
+= a
+
+, (a
+
+)
+
+= a
+
+(a)  Logarithmic form vis-à-vis exponential form: interchanging. 
+(b)  Laws of Logarithms and their uses. 
+
+Expansion of expression with the help of laws of logarithms 
+
+e.g.   y = 
+
+2
+
+b
+
+4
+a ×
+3
+c
+
+log y = 4 log a + 2 log b – 3 log c etc. 
+
+4.  Geometry 
+
+(i)  Triangles 
+
+(a)  Congruency: four cases: SSS, SAS, AAS, and RHS. Illustration through cutouts. Simple applications. 
+
+(b)  Problems based on: 
+
+•  Angles opposite equal sides are equal and converse. 
+• 
+
+If two sides of a triangle are unequal, then the greater angle is opposite the greater side and 
+converse. 
+
+•  Sum of any two sides of a triangle is greater than the third side. 
+•  Of all straight lines that can be drawn to a given line from a point outside it, the perpendicular 
+
+is the shortest. 
+
+Proofs not required. 
+
+ICSE Examination Year 2028 
+
+2 
+ 
+ 
+ 
+  
+  
+(c)  Mid-Point Theorem and its converse, equal intercept theorem 
+
+•  Proof and simple applications of mid-point theorem and its converse. 
+
+•  Equal intercept theorem: proof and simple application. 
+
+(d)  Pythagoras Theorem 
+
+Area based proof and simple applications of Pythagoras Theorem and its converse. 
+
+(ii)   Rectilinear Figures 
+
+(a)  Proof and use of theorems on parallelogram.  
+
+•  Both pairs of opposite sides equal (without proof). 
+•  Both pairs of opposite angles equal. 
+•  One pair of opposite sides equal and parallel (without proof). 
+•  Diagonals bisect each other and bisect the parallelogram. 
+•  Rhombus as a special parallelogram whose diagonals meet at right angles. 
+• 
+
+In a rectangle, diagonals are equal, in a square they are equal and meet at right angles. 
+
+(b) Constructions of Polygons 
+
+Construction of quadrilaterals (including parallelograms and rhombus) and regular hexagon using 
+ruler and compasses only.  
+
+(c)  Proof and use of Area theorems on parallelograms: 
+
+•  Parallelograms on the same base and between the same parallels are equal in area. 
+•  The area of a triangle is half that of a parallelogram on the same base and between the same 
+
+parallels. 
+
+•  Triangles  between  the  same  base  and  between  the  same  parallels  are  equal  in  area  (without 
+
+proof). 
+
+•  Triangles with equal areas on the same bases have equal corresponding altitudes. 
+
+(iii)  Circle:  
+
+(a)  Chord properties  
+
+•  A straight line drawn from the centre of a circle to bisect a chord which is not a diameter is at 
+
+right angles to the chord.  
+
+•  The perpendicular to a chord from the centre bisects the chord (without proof). 
+
+•  Equal chords are equidistant from the centre. 
+
+•  Chords equidistant from the centre are equal (without proof). 
+
+•  There is one and only one circle that passes through three given points not in a straight line. 
+
+(b)  Arc and chord properties: 
+
+• 
+
+• 
+
+If two arcs subtend equal angles at the centre, they are equal, and its converse. 
+
+If two chords are equal, they cut off equal arcs, and its converse (without proof). 
+
+Note: Proofs of the theorems given above are to be taught unless specified otherwise. 
+
+ICSE Examination Year 2028 
+
+3 
+ 
+ 
+ 
+5.  Statistics 
+
+Introduction,  collection  of  data,  presentation  of  data,  Graphical  representation  of  data,  Mean,  Median  of 
+ungrouped data. 
+
+(a)  Understanding and recognition of raw, arrayed and grouped data. 
+(b)  Tabulation of raw data using tally-marks. 
+(c)  Understanding and recognition of discrete and continuous variables. 
+(d)  Mean, median of ungrouped data. 
+(e)  Class intervals, class boundaries and limits, frequency, frequency table, class size for grouped data. 
+(f)  Grouped frequency distributions:  the need to and how to convert discontinuous intervals to continuous 
+
+intervals. 
+
+(g)  Drawing a frequency polygon. 
+
+6.  Mensuration 
+
+Area and perimeter of a triangle and a quadrilateral. Area and circumference of circle. Surface area and volume 
+of Cube and Cuboids. 
+
+(a) Area and perimeter of triangle (including Heron’s formula), all types of Quadrilaterals. 
+
+(b)  Circle: Area and Circumference. Direct application problems including Inner and Outer area. 
+
+Areas of sectors of circles other than quarter-circle and semicircle are not included. 
+
+(c)  Surface area and volume of 3-D solids: cube and cuboid including problems of type involving: 
+
+•  Different internal and external dimensions of the solid. 
+•  Cost. 
+•  Concept of volume being equal to area of cross-section × height. 
+•  Open/closed cubes/cuboids. 
+
+7.  Trigonometry 
+
+(a)  Trigonometric Ratios: sine, cosine, tangent of an angle and their reciprocals. 
+
+(b)  Trigonometric ratios of standard angles - 0, 30, 45, 60, 90 degrees. Evaluation of an expression involving 
+
+these ratios.  
+
+(c)  Simple 2-D problems involving one right-angled triangle. 
+
+(d)  Concept of trigonometric ratios of complementary angles and their direct application: 
+
+sin A = cos (90 – A), cos A = sin (90 – A) 
+
+tan A = cot (90 – A), cot A = tan (90 – A) 
+
+sec A = cosec (90 – A), cosec A= sec (90 – A) 
+
+8.  Coordinate Geometry 
+
+Cartesian System, plotting of points in the plane for given coordinates, solving simultaneous linear equations 
+in 2 variables graphically and finding the distance between two points using distance formula. 
+
+(a)  Dependent and independent variables. 
+(b)  Ordered pairs, coordinates of points and plotting them in the Cartesian plane.  
+(c)  Solution of Simultaneous Linear Equations graphically. 
+
+(d)  Distance formula. 
+
+ICSE Examination Year 2028 
+
+4 
+ 
+INTERNAL ASSESSMENT 
+
+A minimum of two assignments are to be done during the year as prescribed by the teacher. 
+
+SUGGESTED ASSIGNMENTS 
+
+•  Conduct  a  survey  of  a  group  of  students  and  represent  it  graphically  -  height,  weight,  number  of  family 
+
+members, pocket money, etc. 
+
+•  Planning delivery routes for a postman/milkman. 
+
+•  Running a tuck shop/canteen. 
+
+•  Study ways of raising a loan to buy a car or house, e.g. bank loan or purchase a refrigerator or a television set 
+
+through hire purchase. 
+
+•  Cutting a circle into equal sections of a small central angle to find the area of a circle by using the formula A 
+
+= πr2. 
+
+•  To use flat cutouts to form cube, cuboids and pyramids to obtain formulae for volume and total surface area. 
+•  Draw a circle of radius r on a ½ cm graph paper, and then on a 2 mm graph paper.  Estimate the area enclosed 
+in each case by actually counting the squares.  Now try out with circles of different radii.  Establish the pattern, 
+if any, between the two observed values and the theoretical value (area = π r2).  Any modifications? 
+
+ICSE Examination Year 2028 
+
+5 
+ 
+There will be one paper of three hours duration carrying 80 marks and Internal Assessment of 20 marks. 
+
+Certain questions may require the use of Mathematical tables (Logarithmic and Trigonometric tables). 
+
+CLASS X
+
+1.  Commercial Mathematics 
+
+(i)  Goods and Services Tax (GST) 
+
+Computation  of  tax  including  problems  involving  discounts,  list-price,  profit,  loss,  basic/cost  price 
+including inverse cases. Candidates are also expected to find price paid by the consumer after paying 
+State Goods and Service Tax (SGST) and Central Goods and Service Tax (CGST) - the different rates as 
+in vogue on different types of items will be provided. Problems based on corresponding inverse cases are 
+also included. 
+
+(ii)  Banking 
+
+   Recurring Deposit Accounts: computation of interest and maturity value using the formula: 
+
+I =
+
+𝑛𝑛(𝑛𝑛+1)
+𝑟𝑟
+MV = P × n + I 
+2×12 ×
+100
+
+𝑃𝑃
+
+(iii) Shares and Dividends 
+
+(a)  Face/Nominal Value, Market Value, Dividend, Rate of Dividend, Premium. 
+(b)  Formulae 
+
+Income = number of shares × rate of dividend  × FV. 
+
+• 
+•  Return = (Income / Investment) × 100. 
+ Note: Brokerage and fractional shares not included. 
+
+2.  Algebra 
+
+(i)  Linear Inequations 
+
+Linear Inequations in one unknown for x ∈ N, W, Z, R.  Solving: 
+
+•  Algebraically and writing the solution in set notation form. 
+•  Representation of solution on the number line. 
+
+(ii)  Quadratic Equations in one variable 
+
+(a)  Nature of roots  
+
+•  Two distinct real roots if b2 – 4ac > 0 
+•  Two equal real roots if   b2 – 4ac = 0 
+•  No real roots if    b2 – 4ac < 0 
+
+(b)  Solving Quadratic equations by: 
+
+•  Factorisation 
+•  Using Formula. 
+
+(c)  Solving simple quadratic equation problems. 
+
+ICSE Examination Year 2028 
+
+6 
+ 
+ 
+ 
+ 
+(iii)  Ratio and Proportion 
+
+(a)  Proportion, Continued proportion, mean proportion 
+(b)  Componendo, dividendo, alternendo, invertendo properties and their combinations. 
+(c)  Direct simple applications on proportions only. 
+
+(iv)  Factorisation of polynomials: 
+
+(a)  Factor Theorem. 
+(b)  Remainder Theorem. 
+(c)  Factorising a polynomial completely after obtaining one factor by factor theorem. 
+Note: f(x) not to exceed degree 3. 
+
+(v)  Matrices 
+
+(a)  Order of a matrix. Row and column matrices. 
+
+(b)  Compatibility for addition and multiplication. 
+(c)  Null and Identity matrices.  
+(d)  Addition and subtraction of 2×2 matrices. 
+(e)  Multiplication of a 2×2 matrix by  
+•  a non-zero rational number 
+• 
+
+ a matrix. 
+
+(vi) Arithmetic and Geometric Progression 
+•  Finding their General term. 
+•  Finding Sum of their first ‘n’ terms. 
+•  Simple Applications. 
+(vii) Co-ordinate Geometry 
+
+(a)  Reflection 
+
+(i)  Reflection of a point in a line: 
+
+x=0, y =0, x= a, y=a, the origin. 
+
+(ii)  Reflection of a point in the origin. 
+(iii) Invariant points. 
+
+(b)  Co-ordinates expressed as (x, y), Section formula, Midpoint formula, Concept of slope, Equation of a 
+
+line, Various forms of straight lines. 
+ (i)  Section and Mid-point formula (Internal section only, co-ordinates of the centroid of a triangle 
+
+included). 
+
+(ii)  Equation of a line:  
+
+•  Slope – intercept form y = mx +  c 
+•  Two- point form (y-y 1 ) = m(x-x 1 ) 
+•  Geometric understanding of ‘m’ as slope/ gradient/ tanθ where θ is the angle the line makes 
+
+with the positive direction of the x axis. 
+
+•  Geometric  understanding  of  ‘c’  as  the  y-intercept/the  ordinate  of  the  point  where  the  line 
+
+intercepts the y axis/ the point on the line where x=0. 
+•  Conditions for two lines to be parallel or perpendicular.  
+
+ICSE Examination Year 2028 
+
+7 
+ 
+ 
+ 
+ 
+Simple applications of all the above. 
+
+3.  Geometry 
+
+(a)  Similarity 
+
+Similarity, conditions of similar triangles. 
+
+(i)  As a size transformation. 
+
+(ii)  Comparison with congruency, keyword being proportionality. 
+
+(iii) Three conditions: SSS, SAS, AA. Simple applications (proof not included). 
+
+(iv) Applications of Basic Proportionality Theorem. 
+
+(v)  Areas of similar triangles are proportional to the squares of corresponding sides. 
+
+(vi) Direct applications based on the above including applications to maps and models. 
+
+(b)  Loci 
+
+Loci: Definition, meaning, Theorems and constructions based on Loci. 
+
+(i) The locus of a point at a fixed distance from a fixed point is a circle with the fixed point as centre and 
+
+fixed distance as radius. 
+
+(ii)  The locus of a point equidistant from two intersecting lines is the bisector of the angles between the 
+
+lines. 
+
+(iii) The locus of a point equidistant from two given points is the perpendicular bisector of the line joining 
+
+the points. 
+
+ Proofs not required. 
+
+(c)  Circles 
+
+(i)  Angle Properties 
+
+•  The angle that an arc of a circle subtends at the centre is double that which it subtends at any 
+
+point on the remaining part of the circle. 
+
+•  Angles in the same segment of a circle are equal (without proof). 
+
+•  Angle in a semi-circle is a right angle. 
+
+(ii)  Cyclic Properties: 
+
+•  Opposite angles of a cyclic quadrilateral are supplementary. 
+•  The exterior angle of a cyclic quadrilateral is equal to the opposite interior angle (without proof). 
+
+(iii) Tangent and Secant Properties: 
+
+•  The tangent at any point of a circle and the radius through the point are perpendicular to each 
+
+other. 
+
+• 
+If two circles touch, the point of contact lies on the straight line joining their centres. 
+•  From any point outside a circle, two tangents can be drawn, and they are equal in length. 
+• 
+
+If two chords intersect internally or externally then the product of the lengths of the segments are 
+equal. 
+
+• 
+
+If a chord and a tangent intersect externally, then the product of the lengths of segments of the 
+chord is equal to the square of the length of the tangent from the point of contact to the point of 
+intersection. 
+
+ICSE Examination Year 2028 
+
+8 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+
+If a line touches a circle and from the point of contact, a chord is drawn, the angles between the 
+tangent  and  the  chord  are  respectively  equal  to  the  angles  in  the  corresponding  alternate 
+segments. 
+
+Note: Proofs of the theorems given above are to be taught unless specified otherwise. 
+
+(iv) Constructions 
+
+(a)  Construction of tangents to a circle from an external point. 
+(b)  Circumscribing and inscribing a circle on a triangle and a regular hexagon.  
+
+4.  Mensuration 
+
+Area and volume of solids – Cylinder, Cone and Sphere. 
+
+Three-dimensional solids - right circular cylinder, right circular cone and sphere: Area (total surface and 
+curved surface) and Volume. Direct application problems including cost, Inner and Outer volume and melting 
+and recasting method to find the volume or surface area of a new solid. Combination of solids included. 
+
+Note:  Problems on Frustum are not included. 
+
+5.  Trigonometry 
+
+(a)  Using Identities to solve/prove simple algebraic trigonometric expressions   
+
+sin2 A + cos2 A = 1 
+1 + tan2 A = sec2A 
+1+cot2A = cosec2A; 0 ≤  A ≤  90°  
+
+(b)  Heights  and  distances:  Solving  2-D  problems  involving  angles  of  elevation  and  depression  using 
+
+trigonometric tables. 
+
+Note: Cases involving more than two right angled triangles excluded. 
+
+6.  Statistics 
+
+Statistics – basic concepts, Mean, Median, Mode. Histograms and Ogive. 
+
+(a)  Computation of: 
+
+•  Measures of Central Tendency: Mean, median, mode for raw and arrayed data. Mean*, median class 
+
+and modal class for grouped data. (both continuous and discontinuous).  
+
+* Mean by all 3 methods included:    
+
+Direct    
+
+:   
+
+Σfx  
+Σf
+
+Short-cut 
+
+: 
+
++
+ A 
+
+Step-deviation: 
+
++
+ A 
+
+Σfd
+Σf
+
+ where
+
+d 
+
+−=
+
+Ax
+
+Σft
+Σf
+
+×
+
+ where
+i
+
+  t
+
+=
+
+−
+Ax
+i
+
+(b)  Graphical Representation. Histograms and Less than Ogive.  
+
+•  Finding the mode from the histogram, the upper quartile, lower Quartile and median etc. from the 
+
+ogive.  
+
+•  Calculation of inter Quartile range. 
+
+7.  Probability 
+
+      Random experiments, Sample space, Events, definition of probability, Simple problems on single events. 
+
+ICSE Examination Year 2028 
+
+9 
+ 
+ 
+ 
+ 
+SI UNITS, SIGNS, SYMBOLS AND ABBREVIATIONS 
+
+(1)  Agreed conventions 
+
+(a)  Units may be written in full or using the agreed symbols, but no other abbreviation may be used. 
+
+(b)  The letter ‘s’ is never added to symbols to indicate the plural form. 
+
+(c)  A full stop is not written after symbols for units unless it occurs at the end of a sentence. 
+
+(d)  When unit symbols are combined as a quotient, e.g., metre per second, it is recommended that it should 
+
+be written as m/s, or as m s-1. 
+
+(e)  Three decimal signs are in common international use: the full point, the mid-point and the comma. Since 
+the full point is sometimes used for multiplication and the comma for spacing digits in large numbers, it 
+is recommended that the mid-point be used for decimals. 
+
+(2)  Names and symbols 
+
+In general 
+Implies that 
+Identically equal to  
+In set language 
+Belongs to 
+is equivalent to 
+union 
+universal set 
+natural (counting) numbers 
+integers 
+
+In measures 
+Kilometre 
+Centimetre 
+Kilogram 
+Litre 
+square kilometre 
+square centimetre 
+cubic metre 
+kilometres per hour 
+
+⇒ 
+ ≡ 
+
+∈ 
+↔ 
+∪ 
+ξ 
+Ν 
+
+Ζ 
+
+km 
+cm 
+kg 
+L 
+km2 
+cm2 
+m3 
+km/h 
+
+is logically equivalent to 
+is approximately equal to 
+
+does not belong to 
+is not equivalent to 
+intersection 
+is contained in 
+the empty set 
+whole numbers 
+real numbers 
+
+Metre 
+Millimetre 
+Gram 
+Centilitre 
+Square meter 
+Hectare 
+Cubic centimetre 
+Metres per second 
+
+⇔ 
+ >> 
+
+∉ 
+↔ 
+∩ 
+⊂ 
+ø 
+W 
+R 
+
+m 
+mm 
+g 
+cL 
+m2 
+ha 
+cm3 
+m/s 
+
+ICSE Examination Year 2028 
+
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The minimum number of assignments: Two assignments as prescribed by the teacher. 
+
+INTERNAL ASSESSMENT 
+
+SUGGESTED ASSIGNMENTS 
+
+•  Comparative newspaper coverage of different items. 
+
+•  Survey of various types of Bank accounts, rates of interest offered. 
+
+•  Planning a home budget. 
+
+•  Conduct a survey in your locality to study the mode of conveyance / Price of various essential commodities / 
+
+favourite sports. Represent the data using a bar graph / histogram and estimate the mode. 
+
+•  To use a newspaper to study and report on shares and dividends. 
+
+•  Set up a dropper with ink in it vertical at a height say 20 cm above a horizontally placed sheet of plain paper.  
+Release one ink drop; observe the pattern, if any, on the paper. Vary the vertical distance and repeat.  Discover 
+any pattern of relationship between the vertical height and the ink drop observed. 
+
+•  You  are  provided  (or  you construct a model  as  shown)  - three  vertical  sticks  (size  of  a  pencil) stuck to a 
+horizontal board.  You should also have discs of varying sizes with holes (like a doughnut).  Start with one 
+disc; place it on (in) stick A.  Transfer it to another stick (B or C); this is one move (m).  Now try with two 
+discs placed in A such that the large disc is below, and the smaller disc is above (number of discs = n=2 now).  
+Now transfer them one at a time in B or C to obtain similar situation (larger disc below).  How many moves?  
+Try with more discs (n = 1, 2, 3, etc.) and generalise. 
+
+    A 
+
+       B 
+
+           C 
+
+•  The  board  has  some  holes  to  hold  marbles,  red  on  one  side  and  blue  on  the  other.    Start  with  one  pair.  
+Interchange the positions by making one move at a time.  A marble can jump over another to fill the hole 
+behind.  The move (m) equal 3.  Try with 2 (n=2) and more.  Find the relationship between n and m. 
+
+Red 
+
+Blue 
+
+•  Take a square sheet of paper of side 10 cm. Four small squares are to be cut from the corners of the square 
+sheet and then the paper folded at the cuts to form an open box.  What should be the size of the squares cut so 
+that the volume of the open box is maximum? 
+
+•  Take an open box, four sets of marbles (ensuring that marbles in each set are of the same size) and some water.   
+By placing the marbles and water in the box, attempt to answer the question: do larger marbles or smaller 
+marbles occupy more volume in a given space? 
+
+•  An eccentric artist says that the best paintings have the same area as their perimeter (numerically).  Let us not 
+argue whether such sizes increase the viewer’s appreciation, but only try and find what sides (in integers only) 
+a rectangle must have if its area and perimeter are to be equal (Note: there are only two such rectangles). 
+
+ICSE Examination Year 2028 
+
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+•  Find by construction the centre of a circle, using only a 60-30 setsquare and a pencil. 
+
+•  Various types of “cryptarithm”. 
+
+EVALUATION 
+
+The  assignments/project  work  are  to  be  evaluated  by  the  subject  teacher  and  by  an  External  Examiner.  (The 
+External Examiner may be a teacher nominated by the Head of the school, who could be from the faculty, but not 
+teaching the subject in the section/class. For example, a teacher of Mathematics of Class VIII may be deputed 
+to be an External Examiner for Class X, Mathematics projects.) 
+
+The Internal Examiner and the External Examiner will assess the assignments independently. 
+
+Award of Marks  
+
+     (20 Marks) 
+
+Subject Teacher (Internal Examiner) 
+
+ 10 marks 
+
+External Examiner  
+
+ 10 marks 
+
+The total marks obtained out of 20 are to be sent to CISCE by the Head of the school. 
+
+The Head of the school will be responsible for the online entry of marks on CISCE’s CAREERS portal by the due 
+date. 
+
+ICSE Examination Year 2028 
+
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTERNAL ASSESSMENT IN MATHEMATICS - GUIDELINES FOR MARKING WITH GRADES 
+
+Criteria 
+
+Preparation 
+
+Concepts 
+
+Computation 
+
+Presentation 
+
+Understanding 
+
+Marks 
+
+Grade I 
+
+and 
+Exhibits 
+selects 
+a  well-
+defined problem. 
+Appropriate use of 
+techniques. 
+
+Grade II 
+
+Exhibits 
+selects 
+approach. 
+Fairly 
+techniques. 
+
+and 
+routine 
+
+good 
+
+use 
+
+of 
+Admirable 
+mathematical 
+concepts 
+and methods and exhibits 
+using 
+competency 
+extensive 
+of 
+mathematical techniques. 
+
+in 
+range 
+
+Appropriate 
+use 
+of 
+concepts 
+mathematical 
+and  methods  and  shows 
+adequate  competency  in 
+using  limited  range  of 
+techniques. 
+
+Careful and accurate 
+work 
+with 
+appropriate 
+computation, 
+construction 
+and 
+measurement  with 
+correct units. 
+Commits  negligible 
+in 
+errors 
+computation, 
+construction 
+measurement. 
+
+and 
+
+Grade III 
+
+and 
+trivial 
+
+Exhibits 
+selects 
+problems. 
+Satisfactory 
+techniques. 
+
+appropriate 
+Uses 
+mathematical 
+concepts 
+and shows competency in 
+using  limited  range  of 
+techniques. 
+
+a 
+
+Commits 
+errors 
+computation, 
+construction 
+measurement. 
+
+few 
+in 
+
+and 
+
+stated 
+Presents  well 
+conclusions; 
+uses 
+effective  mathematical 
+symbols, 
+language, 
+conventions, 
+tables, 
+diagrams, graphs, etc. 
+
+statements 
+
+of 
+uses 
+math 
+
+Some 
+conclusions; 
+appropriate 
+language,  
+symbols, 
+conventions, 
+tables,  diagrams,  graphs, 
+etc. 
+Assignment 
+is 
+presentable  though  it  is 
+some 
+disorganized 
+places. 
+
+in 
+
+and 
+an 
+
+Uses 
+mathematical 
+for the assignment. 
+
+inappropriate 
+concepts 
+
+Commits 
+mistakes 
+computation, 
+construction 
+measurement. 
+
+many 
+in 
+
+and 
+
+is 
+Presentation  made 
+somewhat  disorganized 
+and untidy. 
+
+4 marks for 
+each criterion 
+
+3 marks for 
+each criterion 
+
+2 marks for 
+each criterion 
+
+1 mark for 
+each criterion 
+
+Shows 
+strong  personal 
+contribution;  demonstrate 
+and 
+knowledge 
+of 
+understanding 
+assignment  and  can  apply 
+the 
+in  different 
+same 
+situations. 
+Neat with average amount 
+of help; assignment shows 
+learning  of  mathematics 
+with a limited ability to use 
+it. 
+
+Lack of ability to conclude 
+without  help;  shows  some 
+learning  of  mathematics 
+with a limited ability to use 
+it. 
+
+Lack of ability to conclude 
+even  with  considerable 
+assignment 
+help; 
+contributes 
+to 
+mathematical learning to a 
+certain extent. 
+
+able 
+
+Not 
+mathematical concepts. 
+
+to 
+
+use 
+
+Inaccurate 
+computation, 
+construction 
+measurement. 
+
+Presentation  made 
+is 
+completely  disorganized, 
+untidy and poor. 
+
+and 
+
+does 
+
+Assignment 
+not 
+contribute to mathematical 
+learning and lacks practical 
+applicability. 
+
+0 mark 
+
+Grade IV 
+
+Grade V 
+
+Exhibits 
+selects 
+insignificant 
+problem. 
+Uses 
+unsuitable 
+techniques. 
+
+Exhibits 
+selects 
+completely 
+irrelevant 
+problem. 
+Uses 
+techniques. 
+
+some 
+
+and 
+a 
+
+unsuitable 
+
+ICSE Examination Year 2028 
+
+13 
+ 
+ 
+
