@@ -22,10 +22,20 @@ export type ActionState = { error: string } | null;
 
 /**
  * After any admin mutation, revalidate the SSG public pages for the affected
- * subject so students immediately see the updated omission state.
+ * subject.
  *
- * Uses `'layout'` type so Next.js invalidates the subject page AND all
- * chapter pages nested underneath it in one call.
+ * ⚠️  Architecture note: the public chapter/subject pages currently read their
+ * topic data from the JSON files under /data/omissions/, NOT from the database.
+ * This means that admin edits to `omissions.status` or soft-deletes are stored
+ * in the database but NOT immediately reflected on public pages — the pages
+ * re-render from the same JSON data after cache invalidation.
+ *
+ * To make admin edits visible to students without a full redeploy, the data
+ * layer in src/lib/data.ts needs to be extended to merge JSON data with any
+ * database overrides (Phase 6 / future work).
+ *
+ * This function is kept here so the plumbing is in place and `revalidatePath`
+ * runs correctly once that data-layer merge is implemented.
  */
 async function revalidatePublicPages(
   db: ReturnType<typeof createAdminClient>,
