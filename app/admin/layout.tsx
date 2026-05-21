@@ -2,11 +2,15 @@
  * Admin layout — checks that the current user has role = 'admin'.
  * Non-admins are redirected: unauthenticated → /auth/login, wrong role → /.
  */
+import type { Metadata } from "next";
 import Link from "next/link";
 import { redirect } from "next/navigation";
 import { createClient } from "@/lib/supabase/server";
 
-export const metadata = { title: "Admin | ICSE Syllabus" };
+export const metadata: Metadata = {
+  title: "Admin | ICSE Syllabus",
+  robots: { index: false, follow: false },
+};
 
 export default async function AdminLayout({
   children,

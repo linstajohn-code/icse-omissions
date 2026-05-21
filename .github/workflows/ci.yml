@@ -32,10 +32,14 @@ jobs:
       - name: Build
         run: pnpm build
         env:
-          # Provide stub values so the build completes without a live Supabase.
-          # Public pages read from JSON files; only auth/admin routes need these.
+          # Stub values so the build completes without a live Supabase.
+          # Public pages read from JSON files; auth/admin routes are all
+          # dynamic (ƒ) so they're never pre-rendered during pnpm build.
           NEXT_PUBLIC_SUPABASE_URL: https://placeholder.supabase.co
           NEXT_PUBLIC_SUPABASE_ANON_KEY: placeholder-anon-key
+          # Service-role stub prevents createAdminClient() from throwing if
+          # Next.js resolves the module during build-trace collection.
+          SUPABASE_SERVICE_ROLE_KEY: placeholder-service-role-key
           NEXT_PUBLIC_BASE_URL: https://icse-syllabus.vercel.app
 
   lint:
