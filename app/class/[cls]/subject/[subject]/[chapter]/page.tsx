@@ -43,8 +43,17 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const icseClass = parseClass(cls);
   const result = getChapterDetail(icseClass, subject, chapter);
   if (!result) return {};
+  const subjectName = getSubjectMeta(subject)?.name ?? subject;
+  const omittedCount = result.chapter.topics.filter((t) => t.status === "omitted").length;
+  const partialCount = result.chapter.topics.filter((t) => t.status === "partial").length;
+  const totalTopics = result.chapter.topics.length;
+  const omissionNote =
+    omittedCount + partialCount > 0
+      ? ` ${omittedCount + partialCount} of ${totalTopics} topics omitted or reduced for 2027-28.`
+      : ` All ${totalTopics} topics included for 2027-28.`;
   return {
-    title: `${result.chapter.name} — ${getSubjectMeta(subject)?.name ?? subject} Class ${icseClass}`,
+    title: `${result.chapter.name} — ${subjectName} Class ${icseClass}`,
+    description: `ICSE Class ${icseClass} ${subjectName} — ${result.chapter.name}.${omissionNote} Every entry cites the official CISCE PDF page.`,
   };
 }
 

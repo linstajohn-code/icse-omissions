@@ -30,8 +30,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { cls, subject } = await params;
   const icseClass = parseClass(cls);
   const meta = getSubjectMeta(subject);
+  const name = meta?.name ?? subject;
+  const result = getSubjectChapters(icseClass, subject);
+  const totalTopics = result?.subject.entries.length ?? 0;
+  const omittedCount = result?.subject.entries.filter((e) => e.status === "omitted").length ?? 0;
   return {
-    title: `${meta?.name ?? subject} — Class ${icseClass}`,
+    title: `${name} — Class ${icseClass}`,
+    description: `ICSE Class ${icseClass} ${name} syllabus for 2027-28. ${totalTopics} topics across ${result?.chapters.length ?? 0} chapters${omittedCount > 0 ? `, ${omittedCount} omitted` : ""}. Every omission cites the official CISCE PDF.`,
   };
 }
 
