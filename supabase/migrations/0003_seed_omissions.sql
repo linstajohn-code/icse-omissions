@@ -1,0 +1,13 @@
+-- ============================================================
+-- 0003_seed_omissions.sql
+-- Seeds chapters, topics, and omissions from the ingested JSON files.
+-- Run via the seed script: pnpm db:seed
+-- (This file is a placeholder — the actual seed runs in Node.js
+--  via scripts/seed-db.ts which reads data/omissions/**/*.json
+--  and calls the Supabase admin API. See Phase 3 setup.)
+-- ============================================================
+
+-- This migration is intentionally empty.
+-- The JSON → Postgres seed is performed by scripts/seed-db.ts
+-- which requires SUPABASE_SERVICE_ROLE_KEY (set in .env.local).
+-- Run: pnpm db:seed
