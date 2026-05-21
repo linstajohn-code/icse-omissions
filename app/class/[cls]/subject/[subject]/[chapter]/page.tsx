@@ -179,7 +179,8 @@ export default async function ChapterPage({ params }: Props) {
           return (
             <li
               key={topic.topic}
-              className={`rounded-lg border p-4 ${CARD_CLASS[status]}`}
+              id={`topic-${topic.topic_order}`}
+              className={`rounded-lg border p-4 scroll-mt-20 ${CARD_CLASS[status]}`}
             >
               <div className="flex items-start gap-3">
                 <span

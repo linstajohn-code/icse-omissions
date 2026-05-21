@@ -206,6 +206,67 @@ test.describe("Student A vs Student B isolation", () => {
   });
 });
 
+test.describe("Notes isolation", () => {
+  test("unauthenticated user cannot write notes (401)", async ({ request }) => {
+    const res = await request.put("/api/notes", {
+      data: { key: "9/mathematics/1/1", notes_md: "HACKED" },
+    });
+    expect(res.status()).toBe(401);
+  });
+
+  test("Student A note is invisible to Student B", async ({ browser }) => {
+    const admin = adminClient();
+    const userAId = await getUserId(getEnv("E2E_USER_A_EMAIL"));
+
+    // Write a note for User A via service role (bypasses RLS — test setup only)
+    await admin
+      .from("notes")
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      .upsert({ user_id: userAId, topic_id: sharedTopicId, body_md: "User A secret note" } as any, {
+        onConflict: "user_id,topic_id",
+      });
+
+    // Sign in as User B and try to read the note via the app API
+    const pageB = await browser.newPage();
+    await signInViaPage(pageB, getEnv("E2E_USER_B_EMAIL"), getEnv("E2E_USER_B_PASSWORD"));
+
+    const res = await pageB.request.get("/api/notes?keys=9/mathematics/1/1");
+    const body = (await res.json()) as { notes: Record<string, string> };
+    // User B should not see User A's note
+    expect(body.notes["9/mathematics/1/1"]).toBeUndefined();
+
+    // Cleanup
+    await admin
+      .from("notes")
+      .delete()
+      .eq("user_id", userAId)
+      .eq("topic_id", sharedTopicId);
+    await pageB.close();
+  });
+
+  test("Student A can write and read their own note", async ({ browser }) => {
+    const pageA = await browser.newPage();
+    await signInViaPage(pageA, getEnv("E2E_USER_A_EMAIL"), getEnv("E2E_USER_A_PASSWORD"));
+
+    // Write a note
+    const putRes = await pageA.request.put("/api/notes", {
+      data: { key: "9/mathematics/1/1", notes_md: "My own note" },
+    });
+    expect(putRes.status()).toBe(200);
+
+    // Read it back
+    const getRes = await pageA.request.get("/api/notes?keys=9/mathematics/1/1");
+    const body = (await getRes.json()) as { notes: Record<string, string> };
+    expect(body.notes["9/mathematics/1/1"]).toBe("My own note");
+
+    // Cleanup: delete by writing empty string
+    await pageA.request.put("/api/notes", {
+      data: { key: "9/mathematics/1/1", notes_md: "" },
+    });
+    await pageA.close();
+  });
+});
+
 test.describe("Student cannot mutate omissions", () => {
   test("direct REST INSERT on omissions is rejected by RLS", async ({ browser }) => {
     const pageA = await browser.newPage();

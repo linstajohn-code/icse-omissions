@@ -123,7 +123,7 @@ export default async function SearchPage({ searchParams }: Props) {
                 return (
                   <li key={i}>
                     <Link
-                      href={`/class/${entry.icseClass}/subject/${entry.subjectSlug}/${chapterToSlug(entry.chapter)}`}
+                      href={`/class/${entry.icseClass}/subject/${entry.subjectSlug}/${chapterToSlug(entry.chapter)}#topic-${entry.topic_order}`}
                       className={`block rounded-lg border p-4 hover:shadow-sm transition-all group ${
                         isRemoved
                           ? "border-dashed hover:border-red-400/60 dark:hover:border-red-700/60"
