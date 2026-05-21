@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { listSubjectSummaries } from "@/lib/data";
 import { SubjectCard } from "@/components/subject-card";
 import { ClassToggle } from "@/components/class-toggle";
+import { ExamCountdown } from "@/components/exam-countdown";
 
 interface Props {
   params: Promise<{ cls: string }>;
@@ -28,6 +29,9 @@ export default async function ClassPage({ params }: Props) {
   const icseClass = parseClass(cls);
   const subjects = listSubjectSummaries(icseClass);
 
+  const totalOmitted = subjects.reduce((n, s) => n + s.omittedCount, 0);
+  const totalPartial = subjects.reduce((n, s) => n + s.partialCount, 0);
+
   const groups = [
     { label: "Group I — Core", subjects: subjects.filter((s) => s.group === "I") },
     { label: "Group II — Electives", subjects: subjects.filter((s) => s.group === "II") },
@@ -36,14 +40,31 @@ export default async function ClassPage({ params }: Props) {
 
   return (
     <div>
-      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-8">
+      <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
         <div>
-          <h1 className="text-2xl font-bold tracking-tight">ICSE Syllabus 2027-28</h1>
+          <h1 className="text-2xl font-bold tracking-tight">
+            Class {icseClass} — ICSE 2027-28
+          </h1>
           <p className="text-muted-foreground text-sm mt-1">
-            {subjects.reduce((n, s) => n + s.entryCount, 0)} topics across {subjects.length} subjects
+            {subjects.length} subjects ·{" "}
+            <span className="text-destructive font-medium">
+              {totalOmitted} omitted
+            </span>
+            {totalPartial > 0 && (
+              <>
+                {" · "}
+                <span className="text-amber-600 dark:text-amber-400 font-medium">
+                  {totalPartial} partial
+                </span>
+              </>
+            )}
           </p>
         </div>
         <ClassToggle activeClass={icseClass} />
+      </div>
+
+      <div className="mb-8">
+        <ExamCountdown />
       </div>
 
       <div className="space-y-8">

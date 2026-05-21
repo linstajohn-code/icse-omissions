@@ -18,6 +18,10 @@ function readJson(icseClass: 9 | 10, slug: string): SubjectOmissionsFile | null 
 export interface SubjectSummary extends SubjectMeta {
   entryCount: number;
   chapterCount: number;
+  /** Topics fully omitted from the 2027-28 syllabus */
+  omittedCount: number;
+  /** Topics partially omitted (sub-section removed) */
+  partialCount: number;
 }
 
 export function listSubjectSummaries(icseClass: 9 | 10): SubjectSummary[] {
@@ -25,7 +29,17 @@ export function listSubjectSummaries(icseClass: 9 | 10): SubjectSummary[] {
     const data = readJson(icseClass, meta.slug);
     if (!data) return [];
     const chapters = new Set(data.entries.map((e) => e.chapter));
-    return [{ ...meta, entryCount: data.entries.length, chapterCount: chapters.size }];
+    const omittedCount = data.entries.filter((e) => e.status === "omitted").length;
+    const partialCount = data.entries.filter((e) => e.status === "partial").length;
+    return [
+      {
+        ...meta,
+        entryCount: data.entries.length,
+        chapterCount: chapters.size,
+        omittedCount,
+        partialCount,
+      },
+    ];
   });
 }
 
