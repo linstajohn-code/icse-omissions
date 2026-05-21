@@ -77,10 +77,13 @@ export function getChapterDetail(
 ): { chapter: ChapterWithTopics; subject: SubjectOmissionsFile } | null {
   const result = getSubjectChapters(icseClass, slug);
   if (!result) return null;
+  // Reverse of chapterToSlug: decode URI component then replace hyphens with spaces.
+  // Matching is exact (not case-folded) because chapterToSlug preserves case,
+  // which is necessary to distinguish chapters whose names differ only in
+  // capitalisation (e.g. Physical Education has "Fundamental skills and technique"
+  // and "Fundamental Skills and Technique" as distinct chapters).
   const chapterName = decodeURIComponent(chapterSlug).replace(/-/g, " ");
-  const chapter = result.chapters.find(
-    (c) => c.name.toLowerCase() === chapterName.toLowerCase()
-  );
+  const chapter = result.chapters.find((c) => c.name === chapterName);
   if (!chapter) return null;
   return { chapter, subject: result.subject };
 }

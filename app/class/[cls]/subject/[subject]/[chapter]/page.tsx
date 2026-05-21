@@ -20,7 +20,8 @@ export function generateStaticParams() {
         params.push({
           cls,
           subject: s.slug,
-          chapter: ch.name.toLowerCase().replace(/\s+/g, "-"),
+          // Case is preserved to match chapterToSlug (see src/lib/utils.ts)
+          chapter: ch.name.replace(/\s+/g, "-"),
         });
       }
     }

@@ -32,7 +32,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
         if (!result) return [];
         return result.chapters.map((ch) => ({
           url: `${BASE}/class/${cls}/subject/${s.slug}/${encodeURIComponent(
-            ch.name.toLowerCase().replace(/\s+/g, "-")
+            ch.name.replace(/\s+/g, "-")
           )}`,
           lastModified: now,
           changeFrequency: "monthly" as const,
