@@ -1,7 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { ChevronRight } from "lucide-react";
+import { ChevronRight, Printer } from "lucide-react";
 import { getSubjectChapters } from "@/lib/data";
 import { getSubjectMeta } from "@/lib/subjects";
 import { chapterToSlug } from "@/lib/utils";
@@ -45,11 +45,21 @@ export default async function SubjectPage({ params }: Props) {
         <span className="text-foreground font-medium">{meta?.name ?? subject.subject_name}</span>
       </nav>
 
-      <div className="mb-6">
-        <h1 className="text-2xl font-bold tracking-tight">{meta?.name ?? subject.subject_name}</h1>
-        <p className="text-muted-foreground text-sm mt-1">
-          Class {icseClass} · {chapters.length} chapters · {subject.entries.length} topics
-        </p>
+      <div className="mb-6 flex items-start justify-between gap-3 flex-wrap">
+        <div>
+          <h1 className="text-2xl font-bold tracking-tight">{meta?.name ?? subject.subject_name}</h1>
+          <p className="text-muted-foreground text-sm mt-1">
+            Class {icseClass} · {chapters.length} chapters · {subject.entries.length} topics
+          </p>
+        </div>
+        <Link
+          href={`/class/${icseClass}/subject/${subjectSlug}/print`}
+          className="flex items-center gap-1.5 rounded-md border px-3 py-1.5 text-xs font-medium text-muted-foreground hover:text-foreground hover:bg-accent transition-colors shrink-0"
+          aria-label="Open printable revision checklist for this subject"
+        >
+          <Printer className="h-3.5 w-3.5" aria-hidden />
+          Print checklist
+        </Link>
       </div>
 
       <div className="space-y-4">
