@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { BookOpen } from "lucide-react";
 import type { SubjectSummary } from "@/lib/data";
 
 interface SubjectCardProps {
@@ -13,44 +12,45 @@ export function SubjectCard({ subject, icseClass }: SubjectCardProps) {
   return (
     <Link
       href={`/class/${icseClass}/subject/${subject.slug}`}
-      className="group block rounded-lg border border-border bg-card p-4 shadow-sm hover:shadow-md hover:border-primary/40 transition-all"
+      className="group block glass-card rounded-lg p-5 hover:border-primary/30 transition-all duration-500"
     >
-      <div className="flex items-start justify-between gap-2">
-        <div className="flex items-center gap-2 min-w-0">
-          <BookOpen
-            className="h-4 w-4 shrink-0 text-muted-foreground group-hover:text-primary transition-colors"
-            aria-hidden
-          />
-          <h2 className="font-medium text-card-foreground text-sm truncate group-hover:text-primary transition-colors">
-            {subject.name}
-          </h2>
-        </div>
-        <span className="shrink-0 text-xs text-muted-foreground">
-          Gr {subject.group}
+      {/* Group label + subject name */}
+      <div className="min-w-0">
+        <span className="text-[9px] tracking-[0.3em] uppercase text-muted-foreground/40 font-light">
+          Group {subject.group}
         </span>
+        <h2 className="font-display text-base font-light mt-0.5 text-card-foreground group-hover:text-primary transition-colors duration-300 leading-tight">
+          {subject.name}
+        </h2>
       </div>
 
+      {/* Status indicators — border-only, editorial */}
       <div className="mt-3 flex items-center gap-2 flex-wrap">
         {subject.omittedCount > 0 && (
-          <span className="inline-flex items-center gap-1 rounded-full bg-destructive/10 text-destructive px-2 py-0.5 text-xs font-medium">
-            <span aria-hidden className="text-[10px]">✕</span>
+          <span
+            className="inline-flex items-center rounded border border-destructive/25 text-destructive/80 px-2 py-0.5 text-[10px] tracking-wider font-light"
+            aria-label={`${subject.omittedCount} topics omitted`}
+          >
             {subject.omittedCount} omitted
           </span>
         )}
         {subject.partialCount > 0 && (
-          <span className="inline-flex items-center gap-1 rounded-full bg-amber-500/10 text-amber-700 dark:text-amber-400 px-2 py-0.5 text-xs font-medium">
-            <span aria-hidden className="text-[10px]">◐</span>
+          <span
+            className="inline-flex items-center rounded border border-amber-500/25 text-amber-700/80 dark:text-amber-400/70 px-2 py-0.5 text-[10px] tracking-wider font-light"
+            aria-label={`${subject.partialCount} topics partial`}
+          >
             {subject.partialCount} partial
           </span>
         )}
         {!hasRemovals && (
-          <span className="inline-flex items-center gap-1 rounded-full bg-green-500/10 text-green-700 dark:text-green-400 px-2 py-0.5 text-xs font-medium">
+          <span className="inline-flex items-center rounded border border-border/40 text-muted-foreground/40 px-2 py-0.5 text-[10px] tracking-wider font-light">
             Full syllabus
           </span>
         )}
       </div>
 
-      <div className="mt-2 text-xs text-muted-foreground">
+      {/* Topic count */}
+      <div className="mt-3 text-[10px] text-muted-foreground/40 tracking-wide font-light">
         {subject.chapterCount} chapters · {subject.entryCount} topics
       </div>
     </Link>
